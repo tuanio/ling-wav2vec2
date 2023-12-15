@@ -1,0 +1,267 @@
+Checkpoint: w2v2_ablation_with_ling_head-best_on_tp0.025_tl10_fp0.001_fl16 (without dropout on lm_head)
+[public_test] PER: 0.1647
+[private_test] PER: 0.2075
+** MD&D for [public_test] **
+Correct Rate: 0.9529
+Accuracy: 0.8353
+Recall: 0.6647
+Precision: 0.3945
+f1-score: 0.4951
+True Acception: 0.9700 | 11317
+False Rejection: 0.0300 | 350
+False Acceptance: 0.3353 | 115
+Correct Diagnosis: 0.5263 | 120
+Error Diagnosis: 0.4737 | 108
+False Acceptance Rate: 0.3353
+False Rejection Rate: 0.0300
+Diagnosis Error Rate: 0.4737
+Detection Accuracy: 0.9613
+
+
+** MD&D for [private_test] **
+Correct Rate: 0.9127
+Accuracy: 0.7925
+Recall: 0.7268
+Precision: 0.5062
+f1-score: 0.5968
+True Acception: 0.9423 | 12964
+False Rejection: 0.0577 | 794
+False Acceptance: 0.2732 | 306
+Correct Diagnosis: 0.6708 | 546
+Error Diagnosis: 0.3292 | 268
+False Acceptance Rate: 0.2732
+False Rejection Rate: 0.0577
+Diagnosis Error Rate: 0.3292
+Detection Accuracy: 0.9261
+
+
+================
+Checkpoint: w2v2_ablation_with_ling_head-best_on_tp0.025_tl10_fp0.001_fl16 (dropout 0.1 on lm_head) -> load best model on PER
+[public_test] PER: 0.0798
+[private_test] PER: 0.1324
+** MD&D for [public_test] **
+Correct Rate: 0.9547
+Accuracy: 0.9202
+Recall: 0.4869
+Precision: 0.3568
+f1-score: 0.4118
+True Acception: 0.9742 | 11366
+False Rejection: 0.0258 | 301
+False Acceptance: 0.5131 | 176
+Correct Diagnosis: 0.5629 | 94
+Error Diagnosis: 0.4371 | 73
+False Acceptance Rate: 0.5131
+False Rejection Rate: 0.0258
+Diagnosis Error Rate: 0.4371
+Detection Accuracy: 0.9603
+
+
+** MD&D for [private_test] **
+Correct Rate: 0.9126
+Accuracy: 0.8676
+Recall: 0.6286
+Precision: 0.4927
+f1-score: 0.5524
+True Acception: 0.9473 | 13033
+False Rejection: 0.0527 | 725
+False Acceptance: 0.3714 | 416
+Correct Diagnosis: 0.6989 | 492
+Error Diagnosis: 0.3011 | 212
+False Acceptance Rate: 0.3714
+False Rejection Rate: 0.0527
+Diagnosis Error Rate: 0.3011
+Detection Accuracy: 0.9233
+
+
+================
+Checkpoint: w2v2_ablation_with_ling_head-drop0.1-not-load-best-wer-best_on_tp0.025_tl10_fp0.001_fl16
+[public_test] PER: 0.0909
+[private_test] PER: 0.1454
+** MD&D for [public_test] **
+Correct Rate: 0.957
+Accuracy: 0.9091
+Recall: 0.4402
+Precision: 0.3604
+f1-score: 0.3963
+True Acception: 0.9770 | 11399
+False Rejection: 0.0230 | 268
+False Acceptance: 0.5598 | 192
+Correct Diagnosis: 0.5762 | 87
+Error Diagnosis: 0.4238 | 64
+False Acceptance Rate: 0.5598
+False Rejection Rate: 0.0230
+Diagnosis Error Rate: 0.4238
+Detection Accuracy: 0.9617
+
+
+** MD&D for [private_test] **
+Correct Rate: 0.9169
+Accuracy: 0.8545
+Recall: 0.6134
+Precision: 0.5131
+f1-score: 0.5588
+True Acception: 0.9526 | 13106
+False Rejection: 0.0474 | 652
+False Acceptance: 0.3866 | 433
+Correct Diagnosis: 0.6798 | 467
+Error Diagnosis: 0.3202 | 220
+False Acceptance Rate: 0.3866
+False Rejection Rate: 0.0474
+Diagnosis Error Rate: 0.3202
+Detection Accuracy: 0.9271
+
+
+================
+Checkpoint: w2v2_ablation_with_ling_head-drop0.05-not-load-best-wer-best_on_tp0.025_tl10_fp0.001_fl16
+[public_test] PER: 0.0925
+[private_test] PER: 0.1427
+** MD&D for [public_test] **
+Correct Rate: 0.956
+Accuracy: 0.9075
+Recall: 0.4606
+Precision: 0.3575
+f1-score: 0.4025
+True Acception: 0.9757 | 11383
+False Rejection: 0.0243 | 284
+False Acceptance: 0.5394 | 185
+Correct Diagnosis: 0.5759 | 91
+Error Diagnosis: 0.4241 | 67
+False Acceptance Rate: 0.5394
+False Rejection Rate: 0.0243
+Diagnosis Error Rate: 0.4241
+Detection Accuracy: 0.9609
+
+
+** MD&D for [private_test] **
+Correct Rate: 0.9185
+Accuracy: 0.8573
+Recall: 0.6196
+Precision: 0.5195
+f1-score: 0.5651
+True Acception: 0.9533 | 13116
+False Rejection: 0.0467 | 642
+False Acceptance: 0.3804 | 426
+Correct Diagnosis: 0.7133 | 495
+Error Diagnosis: 0.2867 | 199
+False Acceptance Rate: 0.3804
+False Rejection Rate: 0.0467
+Diagnosis Error Rate: 0.2867
+Detection Accuracy: 0.9282
+
+
+================
+Checkpoint: w2v2_ablation_with_ling_head-0drop-load-best-per-best_on_tp0.025_tl10_fp0.001_fl16
+[public_test] PER: 0.1718
+[private_test] PER: 0.2254
+** MD&D for [public_test] **
+Correct Rate: 0.9464
+Accuracy: 0.8282
+Recall: 0.6152
+Precision: 0.3381
+f1-score: 0.4364
+True Acception: 0.9646 | 11254
+False Rejection: 0.0354 | 413
+False Acceptance: 0.3848 | 132
+Correct Diagnosis: 0.4787 | 101
+Error Diagnosis: 0.5213 | 110
+False Acceptance Rate: 0.3848
+False Rejection Rate: 0.0354
+Diagnosis Error Rate: 0.5213
+Detection Accuracy: 0.9546
+
+
+** MD&D for [private_test] **
+Correct Rate: 0.9019
+Accuracy: 0.7746
+Recall: 0.7357
+Precision: 0.4666
+f1-score: 0.5710
+True Acception: 0.9315 | 12816
+False Rejection: 0.0685 | 942
+False Acceptance: 0.2643 | 296
+Correct Diagnosis: 0.6578 | 542
+Error Diagnosis: 0.3422 | 282
+False Acceptance Rate: 0.2643
+False Rejection Rate: 0.0685
+Diagnosis Error Rate: 0.3422
+Detection Accuracy: 0.9168
+
+
+================
+Checkpoint: w2v2_ablation_200epoch-with_ling_head-0drop-0load_best-best_on_tp0.025_tl10_fp0.001_fl16
+[public_test] PER: 0.1539
+[private_test] PER: 0.2094
+** MD&D for [public_test] **
+Correct Rate: 0.9579
+Accuracy: 0.8461
+Recall: 0.4985
+Precision: 0.4043
+f1-score: 0.4465
+True Acception: 0.9784 | 11415
+False Rejection: 0.0216 | 252
+False Acceptance: 0.5015 | 172
+Correct Diagnosis: 0.4561 | 78
+Error Diagnosis: 0.5439 | 93
+False Acceptance Rate: 0.5015
+False Rejection Rate: 0.0216
+Diagnosis Error Rate: 0.5439
+Detection Accuracy: 0.9647
+
+
+** MD&D for [private_test] **
+Correct Rate: 0.9194
+Accuracy: 0.7905
+Recall: 0.6420
+Precision: 0.5346
+f1-score: 0.5834
+True Acception: 0.9545 | 13132
+False Rejection: 0.0455 | 626
+False Acceptance: 0.3580 | 401
+Correct Diagnosis: 0.6259 | 450
+Error Diagnosis: 0.3741 | 269
+False Acceptance Rate: 0.3580
+False Rejection Rate: 0.0455
+Diagnosis Error Rate: 0.3741
+Detection Accuracy: 0.9310
+
+
+================
+Checkpoint: w2v2_ablation_200epoch-with_ling_head-0.1drop-0load_best-best_on_tp0.025_tl10_fp0.001_fl16
+[public_test] PER: 0.0805
+[private_test] PER: 0.136
+** MD&D for [public_test] **
+Correct Rate: 0.9621
+Accuracy: 0.9195
+Recall: 0.4052
+Precision: 0.4149
+f1-score: 0.4100
+True Acception: 0.9832 | 11471
+False Rejection: 0.0168 | 196
+False Acceptance: 0.5948 | 204
+Correct Diagnosis: 0.5324 | 74
+Error Diagnosis: 0.4676 | 65
+False Acceptance Rate: 0.5948
+False Rejection Rate: 0.0168
+Diagnosis Error Rate: 0.4676
+Detection Accuracy: 0.9667
+
+
+** MD&D for [private_test] **
+Correct Rate: 0.9224
+Accuracy: 0.864
+Recall: 0.5732
+Precision: 0.5445
+f1-score: 0.5585
+True Acception: 0.9610 | 13221
+False Rejection: 0.0390 | 537
+False Acceptance: 0.4268 | 478
+Correct Diagnosis: 0.6480 | 416
+Error Diagnosis: 0.3520 | 226
+False Acceptance Rate: 0.4268
+False Rejection Rate: 0.0390
+Diagnosis Error Rate: 0.3520
+Detection Accuracy: 0.9318
+
+
+================
+

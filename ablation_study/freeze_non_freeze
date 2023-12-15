@@ -1,0 +1,74 @@
+Checkpoint: w2v2_ablation_non_freeze_no_spec_augment
+[public_test] PER: 0.1436
+[private_test] PER: 0.2237
+** MD&D for [public_test] **
+Correct Rate: 0.9134
+Accuracy: 0.8564
+Recall: 0.8309
+Precision: 0.2485
+f1-score: 0.3826
+True Acception: 0.9261 | 10805
+False Rejection: 0.0739 | 862
+False Acceptance: 0.1691 | 58
+Correct Diagnosis: 0.5544 | 158
+Error Diagnosis: 0.4456 | 127
+False Acceptance Rate: 0.1691
+False Rejection Rate: 0.0739
+Diagnosis Error Rate: 0.4456
+Detection Accuracy: 0.9234
+
+
+** MD&D for [private_test] **
+Correct Rate: 0.8464
+Accuracy: 0.7763
+Recall: 0.8750
+Precision: 0.3459
+f1-score: 0.4958
+True Acception: 0.8653 | 11905
+False Rejection: 0.1347 | 1853
+False Acceptance: 0.1250 | 140
+Correct Diagnosis: 0.6776 | 664
+Error Diagnosis: 0.3224 | 316
+False Acceptance Rate: 0.1250
+False Rejection Rate: 0.1347
+Diagnosis Error Rate: 0.3224
+Detection Accuracy: 0.8660
+
+
+================
+Checkpoint: w2v2_ablation_freeze_no_spec_augment
+[public_test] PER: 0.1547
+[private_test] PER: 0.231
+** MD&D for [public_test] **
+Correct Rate: 0.9032
+Accuracy: 0.8453
+Recall: 0.8659
+Precision: 0.2339
+f1-score: 0.3683
+True Acception: 0.9166 | 10694
+False Rejection: 0.0834 | 973
+False Acceptance: 0.1341 | 46
+Correct Diagnosis: 0.5017 | 149
+Error Diagnosis: 0.4983 | 148
+False Acceptance Rate: 0.1341
+False Rejection Rate: 0.0834
+Diagnosis Error Rate: 0.4983
+Detection Accuracy: 0.9152
+
+
+Recall: 0.8774
+Precision: 0.3067
+f1-score: 0.4545
+True Acception: 0.8698 | 11024
+False Rejection: 0.1302 | 1650
+False Acceptance: 0.1226 | 102
+Correct Diagnosis: 0.6205 | 453
+Error Diagnosis: 0.3795 | 277
+False Acceptance Rate: 0.1226
+False Rejection Rate: 0.1302
+Diagnosis Error Rate: 0.3795
+Detection Accuracy: 0.8703
+
+
+================
+

@@ -1,0 +1,881 @@
+id,path,predict
+vao-nui_1618754903173,/audio_data/private_test/vao-nui_1618754903173.wav,v aː-1 uz n w i-4
+vao-nui_1618754909868,/audio_data/private_test/vao-nui_1618754909868.wav,v aː-1 uz n w w i-4
+vao-nui_1618754916454,/audio_data/private_test/vao-nui_1618754916454.wav,v aː-1 uz n w w i-4
+vao-nui_1618754929889,/audio_data/private_test/vao-nui_1618754929889.wav,v aː-1 uz n w w i-4
+cot-buon_1618735828686,/audio_data/private_test/cot-buon_1618735828686.wav,k o-4 tz ɓ w w o-4 nz
+cot-buon_1618735839686,/audio_data/private_test/cot-buon_1618735839686.wav,k o-4 tz ɓ w w o-0 nz
+cot-buon_1618735849090,/audio_data/private_test/cot-buon_1618735849090.wav,k o-4 tz ɓ w w o-4 nz
+cot-buon_1618735858469,/audio_data/private_test/cot-buon_1618735858469.wav,k o-4 tz ɓ w w o-4 nz
+cot-buon_1618735867317,/audio_data/private_test/cot-buon_1618735867317.wav,k o-4 tz ɓ w w o-0 nz
+cot-buon_1618735877209,/audio_data/private_test/cot-buon_1618735877209.wav,k o-0 tz ɓ w w o-0 nz
+no-nguon_1618754944779,/audio_data/private_test/no-nguon_1618754944779.wav,n o-5 ŋ w w o-1 nz nz
+no-nguon_1618754959573,/audio_data/private_test/no-nguon_1618754959573.wav,n o-5 ŋ w w iə-2 nz
+no-nguon_1618754975633,/audio_data/private_test/no-nguon_1618754975633.wav,n o-5 ŋ w o-1 nz nz
+no-nguon_1618754984730,/audio_data/private_test/no-nguon_1618754984730.wav,n o-5 ŋ w o-1 nz
+no-nguon_1618754992827,/audio_data/private_test/no-nguon_1618754992827.wav,n o-5 ŋ w w o-5 nz
+no-nguon_1618754999216,/audio_data/private_test/no-nguon_1618754999216.wav,n o-5 ŋ w o-1 nz
+thuoc-trung_1618735900991,/audio_data/private_test/thuoc-trung_1618735900991.wav,tʰ w o-0 t͡ɕ u-0 ŋmz
+thuoc-trung_1618735911453,/audio_data/private_test/thuoc-trung_1618735911453.wav,tʰ w w u-0 t͡ɕ u-0 ŋmz
+rang-muon_1618735923622,/audio_data/private_test/rang-muon_1618735923622.wav,z a-1 ŋz m w o-5 nz
+rang-muon_1618735931424,/audio_data/private_test/rang-muon_1618735931424.wav,z a-1 ŋz m w w w o-5 nz
+rang-muon_1618735939899,/audio_data/private_test/rang-muon_1618735939899.wav,z a-1 ŋz m w o-5 nz
+rang-muon_1618735949752,/audio_data/private_test/rang-muon_1618735949752.wav,z w a-1 ŋz m o-5 nz
+rang-muon_1618735957202,/audio_data/private_test/rang-muon_1618735957202.wav,z a-1 ŋz m w o-5 nz
+rang-muon_1618735965046,/audio_data/private_test/rang-muon_1618735965046.wav,z a-1 ŋz m w w o-5 nz
+cuong-chem_1618735973386,/audio_data/private_test/cuong-chem_1618735973386.wav,k w o-1 ŋmz t͡ɕ ɛ-4 mz
+cuong-chem_1618735983009,/audio_data/private_test/cuong-chem_1618735983009.wav,k w w w ɛ-4 ŋmz ŋmz t͡ɕ ɛ-4 mz
+cuong-chem_1618735991534,/audio_data/private_test/cuong-chem_1618735991534.wav,k w w o-1 ŋmz t͡ɕ ɛ-4 mz
+cuong-chem_1618736000548,/audio_data/private_test/cuong-chem_1618736000548.wav,k w w o-1 ŋmz t͡ɕ ɛ-4 mz
+cuong-chem_1618736008883,/audio_data/private_test/cuong-chem_1618736008883.wav,k w w o-1 ŋmz t͡ɕ ɛ-4 mz
+cuong-chem_1618736023820,/audio_data/private_test/cuong-chem_1618736023820.wav,k w w o-1 ŋmz t͡ɕ ɛ-4 mz
+mat-tuoi_1618736038531,/audio_data/private_test/mat-tuoi_1618736038531.wav,m a-4 tz t w w o-3 iz
+mat-tuoi_1618736046889,/audio_data/private_test/mat-tuoi_1618736046889.wav,m a-4 tz t w w o-3 iz
+mat-tuoi_1618736055292,/audio_data/private_test/mat-tuoi_1618736055292.wav,m a-4 tz t w w o-3 iz
+mat-tuoi_1618736070873,/audio_data/private_test/mat-tuoi_1618736070873.wav,m a-4 tz t w w w o-3 iz iz
+mat-tuoi_1618736078900,/audio_data/private_test/mat-tuoi_1618736078900.wav,m a-4 tz t w w o-3 iz
+mat-tuoi_1618736086946,/audio_data/private_test/mat-tuoi_1618736086946.wav,m m a-4 tz t w w w o-3 iz
+duoi-va_1618736101370,/audio_data/private_test/duoi-va_1618736101370.wav,ɗ w w o-0 iz v aː-1
+duoi-va_1618736109518,/audio_data/private_test/duoi-va_1618736109518.wav,ɗ w w o-0 iz v aː-1
+duoi-va_1618736117487,/audio_data/private_test/duoi-va_1618736117487.wav,ɗ w w aː-1 iz v aː-1
+duoi-va_1618736125845,/audio_data/private_test/duoi-va_1618736125845.wav,ɗ w w o-0 iz iz v aː-1
+duoi-va_1618736133910,/audio_data/private_test/duoi-va_1618736133910.wav,ɗ w w o-0 iz v aː-1
+duoi-va_1618736141299,/audio_data/private_test/duoi-va_1618736141299.wav,ɗ w w o-0 iz v aː-1
+chuoi-cua_1618736151855,/audio_data/private_test/chuoi-cua_1618736151855.wav,t͡ɕ w o-2 iz k ɨə-3
+chuoi-cua_1618736165523,/audio_data/private_test/chuoi-cua_1618736165523.wav,t͡ɕ w w o-2 iz k ɨə-3
+chuoi-cua_1618736173879,/audio_data/private_test/chuoi-cua_1618736173879.wav,t͡ɕ w w o-2 iz k ɨə-3
+chuoi-cua_1618736184663,/audio_data/private_test/chuoi-cua_1618736184663.wav,t͡ɕ w w o-2 iz k ɨə-3
+chuoi-cua_1618736192765,/audio_data/private_test/chuoi-cua_1618736192765.wav,t͡ɕ w w o-2 iz k ɨə-3
+chuoi-cua_1618736202046,/audio_data/private_test/chuoi-cua_1618736202046.wav,t͡ɕ w w o-2 iz k ɨə-3
+khu-nuoi_1618736226079,/audio_data/private_test/khu-nuoi_1618736226079.wav,x u-0 n w aː-1 iz
+khu-nuoi_1618736239538,/audio_data/private_test/khu-nuoi_1618736239538.wav,x u-0 n w w aː-2 iz iz
+khu-nuoi_1618736247120,/audio_data/private_test/khu-nuoi_1618736247120.wav,x u-0 n aː-3 iz iz
+khu-nuoi_1618736254779,/audio_data/private_test/khu-nuoi_1618736254779.wav,x u-0 n w w o-4 iz
+khu-nuoi_1618736265285,/audio_data/private_test/khu-nuoi_1618736265285.wav,x u-0 n w w o-5 iz
+khu-nuoi_1618736275436,/audio_data/private_test/khu-nuoi_1618736275436.wav,x u-0 n w w w o-0 iz
+than-tuoi_1618736286348,/audio_data/private_test/than-tuoi_1618736286348.wav,tʰ ə-1 nz t w w o-3 iz
+than-tuoi_1618736295219,/audio_data/private_test/than-tuoi_1618736295219.wav,tʰ ə-1 nz t w w o-3 iz
+than-tuoi_1618736302266,/audio_data/private_test/than-tuoi_1618736302266.wav,tʰ ə-1 nz t t w w o-3 iz
+than-tuoi_1618736313366,/audio_data/private_test/than-tuoi_1618736313366.wav,tʰ ə-1 nz t w w o-3 iz
+than-tuoi_1618736321740,/audio_data/private_test/than-tuoi_1618736321740.wav,tʰ ə-1 nz t w w o-3 iz iz
+than-tuoi_1618736331399,/audio_data/private_test/than-tuoi_1618736331399.wav,tʰ ə-1 nz t t w w o-3 iz
+hon-ty_1618755017132,/audio_data/private_test/hon-ty_1618755017132.wav,h o-0 nz t i-3
+hon-ty_1618755023811,/audio_data/private_test/hon-ty_1618755023811.wav,h o-0 nz t i-2
+hon-ty_1618755029851,/audio_data/private_test/hon-ty_1618755029851.wav,h o-0 nz t t i-3
+hon-ty_1618755036154,/audio_data/private_test/hon-ty_1618755036154.wav,h o-0 nz t i-3
+hon-ty_1618755045337,/audio_data/private_test/hon-ty_1618755045337.wav,h o-0 nz t i-3
+hon-ty_1618755054535,/audio_data/private_test/hon-ty_1618755054535.wav,h o-0 nz t i-3
+thet-yeu_1618755069279,/audio_data/private_test/thet-yeu_1618755069279.wav,tʰ ɛ-4 tz tʰ iə-1 uz
+thet-yeu_1618755075644,/audio_data/private_test/thet-yeu_1618755075644.wav,tʰ ɛ-4 tz iə-2 uz
+thet-yeu_1618755081574,/audio_data/private_test/thet-yeu_1618755081574.wav,tʰ ɛ-4 tz iə-3 uz
+thet-yeu_1618755087231,/audio_data/private_test/thet-yeu_1618755087231.wav,tʰ ɛ-4 tz iə-4 uz
+thet-yeu_1618755093552,/audio_data/private_test/thet-yeu_1618755093552.wav,tʰ ɛ-4 tz iə-0 uz
+thet-yeu_1618755099916,/audio_data/private_test/thet-yeu_1618755099916.wav,tʰ tʰ ɛ-4 tz iə-0 uz
+toi-yeu_1618755107200,/audio_data/private_test/toi-yeu_1618755107200.wav,t o-0 iz iə-4 uz
+toi-yeu_1618755113461,/audio_data/private_test/toi-yeu_1618755113461.wav,t o-0 iz iə-4 uz
+toi-yeu_1618755120394,/audio_data/private_test/toi-yeu_1618755120394.wav,t o-0 iz iə-4 uz
+toi-yeu_1618755126911,/audio_data/private_test/toi-yeu_1618755126911.wav,t o-0 iz iə-4 uz uz
+toi-yeu_1618755140767,/audio_data/private_test/toi-yeu_1618755140767.wav,t o-0 iz iə-4 uz
+toi-yeu_1618755146959,/audio_data/private_test/toi-yeu_1618755146959.wav,t o-0 iz iə-4 uz
+dan-tuoc_1618755154563,/audio_data/private_test/dan-tuoc_1618755154563.wav,z ə-0 nz t ɨə-4 kz
+dan-tuoc_1618755160549,/audio_data/private_test/dan-tuoc_1618755160549.wav,z ə-2 nz t ɨə-4 kz
+dan-tuoc_1618755166351,/audio_data/private_test/dan-tuoc_1618755166351.wav,z a-5 nz t ɨə-4 kz
+dan-tuoc_1618755171858,/audio_data/private_test/dan-tuoc_1618755171858.wav,z ɨə-4 nz t ɨə-4 kz
+dan-tuoc_1618755177565,/audio_data/private_test/dan-tuoc_1618755177565.wav,z a-5 nz t ɨə-4 kz
+dan-tuoc_1618755184976,/audio_data/private_test/dan-tuoc_1618755184976.wav,z ə-0 nz t ɨə-4 kz
+tham-giua_1618757590267,/audio_data/private_test/tham-giua_1618757590267.wav,tʰ tʰ ə-1 mz z ɨə-2
+tham-giua_1618757702564,/audio_data/private_test/tham-giua_1618757702564.wav,tʰ ə-1 mz mz z ɨə-2
+tham-giua_1618757840415,/audio_data/private_test/tham-giua_1618757840415.wav,tʰ tʰ a-3 mz z ɨə-2
+tham-giua_1618757854103,/audio_data/private_test/tham-giua_1618757854103.wav,tʰ ə-1 mz z ɨə-2
+tham-giua_1618757866698,/audio_data/private_test/tham-giua_1618757866698.wav,tʰ ə-1 mz z ɨə-2
+tham-giua_1618757879483,/audio_data/private_test/tham-giua_1618757879483.wav,tʰ ə-1 mz z ɨə-2
+du-phan_1618757892985,/audio_data/private_test/du-phan_1618757892985.wav,z ɨ-0 f ə-0 nz
+du-phan_1618758185157,/audio_data/private_test/du-phan_1618758185157.wav,z ɨ-0 nz f ə-0 nz
+du-phan_1618758205828,/audio_data/private_test/du-phan_1618758205828.wav,z ɨ-0 f a-3 nz
+du-phan_1618758217277,/audio_data/private_test/du-phan_1618758217277.wav,z ɨ-0 f ə-0 nz
+du-phan_1618758226619,/audio_data/private_test/du-phan_1618758226619.wav,z ɨ-0 f ə-0 nz
+du-phan_1618758236624,/audio_data/private_test/du-phan_1618758236624.wav,z ɨ-0 f ə-0 nz
+phan-can_1618758250445,/audio_data/private_test/phan-can_1618758250445.wav,f ə-5 nz k a-0 nz
+phan-can_1618758261508,/audio_data/private_test/phan-can_1618758261508.wav,f ə-5 nz k a-0 nz
+phan-can_1618758279524,/audio_data/private_test/phan-can_1618758279524.wav,f ə-5 nz k a-0 nz
+phan-can_1618758288926,/audio_data/private_test/phan-can_1618758288926.wav,f ə-5 nz k a-0 nz
+phan-can_1618758298511,/audio_data/private_test/phan-can_1618758298511.wav,f ə-5 nz k a-0 nz
+phan-can_1618758309670,/audio_data/private_test/phan-can_1618758309670.wav,f ə-5 nz k a-0 nz
+nghe-dap_1618758331881,/audio_data/private_test/nghe-dap_1618758331881.wav,ŋ e-1 ɗ ə-5 pz
+nghe-dap_1618758341411,/audio_data/private_test/nghe-dap_1618758341411.wav,ŋ e-1 ɗ ə-5 pz
+nay-dau_1618758357360,/audio_data/private_test/nay-dau_1618758357360.wav,n a-1 iz iz ɗ ə-0 uz
+nay-dau_1618758368051,/audio_data/private_test/nay-dau_1618758368051.wav,n a-1 iz ɗ ə-0 uz
+nay-dau_1618758380593,/audio_data/private_test/nay-dau_1618758380593.wav,n a-1 iz ɗ ə-0 uz
+nay-dau_1618758396070,/audio_data/private_test/nay-dau_1618758396070.wav,n a-1 iz ɗ ə-0 uz
+nay-dau_1618758404041,/audio_data/private_test/nay-dau_1618758404041.wav,n a-1 iz ɗ ə-0 uz
+nay-dau_1618758427202,/audio_data/private_test/nay-dau_1618758427202.wav,n a-1 iz ɗ ə-0 uz
+thi-mau_1618758442827,/audio_data/private_test/thi-mau_1618758442827.wav,tʰ i-5 m ə-5 uz
+thi-mau_1618758452269,/audio_data/private_test/thi-mau_1618758452269.wav,tʰ i-5 m ə-5 uz
+thi-mau_1618758461380,/audio_data/private_test/thi-mau_1618758461380.wav,tʰ i-5 m ə-5 uz
+thi-mau_1618758470330,/audio_data/private_test/thi-mau_1618758470330.wav,tʰ i-5 m ə-5 uz
+thi-mau_1618758481109,/audio_data/private_test/thi-mau_1618758481109.wav,tʰ i-5 m ə-5 uz
+thi-mau_1618758491305,/audio_data/private_test/thi-mau_1618758491305.wav,tʰ i-5 m ə-5 uz
+cat-dau_1618758502062,/audio_data/private_test/cat-dau_1618758502062.wav,k a-4 tz ɗ ə-1 uz
+cat-dau_1618758511681,/audio_data/private_test/cat-dau_1618758511681.wav,k a-4 tz ɗ a-4 uz
+cat-dau_1618758524978,/audio_data/private_test/cat-dau_1618758524978.wav,k a-4 tz tz ɗ ə-1 uz
+cat-dau_1618758536659,/audio_data/private_test/cat-dau_1618758536659.wav,k a-4 tz ɗ a-4 uz
+cat-dau_1618758545251,/audio_data/private_test/cat-dau_1618758545251.wav,k a-4 tz ɗ ə-1 uz
+cat-dau_1618758554892,/audio_data/private_test/cat-dau_1618758554892.wav,k a-4 tz ɗ ɗ ə-1 uz
+hieu-dau_1618758563398,/audio_data/private_test/hieu-dau_1618758563398.wav,h iə-5 uz z ə-1 uz
+hieu-dau_1618758577300,/audio_data/private_test/hieu-dau_1618758577300.wav,h iə-5 uz z ə-1 uz
+hieu-dau_1618758589049,/audio_data/private_test/hieu-dau_1618758589049.wav,h iə-5 uz z ə-1 uz
+hieu-dau_1618758599713,/audio_data/private_test/hieu-dau_1618758599713.wav,h iə-5 uz z ə-1 uz
+hieu-dau_1618758610376,/audio_data/private_test/hieu-dau_1618758610376.wav,h iə-5 uz z ə-1 uz
+hieu-dau_1618758621004,/audio_data/private_test/hieu-dau_1618758621004.wav,h iə-5 uz z z ə-1 uz
+cau-khanh_1618758631773,/audio_data/private_test/cau-khanh_1618758631773.wav,k ə-1 uz x eaː-0 ŋ̟z
+cau-khanh_1618758641025,/audio_data/private_test/cau-khanh_1618758641025.wav,k a-2 uz x eaː-0 ŋ̟z ŋ̟z
+cau-khanh_1618758654890,/audio_data/private_test/cau-khanh_1618758654890.wav,k ə-1 uz x eaː-0 ŋ̟z
+cau-khanh_1618758668962,/audio_data/private_test/cau-khanh_1618758668962.wav,k ə-1 uz x eaː-0 ŋ̟z
+cau-khanh_1618758678393,/audio_data/private_test/cau-khanh_1618758678393.wav,k ə-1 uz x eaː-0 ŋ̟z
+cau-khanh_1618758687205,/audio_data/private_test/cau-khanh_1618758687205.wav,k ə-1 uz x eaː-1 ŋ̟z
+cay-trong_1618758698435,/audio_data/private_test/cay-trong_1618758698435.wav,k a-3 iz t͡ɕ t͡ɕ ɔ-0 ŋmz
+cay-trong_1618758707761,/audio_data/private_test/cay-trong_1618758707761.wav,k ə-4 iz t͡ɕ ɔ-0 ŋmz
+cay-trong_1618758728728,/audio_data/private_test/cay-trong_1618758728728.wav,k ə-4 iz t͡ɕ ɔ-0 ŋmz
+cay-trong_1618758766081,/audio_data/private_test/cay-trong_1618758766081.wav,k ə-4 iz t͡ɕ ɔ-0 ŋmz
+cay-trong_1618758754152,/audio_data/private_test/cay-trong_1618758754152.wav,k a-5 iz t͡ɕ ɔ-0 ŋmz
+cay-trong_1618758777757,/audio_data/private_test/cay-trong_1618758777757.wav,k ɔ-0 iz t͡ɕ ɔ-0 ŋmz
+cao-gay_1618758789055,/audio_data/private_test/cao-gay_1618758789055.wav,k aː-0 uz ɣ ə-1 iz
+cao-gay_1618758803329,/audio_data/private_test/cao-gay_1618758803329.wav,k aː-0 uz ɣ ə-1 iz
+cao-gay_1618758813990,/audio_data/private_test/cao-gay_1618758813990.wav,k aː-0 uz ɣ ɣ iz
+cao-gay_1618758823598,/audio_data/private_test/cao-gay_1618758823598.wav,k aː-0 uz ɣ ə-1 iz
+cao-gay_1618758834960,/audio_data/private_test/cao-gay_1618758834960.wav,k aː-0 uz uz ɣ a-5 iz
+cao-gay_1618758845436,/audio_data/private_test/cao-gay_1618758845436.wav,k aː-0 uz ɣ ə-1 iz iz
+thay-men_1618758855965,/audio_data/private_test/thay-men_1618758855965.wav,tʰ ə-4 iz m ɛ-0 nz
+thay-men_1618758866699,/audio_data/private_test/thay-men_1618758866699.wav,tʰ ə-4 iz iz m ɛ-0 nz
+thay-men_1618758883910,/audio_data/private_test/thay-men_1618758883910.wav,tʰ ə-4 iz m ɛ-0 nz
+thay-men_1618758895175,/audio_data/private_test/thay-men_1618758895175.wav,tʰ ə-4 iz iz m ɛ-0 nz
+thay-men_1618758905655,/audio_data/private_test/thay-men_1618758905655.wav,tʰ ə-4 iz m ɛ-0 nz
+thay-men_1618758914368,/audio_data/private_test/thay-men_1618758914368.wav,tʰ ə-4 iz m ɛ-0 nz
+lay-lan_1618758935856,/audio_data/private_test/lay-lan_1618758935856.wav,l a-0 iz l ə-1 nz
+lay-lan_1618758944567,/audio_data/private_test/lay-lan_1618758944567.wav,l ə-4 iz l ə-1 nz
+lay-lan_1618758979191,/audio_data/private_test/lay-lan_1618758979191.wav,l ə-4 iz ə-4 nz l ə-1 nz
+lay-lan_1618758990430,/audio_data/private_test/lay-lan_1618758990430.wav,l ə-4 iz l ə-1 nz
+lay-lan_1618758999251,/audio_data/private_test/lay-lan_1618758999251.wav,l aː-5 iz l ə-1 nz ə-4
+lay-lan_1618759018567,/audio_data/private_test/lay-lan_1618759018567.wav,l ə-1 iz l ə-1 nz
+con-thay_1618759028271,/audio_data/private_test/con-thay_1618759028271.wav,k ɔ-1 nz tʰ ə-1 iz
+con-thay_1618759037317,/audio_data/private_test/con-thay_1618759037317.wav,k ɔ-1 nz tʰ ə-1 iz iz
+con-thay_1618759044852,/audio_data/private_test/con-thay_1618759044852.wav,k ɔ-1 nz tʰ ə-1 iz iz
+con-thay_1618759053341,/audio_data/private_test/con-thay_1618759053341.wav,k ɔ-1 nz tʰ ə-1 iz iz
+con-thay_1618759064276,/audio_data/private_test/con-thay_1618759064276.wav,k ɔ-1 nz tʰ a-5 iz
+con-thay_1618759073488,/audio_data/private_test/con-thay_1618759073488.wav,k ɔ-1 nz tʰ ə-1 iz iz
+ben-sat_1618759086278,/audio_data/private_test/ben-sat_1618759086278.wav,ɓ ɛ-1 nz s aː-4 tz
+ben-sat_1618759094590,/audio_data/private_test/ben-sat_1618759094590.wav,ɓ e-0 nz s aː-4 tz
+ben-sat_1618759101878,/audio_data/private_test/ben-sat_1618759101878.wav,ɓ ɛ-3 nz s aː-4 tz
+ben-sat_1618759109202,/audio_data/private_test/ben-sat_1618759109202.wav,ɓ e-0 nz s aː-4 tz
+ben-sat_1618759116512,/audio_data/private_test/ben-sat_1618759116512.wav,ɓ e-0 nz s aː-4 tz
+ben-sat_1618759132895,/audio_data/private_test/ben-sat_1618759132895.wav,ɓ e-0 nz s aː-4 tz
+ra-kenh_1618759142926,/audio_data/private_test/ra-kenh_1618759142926.wav,z z aː-0 k eaː-1 ŋ̟z ŋ̟z
+ra-kenh_1618759150359,/audio_data/private_test/ra-kenh_1618759150359.wav,z aː-0 k i-2 ŋ̟z
+ra-kenh_1618759159398,/audio_data/private_test/ra-kenh_1618759159398.wav,z aː-0 k eaː-3 ŋ̟z
+ra-kenh_1618759167662,/audio_data/private_test/ra-kenh_1618759167662.wav,z aː-0 k e-0 ŋ̟z
+ra-kenh_1618759175970,/audio_data/private_test/ra-kenh_1618759175970.wav,z aː-0 k eaː-5 ŋ̟z
+ra-kenh_1618759185657,/audio_data/private_test/ra-kenh_1618759185657.wav,z aː-0 k e-0 ŋ̟z
+e-e_1618759204167,/audio_data/private_test/e-e_1618759204167.wav,e-0 e-0
+e-e_1618759877627,/audio_data/private_test/e-e_1618759877627.wav,e-0 e-0 e-0
+e-e_1618759885509,/audio_data/private_test/e-e_1618759885509.wav,e-0 e-0 e-0
+e-e_1618759893501,/audio_data/private_test/e-e_1618759893501.wav,e-0 e-0 e-0
+e-e_1618759904652,/audio_data/private_test/e-e_1618759904652.wav,e-0 e-0 e-0
+e-e_1618759912122,/audio_data/private_test/e-e_1618759912122.wav,e-0 e-0
+nen-doan_1618759926469,/audio_data/private_test/nen-doan_1618759926469.wav,n e-0 nz ɗ w w aː-5 nz
+nen-doan_1618759934066,/audio_data/private_test/nen-doan_1618759934066.wav,n e-0 nz ɗ w w aː-5 nz
+nen-doan_1618759941006,/audio_data/private_test/nen-doan_1618759941006.wav,n aː-5 nz ɗ w w aː-5 nz
+nen-doan_1618759948155,/audio_data/private_test/nen-doan_1618759948155.wav,n e-0 nz ɗ w aː-5 nz
+nen-doan_1618759962966,/audio_data/private_test/nen-doan_1618759962966.wav,n aː-5 nz ɗ w w aː-5 nz nz
+nen-doan_1618759973235,/audio_data/private_test/nen-doan_1618759973235.wav,n e-0 nz ɗ w w aː-5 nz
+ngat-nen_1618759989500,/audio_data/private_test/ngat-nen_1618759989500.wav,ŋ aː-5 tz n e-0 nz
+ngat-nen_1618759998812,/audio_data/private_test/ngat-nen_1618759998812.wav,ŋ aː-5 tz n e-0 nz
+ngat-nen_1618760011395,/audio_data/private_test/ngat-nen_1618760011395.wav,ŋ aː-5 tz n e-0 nz
+ngat-nen_1618760018762,/audio_data/private_test/ngat-nen_1618760018762.wav,ŋ aː-5 tz n e-0 nz
+ngat-nen_1618760027187,/audio_data/private_test/ngat-nen_1618760027187.wav,ŋ aː-5 tz n e-0 nz
+ngat-nen_1618760039635,/audio_data/private_test/ngat-nen_1618760039635.wav,n aː-5 tz n e-0 nz
+deu-de_1618760057128,/audio_data/private_test/deu-de_1618760057128.wav,ɗ e-1 uz ɗ e-1
+deu-de_1618760072429,/audio_data/private_test/deu-de_1618760072429.wav,ɗ e-1 uz ɗ e-1
+deu-de_1618760084673,/audio_data/private_test/deu-de_1618760084673.wav,ɗ e-1 uz ɗ e-1
+deu-de_1618760103777,/audio_data/private_test/deu-de_1618760103777.wav,ɗ e-1 uz ɗ e-1
+deu-de_1618760117323,/audio_data/private_test/deu-de_1618760117323.wav,ɗ e-1 uz ɗ e-1
+deu-de_1618760125813,/audio_data/private_test/deu-de_1618760125813.wav,ɗ e-1 uz ɗ e-1
+treu-dua_1618760148034,/audio_data/private_test/treu-dua_1618760148034.wav,t͡ɕ ɛ-1 uz ɗ uə-1
+treu-dua_1618760155714,/audio_data/private_test/treu-dua_1618760155714.wav,t͡ɕ e-0 uz ɗ uə-1
+treu-dua_1618760163590,/audio_data/private_test/treu-dua_1618760163590.wav,t͡ɕ ɛ-3 uz ɗ uə-1
+treu-dua_1618760171285,/audio_data/private_test/treu-dua_1618760171285.wav,t͡ɕ ɛ-4 uz ɗ uə-1
+treu-dua_1618760179652,/audio_data/private_test/treu-dua_1618760179652.wav,t͡ɕ ɛ-5 uz ɗ uə-1
+treu-dua_1618760187090,/audio_data/private_test/treu-dua_1618760187090.wav,t͡ɕ e-0 uz ɗ uə-1
+phut-hoi_1618760195094,/audio_data/private_test/phut-hoi_1618760195094.wav,f u-4 tz tz h o-5 iz
+phut-hoi_1618760201854,/audio_data/private_test/phut-hoi_1618760201854.wav,f u-4 tz h o-5 iz
+phut-hoi_1618760209397,/audio_data/private_test/phut-hoi_1618760209397.wav,f u-4 tz h o-5 iz iz
+phut-hoi_1618760217086,/audio_data/private_test/phut-hoi_1618760217086.wav,f u-4 tz tz h o-5 iz
+phut-hoi_1618760224953,/audio_data/private_test/phut-hoi_1618760224953.wav,f u-4 tz h o-5 iz iz
+phut-hoi_1618760233805,/audio_data/private_test/phut-hoi_1618760233805.wav,f u-4 tz h o-5 iz
+bo-xe_1618760242239,/audio_data/private_test/bo-xe_1618760242239.wav,ɓ o-5 s ɛ-0
+bo-xe_1618760249843,/audio_data/private_test/bo-xe_1618760249843.wav,ɓ o-5 s ɛ-0
+bo-xe_1618760257410,/audio_data/private_test/bo-xe_1618760257410.wav,ɓ o-5 s ɛ-0
+bo-xe_1618760264853,/audio_data/private_test/bo-xe_1618760264853.wav,ɓ o-5 s ɛ-0
+bo-xe_1618760271745,/audio_data/private_test/bo-xe_1618760271745.wav,ɓ o-5 s ɛ-0
+bo-xe_1618760281564,/audio_data/private_test/bo-xe_1618760281564.wav,ɓ o-5 s ɛ-0
+he-noi_1618760298363,/audio_data/private_test/he-noi_1618760298363.wav,h e-5 n o-5 iz
+cat-so_1618760310224,/audio_data/private_test/cat-so_1618760310224.wav,k a-4 tz s o-4
+cat-so_1618760317992,/audio_data/private_test/cat-so_1618760317992.wav,k k a-4 tz s o-4
+cat-so_1618760325187,/audio_data/private_test/cat-so_1618760325187.wav,k a-4 tz s o-4
+cat-so_1618760337239,/audio_data/private_test/cat-so_1618760337239.wav,k a-4 tz s o-4
+cat-so_1618760345205,/audio_data/private_test/cat-so_1618760345205.wav,k a-4 tz s o-4
+cat-so_1618760354971,/audio_data/private_test/cat-so_1618760354971.wav,k a-4 tz tz s o-4
+TQA_7_NAM_S0045_276,/audio_data/private_test/TQA_7_NAM_S0045_276.wav,k ə-0 uz tʰ əː-0 t͡ɕ ɔ-0 tʰ ə-4 iz iz ɓ ə-1 iz iz t͡ɕ i-0 mz k u-0 z ə-4 tz tʰ i-4 k̟z ɓ əː-1 t͡ɕ ɛ-0 l aː-1 t͡ɕ ɛ-0 z ə-4 tz m aː-4 tz
+TQA_7_NAM_S0045_123,/audio_data/private_test/TQA_7_NAM_S0045_123.wav,əː-0 iz tʰ e-4 k ə-5 uz uz i-1 tʰ i-4 k̟z l w w aː-5 iz iz t͡ɕ i-0 mz n aː-1 uz
+TQA_7_NAM_S0045_182,/audio_data/private_test/TQA_7_NAM_S0045_182.wav,h aː-0 iz k ə-5 uz ɓ ɛ-4 ɗ a-5 tz k ɔ-0 nz t͡ɕ i-0 mz v aː-1 uz m o-5 tz t͡ɕ iə-4 kz h o-5 pz z ə-4 ə-4 tz ɗ ɛ-5 pz v aː-1 t͡ɕ o-0 nz k ə-4 pz tʰ ə-5 tz l ɔ-0 ŋmz t͡ɕ ɔ-5 ŋmz
+TQA_7_NAM_S0045_109,/audio_data/private_test/TQA_7_NAM_S0045_109.wav,t əː-4 h ɔ-3 iz iz tʰ aː-3 uz k o-0 n a-1 iz ɲ ɛ-4
+TQA_7_NAM_S0045_130,/audio_data/private_test/TQA_7_NAM_S0045_130.wav,s e-0 h ɔ-5 ɲ aː-1 t͡ɕ i-0 mz z i-4 uz uz z i-4 tz ɓ a-0 iz ɗ e-4 nz ɗ ə-5 uz əː-0 ɲ ɨ-2 ŋz ɓ w i-4 tz k ə-0 iz k w w eaː-0 ŋ̟z ŋ̟z h o-1
+TQA_7_NAM_S0045_110,/audio_data/private_test/TQA_7_NAM_S0045_110.wav,k ə-5 uz h a-2 iz t i-1 mz ɲ ɨ-2 ŋz t ɨ-1 ŋ ɨ-2 t aː-3 v ɛ-3 ɗ ɛ-5 pz k uə-3 m a-5 tz h o-1 i-0 z əː-0 p aː-0 uz
+ĐNL_Nu_6_S0007_51,/audio_data/private_test/ĐNL_Nu_6_S0007_51.wav,s w w o-4 ŋmz ɗ ə-0 t͡ɕ i-0 mz k ɔ-4 iz ɓ iə-4 tz ɓ əː-0 iz
+TQA_7_NAM_S0045_47,/audio_data/private_test/TQA_7_NAM_S0045_47.wav,m ɨ-1 ŋz v w w i-0 z o-1 iz iz l aː-5 iz ɗ i-0
+TQA_7_NAM_S0045_190,/audio_data/private_test/TQA_7_NAM_S0045_190.wav,t͡ɕ i-0 mz t ɨ-5 z ɔ-0 ɓ a-0 iz ɲ a-3 iz t͡ɕ ɔ-0 ŋmz tʰ e-4 z əː-4 iz z o-5 ŋmz l əː-4 nz
+TQA_7_NAM_S0045_113,/audio_data/private_test/TQA_7_NAM_S0045_113.wav,t əː-4 h ɔ-3 iz k ə-5 uz
+TQA_7_NAM_S0045_62,/audio_data/private_test/TQA_7_NAM_S0045_62.wav,ɲ ɨ-2 ŋz k ə-0 uz tʰ əː-0 t aː-3 v ɛ-3 ɗ ɛ-5 pz k uə-3 k ə-0 iz k o-4 iz iz x i-0 s w w ə-0 nz v e-1
+TQA_7_NAM_S0045_242,/audio_data/private_test/TQA_7_NAM_S0045_242.wav,m o-5 tz ɗ aː-1 nz k ɔ-1 ɓ eaː-5 k̟z
+TQA_7_NAM_S0045_137,/audio_data/private_test/TQA_7_NAM_S0045_137.wav,s e-0 v ɛ-0 nz h o-1 ɲ ɨ-2 ŋz k ɔ-0 nz t͡ɕ i-0 mz k əː-0 nz k u-4 kpz h ɔ-4 tz l e-0 nz l eaː-0 ŋ̟z l eaː-3 ŋ̟z
+TQA_7_NAM_S0045_21,/audio_data/private_test/TQA_7_NAM_S0045_21.wav,t əː-4 m ɨə-1 iz tʰ aː-3 uz k ə-5 uz ɗ iz t͡ɕ aː-3 l əː-1 iz ɓ ɨ-4 kz t͡ɕ eaː-0 ŋ̟z tʰ ɨ-4 uz n a-0 mz ɗ i-0
+TQA_7_NAM_S0045_282,/audio_data/private_test/TQA_7_NAM_S0045_282.wav,ɓ o-1 k ə-0 uz ɓ o-4 m ɛ-5 tʰ a-0 iz ɲ a-0 uz ə-4 pz t͡ɕ ɨ-4 ŋz
+TQA_7_NAM_S0045_247,/audio_data/private_test/TQA_7_NAM_S0045_247.wav,k ɔ-4 ɓ aː-4 kz ɓ o-1 n o-0 ŋmz
+TQA_7_NAM_S0045_42,/audio_data/private_test/TQA_7_NAM_S0045_42.wav,k ə-0 iz k aː-0 mz v aː-1 ŋz tʰ e-0 mz t͡ɕ aː-4 iz
+TQA_7_NAM_S0045_61,/audio_data/private_test/TQA_7_NAM_S0045_61.wav,t əː-4 s ɛ-2 t͡ɕ aː-3 l əː-1 iz ɗ ə-0 iz l aː-1 k ə-0 uz k uə-3 t əː-4
+ĐNL_Nu_6_S0007_11,/audio_data/private_test/ĐNL_Nu_6_S0007_11.wav,x i-0 m ɛ-5 m a-5 tz t͡ɕ əː-1 iz ɣ ɔ-5 iz h aː-5 n a-4 ŋz ɛ-5 ɓ ɓ aː-4 mz k eaː-4 ŋ̟z t a-0 iz h w h o-1 ŋmz ŋmz k uə-3 m ɛ-5 v e-1 m e-0 k iə-0 tz n w w i-4
+TQA_7_NAM_S0045_81,/audio_data/private_test/TQA_7_NAM_S0045_81.wav,z a-0 uz s u-0 mz s w w e-0 əː-0 s a-0 uz s u-0 mz s w w e-0 əː-0 t͡ɕ e-0 nz z əː-0 ŋz ɓ aː-2 iz
+TQA_7_NAM_S0045_156,/audio_data/private_test/TQA_7_NAM_S0045_156.wav,t͡ɕ i-0 mz s ɛ-3 s o-4 ŋmz əː-0 t͡ɕ e-0 nz k ə-0 iz n e-0 nz f aː-3 iz ɓ aː-4 mz v aː-1 uz k eaː-1 ŋ̟z k ə-0 iz ɓ a-1 ŋz k aː-3 h aː-0 iz t͡ɕ ə-0 nz t͡ɕ ɔ-0 x ɔ-3 iz iz ŋ aː-2
+ĐNL_Nu_6_S0007_30,/audio_data/private_test/ĐNL_Nu_6_S0007_30.wav,k aː-4 v aː-1 t͡ɕ i-0 mz
+ĐNL_Nu_6_S0007_94,/audio_data/private_test/ĐNL_Nu_6_S0007_94.wav,n e-4 uz ɲ ɨ-0 ɛ-0 mz tʰ ə-4 iz t ɨ-4 kz z ə-5 nz tʰ i-1 eaː-0 iz l ə-4 iz iz ɓ ɔ-4 ŋmz v aː-1 tʰ o-3 iz iz tʰ ə-5 tz h o-3 iz ɓ ɔ-4 ŋmz ɲ ɛ-4
+TQA_7_NAM_S0045_153,/audio_data/private_test/TQA_7_NAM_S0045_153.wav,v v i-1 v ə-5 iz x i-0 k ə-1 nz ŋ i-3 n ɔ-4 k ɔ-0 m o-5 tz t͡ɕ ə-0 nz l e-0 nz aː-4 pz s aː-4 tz ɓ u-5 ŋmz h aː-0 iz t͡ɕ ə-0 nz k ɔ-1 tʰ a-0 iz ɲ a-0 uz k ɔ-0 l e-0 nz t͡ɕ ɔ-0 ɗ əː-2 m ɔ-3 iz
+TQA_7_NAM_S0045_15,/audio_data/private_test/TQA_7_NAM_S0045_15.wav,h h i-1 ŋ̟z eaː-3 ŋ̟z s o-4 m o-5 tz l aː-1 k ɔ-0 nz t͡ɕ i-0 mz k eaː-4 ŋ̟z k u-5
+ĐNL_Nu_6_S0007_32,/audio_data/private_test/ĐNL_Nu_6_S0007_32.wav,n a-1 iz ɓ aː-5 nz t͡ɕ i-0 mz əː-0 iz
+TQA_7_NAM_S0045_147,/audio_data/private_test/TQA_7_NAM_S0045_147.wav,m ɔ-3 t͡ɕ i-0 mz s ɛ-3 v aː-1 m ɔ-3 t͡ɕ i-0 mz ɓ o-1 k ə-0 uz h i-1 ŋ̟z t aː-0 nz z aː-4 tz ɲ ɔ-3 ŋ a-4 nz v aː-1 uz k ɨ-4 ŋz v i-1 t͡ɕ u-4 ŋmz aː-0 nz h aː-5 tz ŋ u-2 k o-4 kpz
+TQA_7_NAM_S0045_160,/audio_data/private_test/TQA_7_NAM_S0045_160.wav,ŋ o-2 iz iz m ɨə-1 ɗ ɔ-5 kpz m o-5 tz ɗ w w w aː-5 nz nz k ə-5 uz ɗ ɔ-5 kpz t͡ɕ ɨə-4 kz ɗ i-0 h ə-0 nz
+TQA_7_NAM_S0045_249,/audio_data/private_test/TQA_7_NAM_S0045_249.wav,i-0 mz ɲ ɨ-0 t ɨə-5 ŋz ɗ aː-4
+TQA_7_NAM_S0045_212,/audio_data/private_test/TQA_7_NAM_S0045_212.wav,v i-1 tʰ e-4 k aː-4 kz k ə-5 uz x o-0 ŋmz n e-0 nz ɓ a-4 tz t͡ɕ i-0 mz v aː-1 ŋ a-4 tz h w w w aː-0 m aː-1 x o-0 ŋmz ɗ e-3 i-0 t əː-4 iz z aː-4 t͡ɕ i-5 k uə-3 t͡ɕ u-4 ŋmz
+TQA_7_NAM_S0045_214,/audio_data/private_test/TQA_7_NAM_S0045_214.wav,t əː-4 k u-2 ŋmz ɗ o-1 ŋmz i-0 v əː-4 iz i-0 k iə-4 nz k uə-3 k ə-5 uz
+TQA_7_NAM_S0045_290,/audio_data/private_test/TQA_7_NAM_S0045_290.wav,t ɨə-4 ŋz t ɨə-4 ŋ w iə-2 nz t͡ɕ i-4 k̟z ɗ aː-2 z u-1 ŋmz ɓ o-1 k ə-0 uz uz ɗ ɨə-0 t i-0 nz ɣ ɔ-4 pz f ə-1 nz ɗ eaː-4 ŋ̟z tʰ a-4 ŋz ɲ iə-1 uz t͡ɕ ə-5 nz k w w aː-0 nz t͡ɕ ɔ-5 ŋmz
+TQA_7_NAM_S0045_8,/audio_data/private_test/TQA_7_NAM_S0045_8.wav,t əː-4 ɗ o-4 k aː-4 kz k ə-5 uz uz h i-1 ŋ̟z ŋ̟z eaː-3 ŋ̟z s o-4 s a-4 uz v aː-1 t͡ɕ i-0 mz ɣ i-1 v ə-5 iz
+TQA_7_NAM_S0045_24,/audio_data/private_test/TQA_7_NAM_S0045_24.wav,aː-0 h i-1 ŋ̟z eaː-3 ŋ̟z s o-4 s a-4 uz l aː-1 k ɔ-0 nz k w w aː-5
+TQA_7_NAM_S0045_210,/audio_data/private_test/TQA_7_NAM_S0045_210.wav,t əː-4 m w w o-4 nz nz n ɔ-4 iz v əː-4 iz k aː-4 kz k ə-5 uz ə-4 iz iz
+ĐNL_Nu_6_S0007_80,/audio_data/private_test/ĐNL_Nu_6_S0007_80.wav,ɲ ɨ-0 ŋz uz x i-3 l ɛ-0 uz uz t ɔ-4 tz m o-5 tz k aː-4 iz ɗ aː-2 t a-4 t aː-2 tʰ a-4 ŋz
+TQA_7_NAM_S0045_273,/audio_data/private_test/TQA_7_NAM_S0045_273.wav,ɓ ə-1 iz iz t͡ɕ i-0 mz mz k u-0 ɣ ə-5 tz h u-1 k aː-0 h aː-4 tz
+TQA_7_NAM_S0045_204,/audio_data/private_test/TQA_7_NAM_S0045_204.wav,h eaː-1 ŋ̟z ɗ o-5 ŋmz k uə-3 k aː-4 kz k ə-5 uz ɓ ɛ-4 ɣ ə-0 iz iz z aː-0 t͡ɕ w w iə-5 nz ɣ i-1 ɗ a-0 uz l ɔ-1 ŋmz
+ĐNL_Nu_6_S0007_19,/audio_data/private_test/ĐNL_Nu_6_S0007_19.wav,x i-0 m ɛ-5 ɓ aː-5 tz t͡ɕ əː-1 iz iz ɣ ɔ-5 iz h uə-3 n a-4 ŋz ɓ aː-4 mz k eaː-1 eaː-1 ŋ̟z t a-0 iz iz h o-1 ŋmz k uə-3 m ɛ-5 v e-1 ɓ e-0 nz h iə-0 n a-4
+TQA_7_NAM_S0045_33,/audio_data/private_test/TQA_7_NAM_S0045_33.wav,h ə-0 nz əː-0 iz k ə-5 uz ɗ ɔ-5 kpz t͡ɕ ɔ-0 ɓ ɔ-5 nz t əː-4 ŋ ɛ-0 ɓ aː-1 iz iz t͡ɕ i-0 mz ɛ-4 nz ɲ ɛ-4
+TQA_7_NAM_S0045_237,/audio_data/private_test/TQA_7_NAM_S0045_237.wav,x x w w e-0 əː-0 iz k ə-5 uz uz ɗ ɔ-5 kpz t͡ɕ ɔ-0 ɓ ɔ-5 nz t əː-4 ŋ ɛ-0
+TQA_7_NAM_S0045_140,/audio_data/private_test/TQA_7_NAM_S0045_140.wav,ɓ e-0 t͡ɕ e-0 nz m a-5 tz h o-1 ɓ ə-1 iz tʰ tʰ w w iə-0 nz ŋ aː-0 t͡ɕ a-4 ŋz m o-4 tz ɗ aː-0 ŋz ɓ əː-0 iz l w o-5 iz
+TQA_7_NAM_S0045_23,/audio_data/private_test/TQA_7_NAM_S0045_23.wav,h w w aː-0 əː-0 iz ɗ e-4 nz l ɨə-5 tz k ə-5 uz z o-1 iz
+ĐNL_Nu_6_S0007_43,/audio_data/private_test/ĐNL_Nu_6_S0007_43.wav,k aː-4 ɓ əː-0 iz z ɨə-4 iz s w w w o-4 iz
+TQA_7_NAM_S0045_215,/audio_data/private_test/TQA_7_NAM_S0045_215.wav,t əː-4 k u-2 ŋmz m w w o-4 nz n ɔ-4 iz k aː-4 kz ɓ aː-5 nz x o-0 ŋmz ŋmz n e-0 nz ɓ a-4 tz t͡ɕ i-0 mz v aː-1 ŋ a-4 tz h w w w aː-0
+ĐNL_Nu_6_S0007_35,/audio_data/private_test/ĐNL_Nu_6_S0007_35.wav,tʰ i-4 k̟z l a-4 mz tʰ i-4 k̟z l a-4 mz
+TQA_7_NAM_S0045_82,/audio_data/private_test/TQA_7_NAM_S0045_82.wav,h w aː-0 x w w ɛ-0 s a-4 kz n əː-0 iz n əː-0 iz
+TQA_7_NAM_S0045_240,/audio_data/private_test/TQA_7_NAM_S0045_240.wav,ɓ əː-1 t͡ɕ ɛ-0 ɗ ɔ-4 nz x eaː-4 k̟z
+TQA_7_NAM_S0045_179,/audio_data/private_test/TQA_7_NAM_S0045_179.wav,ɓ o-0 ŋmz k u-4 kpz h ɛ-4 uz l aː-3 ɗ i-0 v i-1 tʰ ɨə-0 ŋz f aː-4 tz
+TQA_7_NAM_S0045_13,/audio_data/private_test/TQA_7_NAM_S0045_13.wav,t əː-4 v aː-1 k aː-4 kz k ə-5 uz k u-1 ŋmz k e-3 n o-4 iz t iə-4 pz t e-0 nz k uə-3 k aː-4 kz l w w aː-1 iz t͡ɕ i-0 mz t͡ɕ ɔ-0 ɓ ɨ-4 kz t͡ɕ eaː-0 ŋ̟z ɲ ɛ-4
+TQA_7_NAM_S0045_18,/audio_data/private_test/TQA_7_NAM_S0045_18.wav,aː-0 h i-1 ŋ̟z eaː-3 ŋ̟z s o-4 ɓ aː-0 l aː-1 k ɔ-0 nz t͡ɕ i-0 mz z ɛ-3 k w w aː-5 tz
+TQA_7_NAM_S0045_161,/audio_data/private_test/TQA_7_NAM_S0045_161.wav,t͡ɕ i-0 mz s əː-0 nz k aː-0 v aː-1 ɓ o-0 ŋmz k u-4 kpz t͡ɕ a-4 ŋz
+TQA_7_NAM_S0045_193,/audio_data/private_test/TQA_7_NAM_S0045_193.wav,h ə-0 nz əː-0 iz iz k ə-5 uz t͡ɕ aː-3 l əː-1 iz z u-4 pz t əː-4 k ə-0 uz n a-1 iz ɲ ɛ-4
+TQA_7_NAM_S0045_59,/audio_data/private_test/TQA_7_NAM_S0045_59.wav,ɲ ɨ-2 ŋz k ə-0 uz tʰ əː-0 t aː-3 v ɛ-3 ɗ ɛ-5 pz k uə-3 k ə-0 iz k o-4 iz x i-0 m uə-1 s w ə-0 nz v e-1
+TQA_7_NAM_S0045_287,/audio_data/private_test/TQA_7_NAM_S0045_287.wav,t͡ɕ u-4 ŋmz v ə-2 nz ɲ əː-4 ɗ ɨə-1 ŋz v e-1
+ĐNL_Nu_6_S0007_77,/audio_data/private_test/ĐNL_Nu_6_S0007_77.wav,z əː-1 z aː-0 t͡ɕ əː-0 iz ɓ aː-4 uz k ɔ-0 nz z aː-0 s ə-0 nz t͡ɕ əː-0 iz v əː-4 iz k aː-4 aː-4 kz ɓ aː-5 nz
+TQA_7_NAM_S0045_106,/audio_data/private_test/TQA_7_NAM_S0045_106.wav,h ɔ-5 ɲ aː-1 t͡ɕ i-0 mz ɗ u-3 k aː-4 kz l w w w aː-5 iz ɗ u-3 k aː-4 kz m a-1 uz s a-4 kz
+TQA_7_NAM_S0045_188,/audio_data/private_test/TQA_7_NAM_S0045_188.wav,t͡ɕ ɨə-4 kz x i-0 ɓ i-5 ɓ ɔ-3 v aː-1 uz l o-1 ŋmz t͡ɕ i-0 mz v aː-1 h w w aː-0 s o-4 ŋmz tʰ e-4 n aː-1 uz
+ĐNL_Nu_6_S0007_62,/audio_data/private_test/ĐNL_Nu_6_S0007_62.wav,t͡ɕ i-0 mz ɓ a-0 iz t͡ɕ e-0 nz t͡ɕ əː-1 iz
+TQA_7_NAM_S0045_157,/audio_data/private_test/TQA_7_NAM_S0045_157.wav,v i-1 k w w w e-0 nz z u-1 ŋmz ɗ o-1 ŋmz tʰ əː-1 iz h aː-0 iz t͡ɕ ə-0 nz
+ĐNL_Nu_6_S0007_49,/audio_data/private_test/ĐNL_Nu_6_S0007_49.wav,k aː-4 ɓ əː-0 iz z o-4 iz s w w o-4 iz tʰ ə-4 iz iz t͡ɕ i-0 mz h o-4 tz t͡ɕ e-0 nz k eaː-1 ŋ̟z
+TQA_7_NAM_S0045_170,/audio_data/private_test/TQA_7_NAM_S0045_170.wav,tʰ aː-3 uz əː-0 iz k ə-5 uz uz ɗ ɔ-5 kpz ɗ w w aː-5 nz t iə-4 pz tʰ ɛ-0 uz ɗ i-0
+TQA_7_NAM_S0045_294,/audio_data/private_test/TQA_7_NAM_S0045_294.wav,x w w e-0 əː-0 iz k ə-5 uz t͡ɕ aː-3 l əː-1 iz z u-4 pz t əː-4 ɲ ɨ-2 ŋz k ə-0 uz h ɔ-3 iz n a-1 iz ɲ ɛ-4
+TQA_7_NAM_S0045_145,/audio_data/private_test/TQA_7_NAM_S0045_145.wav,v i-1 s aː-0 uz m ɔ-3 k uə-3 k aː-4 kz l w w w aː-1 iz t͡ɕ i-0 mz x o-0 ŋmz z o-4 ŋmz ɲ a-0 uz
+ĐNL_Nu_6_S0007_47,/audio_data/private_test/ĐNL_Nu_6_S0007_47.wav,tʰ e-4 z o-1 iz h aː-0 iz ɓ aː-5 nz k u-1 ŋmz ɗ i-0 t͡ɕ əː-0 iz
+TQA_7_NAM_S0045_223,/audio_data/private_test/TQA_7_NAM_S0045_223.wav,tʰ e-4 t͡ɕ i-0 mz ɣ i-1 ɓ iə-4 tz ɗ ɨə-0 tʰ ɨ-0 l aː-1 ɓ iə-3 uz h iə-5 nz k uə-3 h h aː-1 ɓ i-1 ŋ̟z
+ĐNL_Nu_6_S0007_58,/audio_data/private_test/ĐNL_Nu_6_S0007_58.wav,t͡ɕ i-0 mz ɓ a-0 t͡ɕ e-0 nz t͡ɕ əː-1 iz iz
+TQA_7_NAM_S0045_167,/audio_data/private_test/TQA_7_NAM_S0045_167.wav,ɓ o-0 ŋmz k u-4 kpz ɗ aː-2 ŋ ɛ-0 tʰ tʰ ə-4 iz iz t iə-4 iə-4 ŋz s əː-0 nz k aː-0 ɓ w w w o-1 nz tʰ aː-3 mz mz
+ĐNL_Nu_6_S0007_16,/audio_data/private_test/ĐNL_Nu_6_S0007_16.wav,n ɔ-4 aː-0 nz w z o-1 iz iz ɣ ɨ-3 t a-5 ŋz ɓ ɔ-4 ŋmz h o-1 ŋmz ɓ o-0 ŋmz h o-1 ŋmz t͡ɕ iə-4 kz x a-0 ŋz v aː-1 ŋz ɔ-4 ŋmz
+ĐNL_Nu_6_S0007_89,/audio_data/private_test/ĐNL_Nu_6_S0007_89.wav,v aː-1 ɓ aː-4 uz k ɔ-0 nz ɗ aː-2 tʰ o-3 l aː-5 iz h e-4 tz s eaː-5 k̟z v aː-1 n ɔ-4 iz
+TQA_7_NAM_S0045_100,/audio_data/private_test/TQA_7_NAM_S0045_100.wav,m o-2 iz iz l ə-1 nz ɗ aː-5 iz ɓ aː-1 ŋz v o-2 k eaː-4 ŋ̟z ŋ̟z l aː-5 iz f aː-4 tz z aː-0 ɲ ɨ-2 ŋz t iə-4 iə-4 ŋz v i-0 v u-0 v i-0 v u-4 tz
+TQA_7_NAM_S0045_189,/audio_data/private_test/TQA_7_NAM_S0045_189.wav,t͡ɕ ɨə-4 kz x i-0 ɓ i-5 ɓ ɔ-3 v aː-1 uz l o-1 ŋmz
+TQA_7_NAM_S0045_131,/audio_data/private_test/TQA_7_NAM_S0045_131.wav,əː-0 iz k ə-5 uz t͡ɕ aː-3 l əː-1 iz ɗ i-0
+TQA_7_NAM_S0045_219,/audio_data/private_test/TQA_7_NAM_S0045_219.wav,t͡ɕ i-0 mz mz ɓ aː-4 uz h iə-5 uz m uə-1 s w w ə-0 nz s aː-0 ŋz l aː-1 t͡ɕ i-0 mz ɛ-4 nz
+TQA_7_NAM_S0045_198,/audio_data/private_test/TQA_7_NAM_S0045_198.wav,ɗ iə-1 uz ɣ i-1 t͡ɕ ɔ-0 tʰ ə-4 iz k aː-4 kz k ə-5 uz ɓ ɛ-4 z ə-4 tz v o-0 t i-1 ŋ̟z ɗ o-4 iz iz v əː-4 iz t͡ɕ i-0 mz
+TQA_7_NAM_S0045_186,/audio_data/private_test/TQA_7_NAM_S0045_186.wav,tʰ i-1 h o-0 mz n a-0 iz t͡ɕ a-4 kz n ɔ-4 v ə-2 nz ɗ aː-0 ŋz t a-4 mz n a-4 ŋz m m a-5 tz t͡ɕ əː-1 iz iz
+TQA_7_NAM_S0045_272,/audio_data/private_test/TQA_7_NAM_S0045_272.wav,s e-0 n o-4 iz v əː-4 iz ɓ o-4 nz t͡ɕ u-4 ɓ ɔ-4 iz k k aː-4 ɓ a-0 iz iz s w w o-4 ŋmz z o-3 iz iz l aː-5 iz v u-5 tz ɓ a-0 iz l e-0 nz ɗ e-0 n o-4 iz iz v əː-4 iz ɓ aː-0
+ĐNL_Nu_6_S0007_25,/audio_data/private_test/ĐNL_Nu_6_S0007_25.wav,t əː-4 tʰ ə-4 iz ɓ o-0 ŋmz h o-1 ŋmz ɗ ɨə-5 kz kz h w aː-5 kz n a-4 ŋz aː-0 nz w i-3 k k ə-5 uz aː-0
+TQA_7_NAM_S0045_16,/audio_data/private_test/TQA_7_NAM_S0045_16.wav,tʰ aː-3 uz əː-0 iz t əː-4 m əː-1 iz k ə-5 uz t͡ɕ aː-3 l əː-1 iz ɓ ɓ ɨ-4 kz t͡ɕ eaː-0 ŋ̟z s o-4 h aː-0 iz
+TQA_7_NAM_S0045_150,/audio_data/private_test/TQA_7_NAM_S0045_150.wav,v i-1 s aː-0 uz uz k ɔ-4 tʰ ɨə-1 ŋz ɗ ɨ-4 ŋz ɓ a-1 ŋz m o-5 tz tz t͡ɕ ə-0 nz
+TQA_7_NAM_S0045_112,/audio_data/private_test/TQA_7_NAM_S0045_112.wav,m a-5 tz h o-1 k aː-1 ŋz e-0 k aː-1 ŋz s eaː-0 ŋ̟z tʰ əː-0 mz m e-0 ŋ̟z m o-0 ŋmz
+TQA_7_NAM_S0045_37,/audio_data/private_test/TQA_7_NAM_S0045_37.wav,h o-0 mz n a-0 iz v e-1 m əː-3 h o-5 iz
+TQA_7_NAM_S0045_146,/audio_data/private_test/TQA_7_NAM_S0045_146.wav,m ɔ-3 k uə-3 t͡ɕ i-0 mz l iə-0 nz k w w aː-0 nz ɗ e-4 nz tʰ ɨ-4 kz a-0 nz k uə-3 t͡ɕ u-4 ŋmz ŋmz
+TQA_7_NAM_S0045_79,/audio_data/private_test/TQA_7_NAM_S0045_79.wav,ɓ o-5 f ə-5 nz t͡ɕ aː-3 l əː-1 iz t͡ɕ ɔ-0 k ə-0 uz əː-0 ɗ ə-0 uz l aː-1 aː-3
+TQA_7_NAM_S0045_88,/audio_data/private_test/TQA_7_NAM_S0045_88.wav,t ɨ-1 t͡ɕ i-3 t ɨ-1 ŋ ɨ-2 t͡ɕ i-3 h w w aː-5 tz tz ɗ o-5 ŋmz l aː-1 m əː-3 h o-5 iz iz l ɨə-5 nz ɓ a-0 iz z ə-2 nz l o-4 iz z u-3 t͡ɕ aː-0 uz v ə-2 iz iz
+TQA_7_NAM_S0045_194,/audio_data/private_test/TQA_7_NAM_S0045_194.wav,v i-1 s aː-0 uz t iə-4 ŋz h aː-4 tz k uə-3 t͡ɕ i-0 i-0 mz t͡ɕ əː-3 n e-0 nz ɓ w w o-1 nz tʰ aː-4 mz
+TQA_7_NAM_S0045_271,/audio_data/private_test/TQA_7_NAM_S0045_271.wav,ɓ aː-4 kz ɓ o-1 n o-0 ŋmz ɗ ɨ-4 ŋz i-0 mz ɲ ɨ-0 t ɨə-5 ŋz ɗ aː-4
+TQA_7_NAM_S0045_162,/audio_data/private_test/TQA_7_NAM_S0045_162.wav,ɓ e-0 nz ɓ əː-1 z aː-1 uz uz z ɨə-2 ɗ aː-4 mz k ɔ-3 z aː-5 iz k ɔ-4 ɓ o-0 ŋmz k u-4 kpz t͡ɕ a-4 ŋz
+TQA_7_NAM_S0045_67,/audio_data/private_test/TQA_7_NAM_S0045_67.wav,k aː-4 kz k ə-5 uz m w w o-4 nz t͡ɕ i-0 mz ɛ-4 n ɔ-4 iz iz ɣ i-1 x i-0 m uə-1 s w w ə-0 nz v e-1
+ĐNL_Nu_6_S0007_81,/audio_data/private_test/ĐNL_Nu_6_S0007_81.wav,ɓ aː-4 uz uz k ɔ-0 nz nz ɓ aː-4 uz k ɔ-0 nz nz z ə-4 tz t ɨ-4 kz
+TQA_7_NAM_S0045_268,/audio_data/private_test/TQA_7_NAM_S0045_268.wav,tʰ aː-3 uz əː-0 iz k ə-5 uz t͡ɕ aː-3 l əː-1 iz ɗ i-0
+ĐNL_Nu_6_S0007_60,/audio_data/private_test/ĐNL_Nu_6_S0007_60.wav,x o-0 ŋmz l ɔ-0 t͡ɕ i-0 mz əː-0 iz
+TQA_7_NAM_S0045_1,/audio_data/private_test/TQA_7_NAM_S0045_1.wav,k ə-5 uz əː-0 iz t͡ɕ u-4 ŋmz m i-1 ŋ̟z k u-1 ŋmz tʰ i-0 ɣ ɔ-5 iz t e-0 nz ɲ ɨ-2 ŋz l w w aː-1 iz t͡ɕ i-0 mz k ɔ-4 t e-0 nz t͡ɕ ɔ-0 nz ɓ ɨ-4 kz kz t͡ɕ eaː-0 ŋ̟z n a-1 iz ɲ ɛ-4
+TQA_7_NAM_S0045_232,/audio_data/private_test/TQA_7_NAM_S0045_232.wav,k aː-4 kz kz l w w w aː-1 iz t͡ɕ i-0 mz k ɔ-4 z ə-4 tz ɲ iə-1 uz l əː-5 iz i-4 k̟z m aː-0 ŋz l aː-5 iz iz t͡ɕ ɔ-0 ɔ-0 k ɔ-0 nz ŋ ɨə-1 iz ɲ ɨ-0 z u-4 pz n ə-0 nz z ə-0 nz ɓ aː-3 uz v e-5 m uə-1 m aː-1 ŋz
+TQA_7_NAM_S0045_279,/audio_data/private_test/TQA_7_NAM_S0045_279.wav,ɓ o-1 k ə-0 uz ɗ ɨə-5 kz k ɔ-0 nz ŋ ɨə-1 iz ɗ ɨə-0 v e-1 n w w w o-0 iz t ɨ-1 k eaː-4 k̟z t ə-0 iz n a-0 mz ŋ i-1 nz n a-0 mz
+ĐNL_Nu_6_S0007_97,/audio_data/private_test/ĐNL_Nu_6_S0007_97.wav,l ə-1 nz s a-0 uz ɛ-0 mz l aː-1 k ɔ-4 v ɛ-3 m aː-1 t ɨ-4 kz kz s a-0 uz ɛ-0 mz s ɛ-2 tʰ o-3 iz ɓ ɔ-4 m ɛ-0
+ĐNL_Nu_6_S0007_55,/audio_data/private_test/ĐNL_Nu_6_S0007_55.wav,o-0 iz ɓ aː-5 nz k aː-4 əː-0 iz
+TQA_7_NAM_S0045_93,/audio_data/private_test/TQA_7_NAM_S0045_93.wav,ɲ ɨ-2 ŋz k əː-0 nz z ɔ-4 ɲ ɛ-5 l aː-1 m a-5 tz n ɨə-4 kz h o-1 i-0 z əː-0 p aː-0 uz t͡ɕ aː-0 uz m i-1 ŋ̟z z u-0 ŋmz ɗ o-5 ŋmz
+ĐNL_Nu_6_S0007_61,/audio_data/private_test/ĐNL_Nu_6_S0007_61.wav,k aː-4 ɓ əː-0 iz z iə-1 s w w o-4 iz
+TQA_7_NAM_S0045_63,/audio_data/private_test/TQA_7_NAM_S0045_63.wav,k ɔ-3 m ɔ-5 kpz s eaː-0 ŋ̟z t͡ɕ ə-0 nz ɗ e-0
+ĐNL_Nu_6_S0007_74,/audio_data/private_test/ĐNL_Nu_6_S0007_74.wav,t əː-4 k ɔ-4 ɓ aː-5 nz aː-0 ɓ aː-5 nz k e-3 ɗ i-0
+TQA_7_NAM_S0045_217,/audio_data/private_test/TQA_7_NAM_S0045_217.wav,t əː-4 ɗ o-4 ɲ ɛ-4 t͡ɕ i-0 mz ɣ i-1 ɓ aː-4 uz uz h iə-5 uz m uə-1 s w ə-0 nz s aː-0 ŋz
+TQA_7_NAM_S0045_149,/audio_data/private_test/TQA_7_NAM_S0045_149.wav,k ɔ-1 nz nz t͡ɕ i-0 mz ɨ-0 ŋz k ɔ-4 m ɔ-3 v ɨə-1 k ɨ-4 ŋz v ɨə-1 s a-4 kz ɗ e-3 ɓ a-4 tz v aː-1 s ɛ-4 k ɔ-0 nz nz m o-1 iz
+TQA_7_NAM_S0045_40,/audio_data/private_test/TQA_7_NAM_S0045_40.wav,k ɔ-3 m ɔ-5 kpz s eaː-0 ŋ̟z t͡ɕ ə-0 nz ɗ e-0
+TQA_7_NAM_S0045_201,/audio_data/private_test/TQA_7_NAM_S0045_201.wav,ɓ e-0 ɗ o-4 iz iz v əː-4 iz iz h w w aː-0 h aː-0 iz k ə-5 uz k ə-1 mz z aː-0 aː-0 uz
+TQA_7_NAM_S0045_92,/audio_data/private_test/TQA_7_NAM_S0045_92.wav,t͡ɕ i-0 mz z ɨ-1 ŋz t ə-0 iz ŋ w w iə-0 nz
+TQA_7_NAM_S0045_119,/audio_data/private_test/TQA_7_NAM_S0045_119.wav,tʰ tʰ iə-0 nz ŋ aː-0 k ɔ-4 ɓ o-5 l o-0 ŋmz t͡ɕ a-4 ŋz m w o-4 tz t͡ɕ iə-4 kz k o-3 z aː-1 iz tʰ ɨə-1 ŋz s w w w iə-0 nz ɓ əː-0 iz l o-5 iz k w w eaː-0 ŋ̟z h h o-1
+TQA_7_NAM_S0045_65,/audio_data/private_test/TQA_7_NAM_S0045_65.wav,k ə-0 iz k aː-0 mz v aː-1 ŋz tʰ e-0 mz t͡ɕ aː-4 iz
+ĐNL_Nu_6_S0007_18,/audio_data/private_test/ĐNL_Nu_6_S0007_18.wav,tʰ e-4 l aː-1 m ə-1 mz k ə-0 iz ɗ o-5 iz ɗ ə-4 tz ɲ o-0 l e-0 nz
+ĐNL_Nu_6_S0007_98,/audio_data/private_test/ĐNL_Nu_6_S0007_98.wav,ɓ aː-5 nz v ɨə-1 ŋ ɛ-0 s ɔ-0 ŋmz k ə-0 uz k ə-0 uz t͡ɕ w w iə-5 nz nz t əː-4 k e-3 t u-4 x o-0 ŋmz
+ĐNL_Nu_6_S0007_4,/audio_data/private_test/ĐNL_Nu_6_S0007_4.wav,ɗ e-3 t əː-4 ɗ ɔ-5 kpz t͡ɕ ɨə-4 kz kz ɓ aː-5 nz ɲ aː-0
+ĐNL_Nu_6_S0007_83,/audio_data/private_test/ĐNL_Nu_6_S0007_83.wav,t͡ɕ ɔ-0 ŋmz k w w o-5 kpz tʰ i-0 v ə-5 tz t a-0 iz ɣ ə-4 uz k ɔ-0 ɔ-0 nz tʰ a-4 ŋz
+ĐNL_Nu_6_S0007_68,/audio_data/private_test/ĐNL_Nu_6_S0007_68.wav,ɗ u-4 ŋmz z o-1 iz ɗ ə-4 iz ɓ aː-5 nz aː-0
+TQA_7_NAM_S0045_267,/audio_data/private_test/TQA_7_NAM_S0045_267.wav,ɓ aː-1 iz tʰ əː-0 t aː-3 z aː-4 ŋz v ɛ-3 k uə-3 m o-2 iz iz l w w w aː-1 iz t͡ɕ i-0 mz ɗ e-4 nz nz ɓ əː-1 t͡ɕ ɛ-0 x aː-4 kz ɲ a-0 uz ɲ ɨ-0 tʰ e-4 n aː-1 uz
+TQA_7_NAM_S0045_52,/audio_data/private_test/TQA_7_NAM_S0045_52.wav,t͡ɕ ɔ-5 nz i-0 ɗ u-4 ŋmz ŋmz
+TQA_7_NAM_S0045_83,/audio_data/private_test/TQA_7_NAM_S0045_83.wav,s e-4 pz k aː-4 kz t ɨ-1 ŋ ɨ-2 s a-0 uz v aː-1 uz m o-5 tz ɲ ɔ-4 mz tʰ i-4 k̟z h əː-5 pz
+ĐNL_Nu_6_S0007_104,/audio_data/private_test/ĐNL_Nu_6_S0007_104.wav,t͡ɕ ɔ-0 ŋmz k w w w o-5 kpz tʰ i-0 l ɛ-0 uz k ə-0 iz aː-0 iz tʰ a-4 ŋz
+TQA_7_NAM_S0045_278,/audio_data/private_test/TQA_7_NAM_S0045_278.wav,ɓ o-1 k ə-0 uz t u-0 ŋmz k aː-4 k̟z t o-3 t iə-0 nz ɓ o-1 k ə-0 uz ɲ aː-1 l aː-1 l w w w aː-1 iz ɓ o-1 k ə-0 uz n w w w i-4 t͡ɕ w w iə-0 nz l aː-1 mz t o-3 t͡ɕ e-0 nz v eaː-4 k̟z ɗ aː-4
+ĐNL_Nu_6_S0007_3,/audio_data/private_test/ĐNL_Nu_6_S0007_3.wav,t͡ɕ u-4 ŋmz m i-1 ŋ̟z k u-1 ŋmz ɗ ɔ-5 kpz ɓ aː-1 iz iz h aː-5 tz n a-4 ŋz ɓ ɛ-4 k ɔ-0 nz ɲ ɛ-4
+ĐNL_Nu_6_S0007_76,/audio_data/private_test/ĐNL_Nu_6_S0007_76.wav,tʰ o-3 iz ɓ ɔ-4 ŋmz
+TQA_7_NAM_S0045_39,/audio_data/private_test/TQA_7_NAM_S0045_39.wav,z u-3 m uə-1 s w w ə-0 nz k u-1 ŋmz v e-1
+TQA_7_NAM_S0045_172,/audio_data/private_test/TQA_7_NAM_S0045_172.wav,ɗ ɛ-0 mz v e-1 ɓ ɔ-3 v aː-1 uz l o-1 ŋmz s əː-0 nz k aː-0 k ɔ-0 nz
+TQA_7_NAM_S0045_17,/audio_data/private_test/TQA_7_NAM_S0045_17.wav,h h i-1 ŋ̟z eaː-3 ŋ̟z s o-4 h aː-0 iz l aː-1 k ɔ-0 nz t͡ɕ i-0 mz ɣ a-4 iz x w w e-0 əː-0 iz k ə-5 uz t͡ɕ aː-3 l əː-1 iz ɗ i-0
+TQA_7_NAM_S0045_283,/audio_data/private_test/TQA_7_NAM_S0045_283.wav,x i-0 t͡ɕ i-0 mz n ɔ-0 nz m əː-4 iz z aː-0 ɗ əː-1 iz ɓ o-4 m ɛ-5 x o-0 ŋmz m əː-4 mz mz m o-1 iz m aː-1 m əː-4 mz s ɨə-2 t͡ɕ ɨə-4 t͡ɕ ɔ-0 ŋmz z iə-1 uz t͡ɕ ɔ-0 k ɔ-0 nz
+ĐNL_Nu_6_S0007_70,/audio_data/private_test/ĐNL_Nu_6_S0007_70.wav,tʰ ɛ-0 uz t əː-4 tʰ i-1 t͡ɕ i-0 mz ɓ a-0 iz iz t͡ɕ e-0 nz t͡ɕ t͡ɕ əː-1 iz
+TQA_7_NAM_S0045_165,/audio_data/private_test/TQA_7_NAM_S0045_165.wav,k u-4 kpz s u-0 ŋmz s ɨə-4 ŋz x o-0 nz t aː-3 t͡ɕ i-0 mz v ɛ-4 uz v ɔ-0 nz m aː-2 iz z o-1 iz m əː-4 iz ɓ a-0 iz v e-1 t͡ɕ əː-1 iz iz s eaː-0 ŋ̟z tʰ aː-3 mz
+TQA_7_NAM_S0045_185,/audio_data/private_test/TQA_7_NAM_S0045_185.wav,k ɔ-1 nz ɓ o-0 ŋmz h w w aː-0 z aː-4 v aː-1 k aː-4 kz k ə-5 uz ɗ ɨ-1 ŋz ŋ a-4 tz n ɔ-4
+ĐNL_Nu_6_S0007_8,/audio_data/private_test/ĐNL_Nu_6_S0007_8.wav,n ɔ-4 aː-0 nz w w i-3 z əː-5 nz ɣ ɨ-3 iz t a-5 ŋz ɓ o-0 ŋmz h o-1 ŋmz t͡ɕ iə-4 kz x o-0 ŋmz v aː-1 ŋz ŋz ɔ-4 nz
+TQA_7_NAM_S0045_168,/audio_data/private_test/TQA_7_NAM_S0045_168.wav,tʰ i-1 z aː-0 s əː-0 nz k aː-0 ɗ aː-2 ɓ i-5 ɲ o-4 tz t͡ɕ ɔ-0 ŋmz l o-1 ŋmz
+TQA_7_NAM_S0045_3,/audio_data/private_test/TQA_7_NAM_S0045_3.wav,t əː-4 m əː-1 iz h ə-0 nz t͡ɕ aː-3 l əː-1 iz
+ĐNL_Nu_6_S0007_24,/audio_data/private_test/ĐNL_Nu_6_S0007_24.wav,ɛ-0 uz uz ɓ aː-5 nz ɓ o-0 ŋmz h o-1 ŋmz ɗ ɨə-5 kz tʰ aː-3 h aː-5 tz n a-4 ŋz a-0 nz i-3 h a-0 iz iz z u-4 tz h aː-5 tz tz l aː-4 k ə-0 iz n a-3 iz n a-4 mz
+TQA_7_NAM_S0045_248,/audio_data/private_test/TQA_7_NAM_S0045_248.wav,ɗ ɨ-4 ŋz ɲ i-1 nz m e-0 ŋ̟z m o-0 ŋmz
+TQA_7_NAM_S0045_228,/audio_data/private_test/TQA_7_NAM_S0045_228.wav,t͡ɕ i-4 ŋ̟z l aː-1 t͡ɕ i-0 mz k u-4 m ɛ-1 uz
+TQA_7_NAM_S0045_203,/audio_data/private_test/TQA_7_NAM_S0045_203.wav,m aː-1 x o-0 ŋmz k ə-1 nz ɓ iə-4 tz ɓ o-0 ŋmz h w w aː-0 ɗ aː-0 ŋz t͡ɕ əː-3 n e-0 nz ɗ ə-4 tz ɗ ɛ-5 pz
+TQA_7_NAM_S0045_218,/audio_data/private_test/TQA_7_NAM_S0045_218.wav,h ə-0 nz k ə-5 uz t͡ɕ aː-3 l əː-1 iz z u-4 pz t əː-4
+TQA_7_NAM_S0045_86,/audio_data/private_test/TQA_7_NAM_S0045_86.wav,t əː-4 s ɛ-2 s a-4 pz s e-4 pz ɲ ɨ-0 s a-0 uz uz
+TQA_7_NAM_S0045_34,/audio_data/private_test/TQA_7_NAM_S0045_34.wav,ɗ ɨə-5 kz tʰ o-0 iz t əː-4 ɗ ɔ-5 kpz ɲ ɛ-4
+ĐNL_Nu_6_S0007_6,/audio_data/private_test/ĐNL_Nu_6_S0007_6.wav,m ɛ-5 m aː-5 iz t͡ɕ əː-1 tʰ aː-3 h aː-5 tz n a-4 ŋz s w w o-4 ŋmz ɗ ə-4 tz t͡ɕ əː-0 iz
+TQA_7_NAM_S0045_87,/audio_data/private_test/TQA_7_NAM_S0045_87.wav,t ɨ-1 ŋ ɨ-2 t͡ɕ i-3 s ɨ-5 v ə-5 tz l aː-1 t͡ɕ i-0 mz ɛ-4 nz h w w w aː-0 k eaː-4 ŋ̟z m ə-1 mz n ɔ-0 nz
+TQA_7_NAM_S0045_269,/audio_data/private_test/TQA_7_NAM_S0045_269.wav,ɣ ɛ-4 pz ɗ u-4 ŋmz l aː-1 ə-0 iz n o-4 iz v əː-4 iz h aː-0 iz iz ɗ aː-1 nz k ɔ-1 h aː-5 k eaː-4 ŋ̟z z ɛ-0 uz m ɨ-1 ŋz
+TQA_7_NAM_S0045_262,/audio_data/private_test/TQA_7_NAM_S0045_262.wav,k ə-0 uz tʰ əː-0 n aː-1 uz t͡ɕ ɔ-0 tʰ ə-4 iz ɓ əː-1 t͡ɕ ɛ-0 z ə-4 tz v w w i-0 x i-0 k ɔ-4 x eaː-4 k̟z ɗ e-4 nz
+TQA_7_NAM_S0045_266,/audio_data/private_test/TQA_7_NAM_S0045_266.wav,n əː-3 ɗ ə-1 iz h w w w aː-0 t͡ɕ a-4 ŋz
+TQA_7_NAM_S0045_35,/audio_data/private_test/TQA_7_NAM_S0045_35.wav,t͡ɕ i-0 mz ɛ-4 nz
+ĐNL_Nu_6_S0007_72,/audio_data/private_test/ĐNL_Nu_6_S0007_72.wav,ɓ aː-5 nz v aː-1 t əː-4 tʰ ə-4 iz k aː-4 v aː-1 t͡ɕ i-0 mz k u-1 ŋmz ɗ i-0 t͡ɕ əː-0 iz n ɨə-2 ɗ ɔ-4
+TQA_7_NAM_S0045_101,/audio_data/private_test/TQA_7_NAM_S0045_101.wav,t ɨ-1 t͡ɕ e-0 nz n e-1 nz t͡ɕ əː-1 iz s eaː-0 ŋ̟z tʰ a-3 mz mz z o-4 ŋmz ɲ ɨ-0 k ɔ-4 h h aː-1 ŋz t͡ɕ a-0 mz t͡ɕ iə-4 kz
+TQA_7_NAM_S0045_181,/audio_data/private_test/TQA_7_NAM_S0045_181.wav,s aː-4 ŋz h o-0 o-0 mz s a-0 uz tʰ ə-4 iz s əː-0 nz k aː-0 ɗ aː-2 t͡ɕ e-4 tz
+TQA_7_NAM_S0045_32,/audio_data/private_test/TQA_7_NAM_S0045_32.wav,aː-0 h i-1 ŋ̟z ŋ̟z eaː-3 ŋ̟z s ə-4 m ɨə-1 iz l aː-1 k ɔ-0 nz t͡ɕ i-0 mz m i-1 ŋ̟z ɓ i-5 ɗ ə-4 pz
+TQA_7_NAM_S0045_231,/audio_data/private_test/TQA_7_NAM_S0045_231.wav,tʰ ɛ-0 uz uz k aː-4 kz k ə-5 uz k aː-4 kz l w w w aː-1 iz t͡ɕ i-0 mz m aː-0 ŋz ɗ e-4 nz l əː-5 iz iz i-4 k̟z ɣ i-1 t͡ɕ ɔ-0 k ɔ-0 nz ŋ ɨə-1 iz
+TQA_7_NAM_S0045_154,/audio_data/private_test/TQA_7_NAM_S0045_154.wav,n e-4 uz tʰ ə-4 iz ŋ w w w i-0 h iə-3 mz k ɔ-1 k ɔ-4 tʰ e-3 ɓ a-0 iz iz ɗ i-0 t͡ɕ o-4 mz tʰ ə-5 tz ɲ eaː-0 ŋ̟z
+TQA_7_NAM_S0045_56,/audio_data/private_test/TQA_7_NAM_S0045_56.wav,əː-0 iz k ə-5 uz t͡ɕ aː-3 l əː-1 iz z u-4 pz t əː-4 ɲ ɛ-4
+TQA_7_NAM_S0045_116,/audio_data/private_test/TQA_7_NAM_S0045_116.wav,z ɨə-5 tʰ ɛ-0 uz ɓ aː-1 iz ɗ ɔ-5 kpz h a-2 iz t aː-3 l aː-5 iz h i-1 ŋ̟z eaː-3 ŋ̟z k uə-3 m o-5 tz l w w w aː-1 iz t͡ɕ i-0 mz m aː-1 k aː-4 kz ɓ aː-5 nz tʰ i-4 k̟z k̟z ɲ ɛ-4
+TQA_7_NAM_S0045_178,/audio_data/private_test/TQA_7_NAM_S0045_178.wav,ɗ e-0 mz ə-4 iz iz s əː-0 nz k aː-0 l iə-1 ɗ əː-1 iz
+TQA_7_NAM_S0045_192,/audio_data/private_test/TQA_7_NAM_S0045_192.wav,n ɔ-4 s w w w ɛ-1 ɲ ɨ-2 ŋz k eaː-1 ŋ̟z t͡ɕ a-4 ŋz t ɨə-0 iz t a-4 nz ɗ ɔ-4 n a-4 ŋz m a-5 tz t͡ɕ əː-1 iz v aː-1 s u-0 ŋmz s ɨə-4 ŋz h əː-0 nz t aː-3 x i-0 ŋ ɛ-0 s əː-0 nz k aː-0 h ɔ-4 tz
+TQA_7_NAM_S0045_164,/audio_data/private_test/TQA_7_NAM_S0045_164.wav,k u-4 kpz əː-0 iz iz k u-4 kpz s i-0 ŋ̟z s a-4 nz l aː-1 mz s aː-0 uz
+TQA_7_NAM_S0045_171,/audio_data/private_test/TQA_7_NAM_S0045_171.wav,ɓ o-2 ŋmz k ɔ-4 h aː-0 iz k ə-5 uz uz ɓ ɛ-4 ɗ i-0 v aː-1 uz v ɨə-1 nz k a-4 tz k aː-3 ɗ aː-4 mz x ɔ-3 z z aː-5 iz l ə-2 nz ɓ o-0 ŋmz k u-4 kpz kpz
+TQA_7_NAM_S0045_10,/audio_data/private_test/TQA_7_NAM_S0045_10.wav,t əː-4 m əː-4 h ə-0 nz t͡ɕ aː-3 l əː-1 iz h o-5 t əː-4
+ĐNL_Nu_6_S0007_101,/audio_data/private_test/ĐNL_Nu_6_S0007_101.wav,t͡ɕ ɔ-0 ŋmz k uə-3 tʰ i-0 t͡ɕ a-5 iz ɓ aː-4 uz tʰ a-4 ŋz h a-0 iz tʰ uə-0
+ĐNL_Nu_6_S0007_59,/audio_data/private_test/ĐNL_Nu_6_S0007_59.wav,k aː-4 n ɔ-4 iz
+TQA_7_NAM_S0045_227,/audio_data/private_test/TQA_7_NAM_S0045_227.wav,tʰ aː-3 uz əː-0 iz k ə-5 uz t͡ɕ aː-3 l əː-1 iz iz h o-5 t əː-4
+ĐNL_Nu_6_S0007_37,/audio_data/private_test/ĐNL_Nu_6_S0007_37.wav,o-0 iz ɓ aː-5 nz k aː-4 əː-0 iz
+TQA_7_NAM_S0045_105,/audio_data/private_test/TQA_7_NAM_S0045_105.wav,tʰ aː-3 uz əː-0 iz k ə-5 uz ɗ ɔ-5 kpz ɗ w w aː-5 nz ɓ aː-0 ɗ i-0 i-0
+TQA_7_NAM_S0045_152,/audio_data/private_test/TQA_7_NAM_S0045_152.wav,n e-4 uz n ɔ-4 n a-1 mz h a-3 ŋmz s w w w o-4 ŋmz tʰ i-1 ɗ ɨ-4 ŋz v ə-5 iz s ɛ-2 z ə-4 tz x ɔ-4 x a-0 nz
+TQA_7_NAM_S0045_2,/audio_data/private_test/TQA_7_NAM_S0045_2.wav,t əː-4 ɗ o-4 k aː-4 kz k ə-5 uz t͡ɕ ɨə-4 kz h i-1 ŋ̟z eaː-3 ŋ̟z s o-4 m o-5 tz l aː-1 t͡ɕ i-0 mz ɣ i-1 v ə-5 iz
+ĐNL_Nu_6_S0007_73,/audio_data/private_test/ĐNL_Nu_6_S0007_73.wav,v iə-5 tz n aː-0 mz əː-0 iz ɓ aː-5 nz k ɔ-4 m w w w o-4 nz ŋ ɛ-0 m o-5 tz k ə-0 uz t͡ɕ w iə-5 nz x o-0 ŋmz
+ĐNL_Nu_6_S0007_5,/audio_data/private_test/ĐNL_Nu_6_S0007_5.wav,h aː-5 tz n a-4 ŋz ɓ ɛ-4 k ɔ-0 nz
+TQA_7_NAM_S0045_19,/audio_data/private_test/TQA_7_NAM_S0045_19.wav,ɓ ə-0 iz z əː-1 t əː-4 m əː-1 iz ɓ aː-5 nz h ɨə-2 nz t͡ɕ aː-3 l əː-1 iz ɓ ɨ-4 kz t͡ɕ eaː-0 ŋ̟z s o-4 ɓ o-4 nz
+TQA_7_NAM_S0045_134,/audio_data/private_test/TQA_7_NAM_S0045_134.wav,t i-1 mz ɓ o-5 f ə-5 nz k ə-0 uz uz t͡ɕ t͡ɕ aː-3 l əː-1 iz t͡ɕ ɔ-0 k ə-0 uz h h ɔ-3 iz iz əː-0 ɗ ə-0 uz
+ĐNL_Nu_6_S0007_86,/audio_data/private_test/ĐNL_Nu_6_S0007_86.wav,ŋ a-1 iz m aː-0 iz k ɔ-4 k w w o-5 kpz k w w w o-5 kpz k w w o-5 kpz l e-2 tʰ iə-4 uz ɲ i-0
+TQA_7_NAM_S0045_72,/audio_data/private_test/TQA_7_NAM_S0045_72.wav,k aː-3 mz mz əː-0 nz ɓ aː-5 nz ɗ aː-2 v e-1 ɗ ə-0 iz t͡ɕ əː-0 iz k u-1 ŋmz t͡ɕ u-4 ŋmz t o-0 iz
+ĐNL_Nu_6_S0007_315,/audio_data/private_test/ĐNL_Nu_6_S0007_315.wav,m uə-1 n aː-1 uz v ɨə-1 nz k u-2 ŋmz z ɨ-5 kz ŋ əː-2 z aː-4 tz h ɨə-0 ŋz
+TQA_7_NAM_S0045_49,/audio_data/private_test/TQA_7_NAM_S0045_49.wav,x i-0 l əː-4 nz tʰ e-0 mz m o-5 tz t w w o-3 iz
+ĐNL_Nu_6_S0007_67,/audio_data/private_test/ĐNL_Nu_6_S0007_67.wav,aː-0 t əː-4 tʰ ə-4 iz iz k aː-4 ɓ əː-0 iz z ɨə-4 s w w o-4 iz iz k ə-5 uz aː-0
+TQA_7_NAM_S0045_94,/audio_data/private_test/TQA_7_NAM_S0045_94.wav,ɓ ə-1 uz t͡ɕ əː-1 iz iz t͡ɕ ɔ-0 ŋmz s eaː-0 ŋ̟z s ɔ-0 iz ɓ ɔ-4 ŋmz s w w o-4 ŋmz ɗ a-4 iz iz h o-3
+ĐNL_Nu_6_S0007_12,/audio_data/private_test/ĐNL_Nu_6_S0007_12.wav,ɗ e-3 t əː-4 ɗ e-3 t əː-4 ɗ ɔ-5 kpz l aː-5 iz ɓ aː-5 nz ŋ ɛ-0 ɲ ɛ-4
+TQA_7_NAM_S0045_163,/audio_data/private_test/TQA_7_NAM_S0045_163.wav,m o-5 tz t͡ɕ u-4 s əː-0 nz k aː-0 s aː-1 s w w o-4 ŋmz h ɔ-4 tz z a-1 ŋz
+TQA_7_NAM_S0045_211,/audio_data/private_test/TQA_7_NAM_S0045_211.wav,k aː-3 t͡ɕ i-0 mz v aː-1 h w w w aː-0 k u-1 ŋmz t o-0 ɗ iə-3 mz t͡ɕ ɔ-0 k w w o-5 kpz s o-4 ŋmz t͡ɕ əː-3 n e-0 nz t ɨə-0 iz ɗ ɛ-5 pz h əː-0 nz
+TQA_7_NAM_S0045_6,/audio_data/private_test/TQA_7_NAM_S0045_6.wav,k ə-5 uz uz əː-0 iz ə-5 uz tʰ aː-3 uz əː-0 iz k ə-5 uz k ɔ-4 tʰ e-3 e-3 t͡ɕ aː-3 l əː-1 iz h o-5 t əː-4 x o-0 ŋmz
+TQA_7_NAM_S0045_177,/audio_data/private_test/TQA_7_NAM_S0045_177.wav,t əː-4 iz z o-1 iz t͡ɕ a-3 ŋz aː-0 iz t͡ɕ ɔ-0 k ɔ-0 nz t͡ɕ i-0 mz x o-4 nz x o-3 m o-5 tz z ɔ-5 tz n ɨə-4 kz
+ĐNL_Nu_6_S0007_29,/audio_data/private_test/ĐNL_Nu_6_S0007_29.wav,ɗ e-3 t əː-4 ɗ ɔ-5 kpz ɓ aː-5 nz ŋ ɛ-0 n aː-1 uz
+TQA_7_NAM_S0045_226,/audio_data/private_test/TQA_7_NAM_S0045_226.wav,t͡ɕ i-0 mz ɣ i-1 z o-4 ŋmz m ə-5 tz m ɛ-1 uz uz a-0 nz ɗ e-0 nz t͡ɕ w w iə-0 nz ɓ a-4 tz t͡ɕ w o-5 tz v ə-5 iz iz ɗ aː-4 kz k ə-5 uz
+TQA_7_NAM_S0045_159,/audio_data/private_test/TQA_7_NAM_S0045_159.wav,t͡ɕ u-4 ŋmz m i-1 ŋ̟z l aː-5 iz ɗ ɔ-5 kpz ɓ aː-1 iz ɗ ɔ-5 kpz kpz t͡ɕ i-0 mz s əː-0 nz k aː-0 v aː-1 ɓ o-0 ŋmz k u-4 kpz t͡ɕ a-4 ŋz ɲ ɛ-4
+ĐNL_Nu_6_S0007_48,/audio_data/private_test/ĐNL_Nu_6_S0007_48.wav,t əː-4 ɗ ɔ-5 kpz l aː-5 iz l ə-1 nz n ɨə-2 t͡ɕ u-4 ŋmz m i-1 ŋ̟z k u-1 ŋmz ŋ ɛ-0 ɲ ɛ-4
+TQA_7_NAM_S0045_175,/audio_data/private_test/TQA_7_NAM_S0045_175.wav,k u-4 kpz k w w aː-3 h ɨə-0 ŋz tʰ əː-0 mz ŋ aː-1 uz ŋ aː-5 tz aː-0 nz w i-3 t͡ɕ i-0 mz s əː-0 nz k aː-0
+TQA_7_NAM_S0045_138,/audio_data/private_test/TQA_7_NAM_S0045_138.wav,aː-0 ɓ o-5 f ə-5 nz i-0 nz ɗ ə-5 mz l aː-1 ɓ o-5 f ə-5 nz t͡ɕ aː-3 l əː-1 iz t͡ɕ ɔ-0 k ə-0 uz h ɔ-3 iz iz əː-0 ɗ ə-0 uz
+TQA_7_NAM_S0045_169,/audio_data/private_test/TQA_7_NAM_S0045_169.wav,ɓ o-0 ŋmz k u-4 kpz m w w o-4 nz k ɨ-4 uz uz t͡ɕ i-0 mz ɲ ɨ-0 ŋz t͡ɕ a-3 ŋz l aː-1 mz ɗ ɨə-5 kz ɣ i-1
+TQA_7_NAM_S0045_89,/audio_data/private_test/TQA_7_NAM_S0045_89.wav,s a-0 uz ɗ ə-0 iz iz t əː-4 v aː-1 k aː-4 kz k ə-5 uz s ɛ-2 k u-1 ŋmz ɗ ɔ-5 kpz ɓ aː-1 iz t͡ɕ i-0 mz z ɨ-1 ŋz t ə-0 iz ŋ w w iə-0 nz
+ĐNL_Nu_6_S0007_82,/audio_data/private_test/ĐNL_Nu_6_S0007_82.wav,ɓ aː-4 uz k ɔ-0 nz z ə-4 tz ɓ w w o-1 nz
+TQA_7_NAM_S0045_55,/audio_data/private_test/TQA_7_NAM_S0045_55.wav,s e-0 t͡ɕ i-0 mz ɛ-4 nz v e-1 ɗ e-3 m əː-3 h o-5 iz s w w ə-0 nz
+TQA_7_NAM_S0045_225,/audio_data/private_test/TQA_7_NAM_S0045_225.wav,ɗ ɔ-4 l aː-1 t͡ɕ i-0 mz ɓ o-1 k ə-0 uz
+TQA_7_NAM_S0045_132,/audio_data/private_test/TQA_7_NAM_S0045_132.wav,tʰ ɛ-0 uz t əː-4 ɓ o-5 f ə-5 nz nz i-0 mz ɗ ə-5 mz t͡ɕ ɔ-0 ŋmz ɲ ɨ-2 ŋz k ə-0 uz t͡ɕ e-0 nz t͡ɕ aː-3 l əː-1 iz t͡ɕ ɔ-0 k ə-0 uz uz h ɔ-3 iz əː-0 ɗ ə-0 uz
+ĐNL_Nu_6_S0007_102,/audio_data/private_test/ĐNL_Nu_6_S0007_102.wav,tʰ tʰ aː-4 iz ɗ o-5 k uə-3 ɓ aː-4 tʰ e-4 n aː-1 uz uz
+ĐNL_Nu_6_S0007_100,/audio_data/private_test/ĐNL_Nu_6_S0007_100.wav,ɗ ɨə-5 kz tʰ ə-1 iz z əː-1 z aː-0 t͡ɕ əː-0 iz iz ɓ aː-4 uz k ɔ-0 nz z aː-0 ŋ w w aː-1 iz s ə-0 nz t͡ɕ əː-0 iz v əː-4 iz k aː-4 kz ɓ aː-5 nz
+TQA_7_NAM_S0045_253,/audio_data/private_test/TQA_7_NAM_S0045_253.wav,ɗ ə-5 uz v aː-1 uz t͡ɕ o-2 k u-2
+ĐNL_Nu_6_S0007_2,/audio_data/private_test/ĐNL_Nu_6_S0007_2.wav,tʰ e-4 m i-1 ŋ̟z tʰ e-4 z əː-1 t͡ɕ u-4 ŋmz m i-1 ŋ̟z ɗ ɔ-5 kpz ɓ aː-1 iz ɣ i-1 ɲ i-3
+TQA_7_NAM_S0045_9,/audio_data/private_test/TQA_7_NAM_S0045_9.wav,ɗ ɔ-4 l aː-1 k w w aː-5 k aː-4 kz k ə-5 uz əː-0 iz h i-1 ŋ̟z eaː-3 ŋ̟z s o-4 ɓ ə-5 iz l aː-1 t͡ɕ i-0 mz ɣ i-1 v ə-5 iz
+TQA_7_NAM_S0045_241,/audio_data/private_test/TQA_7_NAM_S0045_241.wav,ɓ əː-1 t͡ɕ ɛ-0 k w w eaː-0 ŋ̟z h o-1 s w w o-4 tz ŋ a-1 iz ɗ ɔ-4 nz x eaː-4 k̟z
+TQA_7_NAM_S0045_184,/audio_data/private_test/TQA_7_NAM_S0045_184.wav,k aː-4 kz k ə-5 uz ɗ aː-2 ɗ e-3 m a-5 kz n ɔ-4 t͡ɕ e-4 tz v i-1 ɗ ɔ-4 iz x aː-4 tz
+ĐNL_Nu_6_S0007_85,/audio_data/private_test/ĐNL_Nu_6_S0007_85.wav,tʰ ə-1 iz v ɛ-3 m a-5 tz k uə-3 ɓ aː-4 tʰ ə-1 iz v ɛ-3 m a-5 tz k uə-3 ɓ aː-4 uz tʰ ə-1 iz h uə-3 ɲ əː-1 ɲ əː-1 ɓ aː-4 uz k ɔ-0 nz l aː-1
+TQA_7_NAM_S0045_139,/audio_data/private_test/TQA_7_NAM_S0045_139.wav,ɗ aː-5 iz iz ɓ aː-1 ŋz t͡ɕ aː-0 uz l ɨə-5 nz t͡ɕ e-0 nz n e-1 nz t͡ɕ əː-1 iz s eaː-0 ŋ̟z tʰ a-4 mz
+TQA_7_NAM_S0045_213,/audio_data/private_test/TQA_7_NAM_S0045_213.wav,x w w e-0 əː-0 iz k ə-5 uz m w w o-4 nz n ɔ-4 iz ɣ i-1
+ĐNL_Nu_6_S0007_20,/audio_data/private_test/ĐNL_Nu_6_S0007_20.wav,v ə-5 iz tʰ ɛ-0 uz uz ɓ aː-5 nz l aː-0 nz tʰ i-1 m ɛ-5 m a-5 tz t͡ɕ əː-1 iz t ɨə-3 ŋz h aː-5 tz n a-4 ŋz a-0 nz w w i-3 h a-0 iz tʰ tʰ aː-3 h aː-5 tz n a-4 ŋz h w o-4 ŋmz ɗ o-4 tz t͡ɕ əː-0 iz
+TQA_7_NAM_S0045_252,/audio_data/private_test/TQA_7_NAM_S0045_252.wav,t͡ɕ u-4 v u-5 tz ɓ a-0 iz l e-0 nz
+TQA_7_NAM_S0045_4,/audio_data/private_test/TQA_7_NAM_S0045_4.wav,ə-0 iz ɗ ɔ-4 l aː-1 t͡ɕ t͡ɕ i-0 mz k eaː-4 ŋ̟z k u-5 tz t əː-4 k w w w e-0
+TQA_7_NAM_S0045_246,/audio_data/private_test/TQA_7_NAM_S0045_246.wav,ɗ e-4 nz t͡ɕ əː-0 iz i-0 mz l a-5 ŋz
+TQA_7_NAM_S0045_25,/audio_data/private_test/TQA_7_NAM_S0045_25.wav,v ə-5 iz h ə-0 nz əː-0 iz k ə-5 uz k ɔ-4 ɓ iə-4 tz h i-1 ŋ̟z eaː-3 ŋ̟z s o-4 ɓ a-3 iz l aː-1 aː-1 k ɔ-0 nz t͡ɕ i-0 mz ɣ i-1 x o-0 ŋmz
+TQA_7_NAM_S0045_128,/audio_data/private_test/TQA_7_NAM_S0045_128.wav,əː-0 h o-3 i-0 z əː-0 uz p aː-0 uz əː-0 t ə-0 iz iz ŋ w w w iə-0 nz
+TQA_7_NAM_S0045_80,/audio_data/private_test/TQA_7_NAM_S0045_80.wav,k ɔ-3 m ɔ-5 kpz s eaː-0 ŋ̟z əː-0 t͡ɕ e-0 nz ɗ e-0
+ĐNL_Nu_6_S0007_7,/audio_data/private_test/ĐNL_Nu_6_S0007_7.wav,h aː-5 tz n a-4 ŋz ɣ a-5 pz ɓ o-0 ŋmz h o-1 ŋmz ɓ i-5 ɣ ə-2 iz k eaː-1 ŋ̟z ɗ aː-0 ŋz s u-5 tz s w w i-1 x ɔ-4 kpz
+TQA_7_NAM_S0045_30,/audio_data/private_test/TQA_7_NAM_S0045_30.wav,aː-0 h i-1 ŋ̟z eaː-3 ŋ̟z s o-4 t͡ɕ i-4 nz l aː-1 k ɔ-0 nz t͡ɕ i-0 mz v aː-1 ŋz eaː-0 ŋ̟z ɓ ə-0 iz iz z əː-1 ɗ e-4 nz h ə-0 nz ɗ e-4 iz
+TQA_7_NAM_S0045_208,/audio_data/private_test/TQA_7_NAM_S0045_208.wav,k ə-5 uz m w w o-4 nz k ə-5 uz m w w o-4 nz n ɔ-4 iz ɣ i-1 v əː-4 iz k aː-4 kz ɓ aː-5 nz ə-4 iz iz
+TQA_7_NAM_S0045_60,/audio_data/private_test/TQA_7_NAM_S0045_60.wav,k ə-5 uz t͡ɕ aː-3 l əː-1 iz ɗ i-0
+TQA_7_NAM_S0045_22,/audio_data/private_test/TQA_7_NAM_S0045_22.wav,ɓ ɨ-4 kz t͡ɕ eaː-5 ŋ̟z tʰ ɨ-4 n a-0 mz l aː-1 k ɔ-0 nz ɓ ɔ-4 iz k aː-4
+TQA_7_NAM_S0045_29,/audio_data/private_test/TQA_7_NAM_S0045_29.wav,x w e-0 əː-0 iz k ə-5 uz uz t͡ɕ aː-3 aː-3 l əː-1 iz z u-4 pz t əː-4 h i-1 ŋ̟z eaː-3 ŋ̟z s o-4 t͡ɕ i-4 nz ɗ i-0
+TQA_7_NAM_S0045_236,/audio_data/private_test/TQA_7_NAM_S0045_236.wav,k u-0 ŋmz k ə-4 pz ŋ w o-1 nz tʰ ɨə-1 kz f ə-3 mz t͡ɕ ɔ-0 k ɔ-0 nz ŋ ɨə-1 iz
+TQA_7_NAM_S0045_97,/audio_data/private_test/TQA_7_NAM_S0045_97.wav,n əː-0 iz ɗ ə-0 iz k ə-4 tz l e-0 nz ɲ ɨ-2 ŋz t iə-4 ŋz t͡ɕ i-0 mz z i-4 uz uz z i-4 tz
+ĐNL_Nu_6_S0007_33,/audio_data/private_test/ĐNL_Nu_6_S0007_33.wav,t͡ɕ i-0 mz k ɔ-4 ɓ iə-4 tz ɓ əː-0 iz
+TQA_7_NAM_S0045_224,/audio_data/private_test/TQA_7_NAM_S0045_224.wav,x w w e-0 əː-0 iz k ə-5 uz t͡ɕ aː-3 l əː-1 iz iz ɗ i-0
+TQA_7_NAM_S0045_111,/audio_data/private_test/TQA_7_NAM_S0045_111.wav,ɲ ɨ-2 ŋz t əː-1 ŋ ɨ-2 t aː-3 v ɛ-3 ɗ ɛ-5 pz k uə-3 m a-5 tz z u-1 i-0 nz z əː-0 p p aː-0 uz l aː-1 t͡ɕ aː-0 m i-1 ŋ̟z z u-0 ŋmz ɗ o-5 ŋmz
+TQA_7_NAM_S0045_78,/audio_data/private_test/TQA_7_NAM_S0045_78.wav,tʰ aː-3 uz əː-0 iz k ə-5 uz t͡ɕ aː-3 l əː-1 iz z u-4 pz t o-0 iz ɲ ɛ-4
+TQA_7_NAM_S0045_243,/audio_data/private_test/TQA_7_NAM_S0045_243.wav,h h aː-5 k eaː-4 ŋ̟z ŋ̟z l aː-0 uz m ɨ-1 ŋz
+TQA_7_NAM_S0045_288,/audio_data/private_test/TQA_7_NAM_S0045_288.wav,v i-1 tʰ e-4 t ɨ-1 s ɨə-0 ŋ ɨə-1 iz t aː-0 ɗ aː-2 h h w w w ə-4 nz l w w w iə-5 nz ɓ o-1 k ə-0 uz uz ɗ e-3 ɗ ɨə-0 tʰ ɨ-0
+TQA_7_NAM_S0045_274,/audio_data/private_test/TQA_7_NAM_S0045_274.wav,k ə-0 uz tʰ əː-0 n aː-1 uz t͡ɕ ɔ-0 tʰ ə-4 iz iz ɓ ə-1 iz t͡ɕ i-0 mz k u-0 z ə-4 tz tʰ i-4 k̟z ɓ əː-1 t͡ɕ ɛ-0
+TQA_7_NAM_S0045_285,/audio_data/private_test/TQA_7_NAM_S0045_285.wav,t͡ɕ u-4 ŋmz k ɔ-4 tʰ e-3 ɓ a-0 iz z aː-0 t əː-4 iz m o-5 tz tz ŋ i-1 nz t aː-4 mz t͡ɕ a-0 mz k i-0 l o-0 m ɛ-4 tz
+ĐNL_Nu_6_S0007_38,/audio_data/private_test/ĐNL_Nu_6_S0007_38.wav,t͡ɕ i-0 mz x o-0 ŋmz ɓ iə-4 tz ɓ əː-0 iz
+ĐNL_Nu_6_S0007_66,/audio_data/private_test/ĐNL_Nu_6_S0007_66.wav,s a-0 uz uz x i-0 ɗ ɔ-5 kpz s ɔ-0 ɔ-0 ŋmz ɓ aː-1 iz tʰ əː-0 tʰ ɛ-0 uz l aː-0 nz tʰ i-1 k aː-4 əː-0 ɗ ə-0 uz uz ɲ i-3
+ĐNL_Nu_6_S0007_14,/audio_data/private_test/ĐNL_Nu_6_S0007_14.wav,m ɛ-5 m m a-5 tz t͡ɕ əː-1 iz tʰ aː-3 h aː-5 tz n a-4 ŋz s w w o-4 ŋmz ɗ ə-4 tz t͡ɕ əː-0 iz
+TQA_7_NAM_S0045_284,/audio_data/private_test/TQA_7_NAM_S0045_284.wav,ɓ o-4 k ə-0 z ə-4 tz tz tʰ o-0 ŋmz m i-0 ŋ̟z
+ĐNL_Nu_6_S0007_69,/audio_data/private_test/ĐNL_Nu_6_S0007_69.wav,v ə-5 iz tʰ ɛ-0 uz v iə-5 tz n aː-0 mz tʰ i-1 t͡ɕ i-0 mz əː-0 ɗ ə-0 uz uz
+ĐNL_Nu_6_S0007_21,/audio_data/private_test/ĐNL_Nu_6_S0007_21.wav,tʰ ɛ-0 uz t əː-4 tʰ i-1 m ɛ-5 m a-5 tz t͡ɕ əː-1 iz tʰ aː-3 h aː-5 aː-5 tz m a-4 ŋz s w w o-4 ŋmz ŋmz ɗ ə-4 tz t͡ɕ əː-0 iz
+TQA_7_NAM_S0045_68,/audio_data/private_test/TQA_7_NAM_S0045_68.wav,t əː-4 m əː-1 iz x w e-0 t͡ɕ aː-3 l əː-1 iz
+TQA_7_NAM_S0045_36,/audio_data/private_test/TQA_7_NAM_S0045_36.wav,t͡ɕ i-0 mz ɛ-4 nz ɓ ə-5 nz ɗ i-0 ɗ ə-0 uz
+TQA_7_NAM_S0045_46,/audio_data/private_test/TQA_7_NAM_S0045_46.wav,ɛ-4 nz ɓ a-0 iz t͡ɕ aː-0 uz k eaː-4 ŋ̟z v ə-2 iz
+TQA_7_NAM_S0045_118,/audio_data/private_test/TQA_7_NAM_S0045_118.wav,t əː-4 tʰ i-4 k̟z l w w w aː-1 iz t͡ɕ i-0 mz tʰ iə-0 nz ŋ aː-0
+ĐNL_Nu_6_S0007_15,/audio_data/private_test/ĐNL_Nu_6_S0007_15.wav,h aː-5 tz n a-4 ŋz ɣ a-5 pz ɓ o-0 ŋmz h o-1 ŋmz ɓ i-5 ɣ a-2 iz k eaː-1 ŋ̟z ɗ aː-0 ŋz s w o-1 s u-5 tz x ɔ-4 kpz
+TQA_7_NAM_S0045_44,/audio_data/private_test/TQA_7_NAM_S0045_44.wav,t͡ɕ əː-1 iz ɓ a-4 kz l w w i-5 m ɨə-0 z əː-0 iz
+ĐNL_Nu_6_S0007_88,/audio_data/private_test/ĐNL_Nu_6_S0007_88.wav,ɓ aː-4 uz k ɔ-0 nz nz l aː-1 mz v iə-5 kz ɓ aː-4 uz k ɔ-0 nz ɗ o-1 ŋmz i-0 ŋ ɛ-0 l əː-1 iz tʰ ə-1 iz
+TQA_7_NAM_S0045_76,/audio_data/private_test/TQA_7_NAM_S0045_76.wav,ɓ e-0 z a-0 uz s u-0 mz s w w e-0 n ɨə-0 ŋz ɓ aː-2 iz
+TQA_7_NAM_S0045_5,/audio_data/private_test/TQA_7_NAM_S0045_5.wav,t əː-4 ɗ o-4 k ə-5 uz i-0 h i-1 ŋ̟z eaː-3 ŋ̟z s o-4 uz ɓ o-4 nz l aː-1 t͡ɕ i-0 mz ɣ i-1 v ə-5 ə-5 iz
+TQA_7_NAM_S0045_70,/audio_data/private_test/TQA_7_NAM_S0045_70.wav,m uə-1 s w w ə-0 nz əː-0 iz ɲ əː-1 k ɔ-4 ɓ ɓ aː-5 nz m aː-1 k ə-0 iz k o-4 iz ɗ ə-0 mz t͡ɕ o-1 iz n a-3 iz l o-5 kpz
+TQA_7_NAM_S0045_259,/audio_data/private_test/TQA_7_NAM_S0045_259.wav,x eaː-4 k̟z ɗ e-4 nz ɓ əː-1 t͡ɕ ɛ-0 l aː-1 ɲ ɨ-2 ŋz l w w w aː-1 iz t͡ɕ i-0 mz n aː-1 uz
+TQA_7_NAM_S0045_264,/audio_data/private_test/TQA_7_NAM_S0045_264.wav,k ə-0 uz uz tʰ əː-0 t͡ɕ ɔ-0 tʰ ə-4 iz ɓ əː-1 t͡ɕ ɛ-0 z ə-4 tz v w w i-0 x i-0 k ɔ-4 x eaː-4 k̟z ɗ e-4 nz l aː-1
+TQA_7_NAM_S0045_277,/audio_data/private_test/TQA_7_NAM_S0045_277.wav,ɛ-0 mz s i-0 nz ɗ ɔ-5 kpz ɓ aː-1 iz iz ɓ o-1 k ə-0 uz t u-0 ŋmz k eaː-4 ŋ̟z
+TQA_7_NAM_S0045_261,/audio_data/private_test/TQA_7_NAM_S0045_261.wav,x eaː-4 k̟z ɗ e-4 nz ɓ əː-1 t͡ɕ ɛ-0 l aː-1 ɲ ɨ-2 ŋz l w w w aː-1 iz t͡ɕ t͡ɕ i-0 mz mz s a-0 uz k ɔ-1 ɓ o-1 n o-0 ŋmz ɓ ɔ-4 iz k aː-3 t͡ɕ i-0 mz k u-0
+TQA_7_NAM_S0045_95,/audio_data/private_test/TQA_7_NAM_S0045_95.wav,m a-5 kz h o-1 k aː-1 ŋz s eaː-0 ŋ̟z tʰ e-0 mz v aː-1 ɲ ɨ-0 z o-5 ŋmz z aː-0 m e-0 ŋ̟z m o-0 ŋmz
+TQA_7_NAM_S0045_48,/audio_data/private_test/TQA_7_NAM_S0045_48.wav,t͡ɕ i-0 mz əː-0 iz iz t͡ɕ i-0 mz n ɔ-4 iz ɣ i-1
+ĐNL_Nu_6_S0007_103,/audio_data/private_test/ĐNL_Nu_6_S0007_103.wav,t͡ɕ ɔ-0 ŋmz k w w o-5 kpz kpz tʰ i-0 t͡ɕ a-5 iz ɓ aː-4 uz tʰ a-4 ŋz v aː-1 tʰ a-5 k ɔ-4 tʰ aː-4 iz ɗ o-5 z ə-4 tz v w w i-0
+TQA_7_NAM_S0045_148,/audio_data/private_test/TQA_7_NAM_S0045_148.wav,m ɔ-3 v ɛ-5 tz x w w a-1 mz x w w a-1 mz ɲ ɨ-0 k aː-4 aː-4 iz s ɨ-1 ŋz t͡ɕ ə-0 uz v v ɨə-1 z a-1 iz v ɨə-1 k ɨ-4 ŋz z u-4 pz t͡ɕ u-4 ŋmz z e-2 z aː-1 ŋz m o-3 v əː-2 k aː-4 kz h aː-5 tz k ɨ-4 ŋz ŋz
+ĐNL_Nu_6_S0007_27,/audio_data/private_test/ĐNL_Nu_6_S0007_27.wav,s a-0 uz ɗ ə-0 iz t əː-4 v aː-1 v əː-4 iz ɓ aː-5 nz k u-1 ŋmz t i-1 mz h iə-3 uz uz v e-1 k aː-4 v aː-1 t͡ɕ i-0 mz k w w aː-0 ɓ aː-1 iz tʰ əː-0 k aː-4 v aː-1 t͡ɕ i-0 mz ɲ ɛ-4
+TQA_7_NAM_S0045_38,/audio_data/private_test/TQA_7_NAM_S0045_38.wav,l ɨə-5 nz ɓ a-0 iz ɲ ɨ-0 z ə-2 nz l o-4 iz
+TQA_7_NAM_S0045_7,/audio_data/private_test/TQA_7_NAM_S0045_7.wav,h i-1 ŋ̟z eaː-3 ŋ̟z z o-4 ɓ o-4 nz l aː-1 t͡ɕ i-0 mz ɣ ɔ-2 k iə-4 nz
+ĐNL_Nu_6_S0007_305,/audio_data/private_test/ĐNL_Nu_6_S0007_305.wav,m n aː-1 uz v ɨə-1 nz k u-2 ŋmz z ɨ-5 kz z əː-2 ŋ aː-4 tz h ɨə-0 ŋz
+TQA_7_NAM_S0045_102,/audio_data/private_test/TQA_7_NAM_S0045_102.wav,ɗ aː-1 nz k u-1 ŋmz h h w w w aː-1 ə-0 mz
+TQA_7_NAM_S0045_133,/audio_data/private_test/TQA_7_NAM_S0045_133.wav,k ə-5 uz t͡ɕ aː-3 l əː-1 iz t͡ɕ ɔ-0 t əː-4 k ə-0 uz n a-1 iz ɲ ɛ-4
+ĐNL_Nu_6_S0007_105,/audio_data/private_test/ĐNL_Nu_6_S0007_105.wav,tʰ aː-4 iz ɗ o-5 k uə-3 ɓ aː-4 uz tʰ e-4 n aː-1 uz
+TQA_7_NAM_S0045_151,/audio_data/private_test/TQA_7_NAM_S0045_151.wav,k ɔ-1 ɔ-1 k ɔ-4 k əː-0 tʰ e-3 t ɨə-0 ŋz ɗ o-4 iz l əː-4 nz
+TQA_7_NAM_S0045_90,/audio_data/private_test/TQA_7_NAM_S0045_90.wav,m o-2 iz ŋ ɨə-1 ɗ ɔ-5 kpz m o-5 tz ɗ w w w aː-5 nz ɲ ɲ ɛ-4
+TQA_7_NAM_S0045_74,/audio_data/private_test/TQA_7_NAM_S0045_74.wav,ɓ o-5 f ə-5 nz n aː-1 uz t͡ɕ ɔ-0 ŋmz m o-2 iz k ə-0 uz s a-0 uz t͡ɕ aː-3 l əː-1 iz t͡ɕ ɔ-0 k ə-0 uz uz h ɔ-3 iz iz əː-0 ɗ ə-0 uz
+TQA_7_NAM_S0045_254,/audio_data/private_test/TQA_7_NAM_S0045_254.wav,ɣ ɛ-4 t͡ɕ əː-0 iz ɗ o-0 ŋmz ɗ u-3
+TQA_7_NAM_S0045_107,/audio_data/private_test/TQA_7_NAM_S0045_107.wav,z i-4 uz z i-4 tz ɓ a-0 iz ɗ e-4 nz ɗ ə-5 uz əː-0 ɲ ɨ-2 ŋz ŋz ɓ w w i-5 k ə-0 iz iz k w w eaː-0 ŋ̟z h o-1
+TQA_7_NAM_S0045_222,/audio_data/private_test/TQA_7_NAM_S0045_222.wav,t͡ɕ i-0 mz t͡ɕ w w iə-0 nz ɓ a-4 tz s ə-0 uz ɗ ɔ-4 l aː-1 t͡ɕ i-0 mz s ə-0 uz
+TQA_7_NAM_S0045_108,/audio_data/private_test/TQA_7_NAM_S0045_108.wav,t iə-4 ŋz h ɔ-4 tz z o-5 nz v aː-0 ŋz k aː-3 m a-5 tz n ɨə-4 kz
+TQA_7_NAM_S0045_291,/audio_data/private_test/TQA_7_NAM_S0045_291.wav,s a-0 uz n a-1 iz m a-5 kz z z u-1 ɗ aː-2 k ɔ-4 ɲ ɨ-2 ŋz f ɨə-0 ŋz t iə-5 nz tʰ o-0 ŋmz m i-0 ŋ̟z l iə-0 nz l aː-5 kz
+ĐNL_Nu_6_S0007_52,/audio_data/private_test/ĐNL_Nu_6_S0007_52.wav,s w w o-4 ŋmz ɗ ə-0 iz m aː-1 t͡ɕ əː-0 iz
+ĐNL_Nu_6_S0007_17,/audio_data/private_test/ĐNL_Nu_6_S0007_17.wav,ŋ ɛ-0 h aː-5 tz m ə-1 mz tʰ i-1 tz tʰ ə-1 mz n ɔ-4 h əː-0 iz ə-4 mz s w o-4 ŋmz ɗ ə-1 tz
+TQA_7_NAM_S0045_197,/audio_data/private_test/TQA_7_NAM_S0045_197.wav,x w w e-0 əː-0 iz k ə-5 uz t͡ɕ aː-3 l əː-1 iz z u-4 pz t əː-4 k ə-0 uz uz n a-1 iz ɲ ɛ-4
+ĐNL_Nu_6_S0007_31,/audio_data/private_test/ĐNL_Nu_6_S0007_31.wav,k aː-4 ɓ əː-0 iz iz z o-4 iz iz s w w uə-4 tʰ ə-4 iz t͡ɕ i-0 mz h ɔ-4 tz t͡ɕ e-0 nz k ə-0 iz iz ɓ ɛ-1 nz z u-3
+ĐNL_Nu_6_S0007_22,/audio_data/private_test/ĐNL_Nu_6_S0007_22.wav,aː-0 ɓ aː-5 nz t͡ɕ aː-3 l əː-1 iz iz ɗ u-4 ŋmz z o-1 iz ɗ ə-4 iz
+ĐNL_Nu_6_S0007_84,/audio_data/private_test/ĐNL_Nu_6_S0007_84.wav,v aː-1 k ə-4 uz k ɔ-0 nz tʰ ə-4 uz v aː-1 tʰ aː-4 iz ɗ o-5 k uə-3 ɓ aː-4 uz z ə-4 tz t ɨ-4 kz v aː-4 tʰ aː-4 iz ɓ o-5 k uə-3 aː-4 uz ɗ tz t ɨ-4 kz
+TQA_7_NAM_S0045_295,/audio_data/private_test/TQA_7_NAM_S0045_295.wav,t͡ɕ i-0 mz ɓ o-1 k ə-0 uz ə-4 pz t͡ɕ ɨ-4 ŋz n w w w w o-0 iz k ɔ-0 nz m əː-4 iz n əː-3 tʰ e-4 n aː-1 uz uz
+TQA_7_NAM_S0045_158,/audio_data/private_test/TQA_7_NAM_S0045_158.wav,n e-0 nz t͡ɕ u-4 ŋmz x o-0 ŋmz tʰ e-3 ɗ i-0 l aː-5 iz ɓ i-1 ŋ̟z tʰ ɨə-1 ŋz t͡ɕ e-0 nz m a-5 tz ɗ ə-4 tz
+TQA_7_NAM_S0045_200,/audio_data/private_test/TQA_7_NAM_S0045_200.wav,x o-0 ŋmz ŋmz ɲ əː-4 t͡ɕ ɔ-0 t͡ɕ i-0 mz mz w w o-4 ŋmz n ɨə-4 kz ɗ e-3 n ɔ-4 x aː-4 tz tz x o-0 h ɔ-5 ŋmz
+TQA_7_NAM_S0045_84,/audio_data/private_test/TQA_7_NAM_S0045_84.wav,t͡ɕ i-0 mz mz ɛ-4 nz nz m əː-3 h o-5 iz iz l ɨə-5 nz ɓ a-0 iz h w w aː-0 z ə-2 nz l o-4 iz iz z u-3 t͡ɕ aː-0 uz k eaː-4 ŋ̟z v ə-2 iz iz m ə-1 mz n ɔ-0 nz
+TQA_7_NAM_S0045_117,/audio_data/private_test/TQA_7_NAM_S0045_117.wav,h ə-0 nz əː-0 iz k ə-5 uz k e-3 l aː-5 iz ɗ i-0
+TQA_7_NAM_S0045_292,/audio_data/private_test/TQA_7_NAM_S0045_292.wav,h iə-5 nz t aː-5 iz əː-0 m o-5 tz s o-4 n ɨə-4 kz ŋ ɨə-1 iz iz t aː-0 v ə-2 nz s ɨ-3 z u-5 ŋmz ɓ ɨ-0 uz ɗ iə-5 nz ɓ o-1 k ə-0 uz
+TQA_7_NAM_S0045_66,/audio_data/private_test/TQA_7_NAM_S0045_66.wav,h w w aː-0 x w ɛ-0 s a-4 kz n əː-0 iz n əː-0 iz
+ĐNL_Nu_6_S0007_40,/audio_data/private_test/ĐNL_Nu_6_S0007_40.wav,t͡ɕ i-0 mz ɓ a-0 iz t͡ɕ e-0 nz t͡ɕ əː-1 iz iz
+TQA_7_NAM_S0045_58,/audio_data/private_test/TQA_7_NAM_S0045_58.wav,k aː-4 kz k ə-5 uz h a-2 iz t i-1 mz z u-4 pz t əː-4
+TQA_7_NAM_S0045_293,/audio_data/private_test/TQA_7_NAM_S0045_293.wav,ɓ ɨ-0 uz ɗ iə-5 nz n a-1 iz k ɔ-4 h a-3 nz m o-5 o-5 tz l w w aː-5 iz t ɛ-0 mz z iə-0 ŋz
+ĐNL_Nu_6_S0007_54,/audio_data/private_test/ĐNL_Nu_6_S0007_54.wav,t͡ɕ i-0 mz t͡ɕ aː-3 l əː-1 iz iz
+TQA_7_NAM_S0045_286,/audio_data/private_test/TQA_7_NAM_S0045_286.wav,ɲ ɨ-0 ŋz z u-1 ɓ a-0 iz z aː-0 ɗ e-4 nz ɗ ə-0 uz
+ĐNL_Nu_6_S0007_92,/audio_data/private_test/ĐNL_Nu_6_S0007_92.wav,ɓ aː-4 uz aː-0 ɲ ɨ-0 n e-4 uz ɲ ɨ-0 ŋ ɨə-1 iz x aː-4 kz tʰ a-4 ŋz tʰ i-1 k ɔ-0 iz ɲ ɨ-0 ɛ-0 mz n aː-1 uz tʰ uə-0
+ĐNL_Nu_6_S0007_28,/audio_data/private_test/ĐNL_Nu_6_S0007_28.wav,h a-0 iz ɗ ɔ-4 v iə-5 tz n aː-0 mz aː-0
+TQA_7_NAM_S0045_31,/audio_data/private_test/TQA_7_NAM_S0045_31.wav,k ə-5 uz t͡ɕ aː-3 aː-3 l əː-1 iz m i-1 ŋ̟z eaː-3 ŋ̟z s o-4 m m ɨə-1 iz ɗ i-0
+TQA_7_NAM_S0045_206,/audio_data/private_test/TQA_7_NAM_S0045_206.wav,h eaː-1 ŋ̟z ŋ̟z ɗ o-5 ŋmz k uə-3 k aː-4 kz k ə-5 uz uz ɓ ɛ-4 ɣ ə-0 iz z aː-0 t͡ɕ w iə-5 nz ɗ a-0 uz uz l ɔ-1 ŋmz v aː-1 uz s aː-4 ŋz h h o-0 mz s a-0 uz
+TQA_7_NAM_S0045_127,/audio_data/private_test/TQA_7_NAM_S0045_127.wav,ɓ o-5 f ə-5 nz i-0 nz ɗ o-5 ŋmz t͡ɕ ɔ-0 ŋmz k ə-0 uz s a-0 uz t͡ɕ aː-3 l əː-1 iz t͡ɕ ɔ-0 k ə-0 uz h ɔ-3 iz iz n aː-1 uz
+TQA_7_NAM_S0045_256,/audio_data/private_test/TQA_7_NAM_S0045_256.wav,k aː-0 h aː-4 tz ɣ ə-5 tz ɣ u-1
+ĐNL_Nu_6_S0007_78,/audio_data/private_test/ĐNL_Nu_6_S0007_78.wav,t͡ɕ ɔ-0 ŋmz k w w w o-5 kpz tʰ i-0 t͡ɕ a-5 iz ɓ aː-4 uz uz k a-5 uz tʰ a-4 ŋz v aː-1 ɓ aː-4 uz z ə-4 tz v w i-0 s w w ɨə-4 ŋz v i-1 m i-1 ŋ̟z tʰ a-4 ŋz
+TQA_7_NAM_S0045_205,/audio_data/private_test/TQA_7_NAM_S0045_205.wav,k ə-5 uz t͡ɕ aː-3 l əː-1 iz t əː-4 ɲ ɛ-4 tʰ aː-3 uz
+TQA_7_NAM_S0045_255,/audio_data/private_test/TQA_7_NAM_S0045_255.wav,k aː-3 t w w aː-4 nz t͡ɕ i-0 mz k u-0
+TQA_7_NAM_S0045_26,/audio_data/private_test/TQA_7_NAM_S0045_26.wav,aː-0 t əː-4 ɓ iə-4 tz h h i-1 ŋ̟z eaː-3 ŋ̟z s o-4 ɓ a-3 iz l aː-1 k ɔ-0 nz t͡ɕ i-0 mz s ə-0 uz
+TQA_7_NAM_S0045_115,/audio_data/private_test/TQA_7_NAM_S0045_115.wav,ɲ ɨ-2 ŋz l w w w aː-1 iz t͡ɕ i-0 mz k w w eaː-0 ŋ̟z h o-1 i-0 z əː-0 p aː-0 uz l aː-1 ɗ aː-5 iz iz ɓ aː-1 ŋz tʰ iə-0 nz ŋ aː-0 t͡ɕ i-0 mz k əː-0 p u-4 kpz
+ĐNL_Nu_6_S0007_93,/audio_data/private_test/ĐNL_Nu_6_S0007_93.wav,ɛ-0 mz ɗ ɨ-1 ŋz tʰ aː-4 tz t͡ɕ ɔ-0 ɓ ɛ-4 m a-5 tz ɓ w w o-1 nz h a-0 iz iz h a-0 iz t ɨ-4 kz z ə-5 nz ɲ ɛ-4
+TQA_7_NAM_S0045_251,/audio_data/private_test/TQA_7_NAM_S0045_251.wav,ɗ əː-2 s w w o-4 ŋmz k eaː-1 ŋ̟z m e-1 mz
+TQA_7_NAM_S0045_136,/audio_data/private_test/TQA_7_NAM_S0045_136.wav,i-0 ɓ e-0 t͡ɕ e-0 nz m a-5 tz h o-1 ɓ ə-1 iz tʰ iə-0 nz ŋ aː-0 t͡ɕ a-4 ŋz m w w o-4 tz ɗ aː-0 ŋz ɓ əː-0 iz iz l o-5 iz iz
+TQA_7_NAM_S0045_71,/audio_data/private_test/TQA_7_NAM_S0045_71.wav,m w o-0 nz tʰ u-4 m ɨ-1 ŋz v w w i-0
+TQA_7_NAM_S0045_114,/audio_data/private_test/TQA_7_NAM_S0045_114.wav,k w w eaː-0 ŋ̟z h o-5 iz iz i-0 z əː-0 p p aː-0 uz k ɔ-4 ɲ ɨ-2 ŋz l w w aː-1 iz t͡ɕ i-0 mz n aː-1 uz
+TQA_7_NAM_S0045_12,/audio_data/private_test/TQA_7_NAM_S0045_12.wav,z əː-1 t͡ɕ u-4 ŋmz m i-1 ŋ̟z ɗ aː-2 ɓ iə-4 tz h e-4 tz t e-0 iz k uə-3 k aː-4 kz l w w aː-1 iz t͡ɕ i-0 mz t͡ɕ ɔ-0 ŋmz ɓ ɨ-4 kz t͡ɕ eaː-0 ŋ̟z t͡ɕ e-0 nz z o-1 iz iz
+TQA_7_NAM_S0045_202,/audio_data/private_test/TQA_7_NAM_S0045_202.wav,k a-4 tz k aː-3 ɗ aː-4 mz k ɔ-3 l ə-2 nz ɓ o-0 ŋmz k h w w aː-0 k u-4 kpz ɓ ɔ-3 v aː-1 uz l o-1 ŋmz s əː-0 nz k aː-0
+TQA_7_NAM_S0045_235,/audio_data/private_test/TQA_7_NAM_S0045_235.wav,z u-4 tz f aː-4 pz t aː-4 nz h aː-5 tz z o-4 ŋmz k ə-0 iz z ɨ-1 ŋz
+TQA_7_NAM_S0045_28,/audio_data/private_test/TQA_7_NAM_S0045_28.wav,h h i-1 ŋ̟z ŋ̟z eaː-3 ŋ̟z s o-4 t aː-4 mz l aː-1 k ɔ-0 nz t͡ɕ i-0 mz k o-4 m ɛ-1 uz
+ĐNL_Nu_6_S0007_75,/audio_data/private_test/ĐNL_Nu_6_S0007_75.wav,k ə-0 uz t͡ɕ w iə-5 nz nz tʰ o-3 iz ɓ ɔ-4 ŋmz
+ĐNL_Nu_6_S0007_99,/audio_data/private_test/ĐNL_Nu_6_S0007_99.wav,v ə-5 iz ɓ aː-5 nz h a-2 iz t͡ɕ ɔ-0 t əː-4 ɓ iə-4 tz z əː-1 iz z aː-0 t͡ɕ əː-0 iz ɓ aː-4 uz k ɔ-0 nz l aː-1 mz ɣ i-1
+TQA_7_NAM_S0045_233,/audio_data/private_test/TQA_7_NAM_S0045_233.wav,a-0 nz nz s ə-0 uz uz ɓ ɔ-5 k ɔ-4 h aː-5 iz iz v aː-1 ɗ o-5 ŋmz ŋmz v ə-5 tz ɣ a-5 mz ɲ ə-4 mz
+ĐNL_Nu_6_S0007_53,/audio_data/private_test/ĐNL_Nu_6_S0007_53.wav,tʰ i-4 k̟z l a-4 a-4 mz tʰ i-4 k̟z l a-4 mz
+TQA_7_NAM_S0045_199,/audio_data/private_test/TQA_7_NAM_S0045_199.wav,h aː-0 iz k ə-5 uz ɓ ɛ-4 ɓ a-4 tz t͡ɕ i-0 mz v aː-1 uz uz l o-1 ŋmz ɲ ɨ-0 ŋz l aː-5 iz x o-0 ŋmz
+TQA_7_NAM_S0045_289,/audio_data/private_test/TQA_7_NAM_S0045_289.wav,əː-0 n ɨə-4 kz t aː-0 t͡ɕ ɔ-0 ŋmz k w w o-5 kpz x əː-3 iz ŋ iə-2 l aː-0 mz s əː-0 nz t͡ɕ o-4 ŋmz k w w w ə-0 nz m i-0 ŋ̟z
+TQA_7_NAM_S0045_20,/audio_data/private_test/TQA_7_NAM_S0045_20.wav,aː-0 ɓ ɨ-4 kz t͡ɕ eaː-0 ŋ̟z s o-4 ɓ ɓ o-4 nz l aː-1 k ɔ-0 nz t͡ɕ i-0 mz ɣ ɔ-2 k iə-4 nz nz
+ĐNL_Nu_6_S0007_13,/audio_data/private_test/ĐNL_Nu_6_S0007_13.wav,h aː-5 tz n a-4 ŋz ɓ ɛ-4 k ɔ-0 nz
+TQA_7_NAM_S0045_122,/audio_data/private_test/TQA_7_NAM_S0045_122.wav,m i-1 ŋ̟z ɗ ɔ-3 t͡ɕ ɔ-4 tz v aː-1 ɲ ɔ-3 ɲ ɨ-0 k w w aː-3 əː-4 tz k ɔ-4 k a-5 pz m ɔ-3 tʰ eaː-0 ŋ̟z m eaː-3 ŋ̟z
+TQA_7_NAM_S0045_230,/audio_data/private_test/TQA_7_NAM_S0045_230.wav,t͡ɕ i-0 mz k ɔ-4 ɓ o-5 l o-0 ŋmz ɗ w w w o-0 iz z ɨ-5 kz z əː-2 z z z s a-4 kz m a-1 uz m uə-4 z ə-4 tz ɗ ɛ-5 pz l aː-1 t͡ɕ i-0 mz k o-0 ŋmz eaː-0 ŋ̟z
+TQA_7_NAM_S0045_14,/audio_data/private_test/TQA_7_NAM_S0045_14.wav,h ə-0 nz əː-0 iz k ə-5 uz k e-3 t͡ɕ ɨə-4 kz ɗ i-0
+TQA_7_NAM_S0045_234,/audio_data/private_test/TQA_7_NAM_S0045_234.wav,l aː-1 ŋz t͡ɕ a-0 nz ɗ ɛ-5 pz ɗ o-1 t͡ɕ a-0 mz t͡ɕ i-4 t͡ɕ o-0 ŋmz z aː-0 ɗ i-1 ŋ̟z t ɨ-1 l o-0 ŋmz t͡ɕ i-0 mz
+TQA_7_NAM_S0045_50,/audio_data/private_test/TQA_7_NAM_S0045_50.wav,k aː-4 kz k ə-5 uz t͡ɕ aː-3 l əː-1 iz z u-4 pz t əː-4 k aː-4 kz k ə-0 uz h ɔ-3 iz s a-0 uz ɲ ɛ-4
+TQA_7_NAM_S0045_98,/audio_data/private_test/TQA_7_NAM_S0045_98.wav,t͡ɕ i-0 mz ɗ aː-5 iz ɓ aː-1 ŋz t͡ɕ ə-0 nz v aː-1 ŋz m ɔ-3 ɗ ɔ-3 ɗ aː-0 ŋz t͡ɕ aː-0 uz l ɨə-5 nz
+TQA_7_NAM_S0045_129,/audio_data/private_test/TQA_7_NAM_S0045_129.wav,ɓ e-0 ɲ ɨ-2 ŋz t iə-3 ŋz t͡ɕ i-0 mz z i-4 uz z i-4 tz k ə-4 tz k w w eaː-0 ŋ̟z k w w eaː-0 ŋ̟z ɲ aː-1
+TQA_7_NAM_S0045_258,/audio_data/private_test/TQA_7_NAM_S0045_258.wav,t əː-4 ɗ ɔ-5 kpz s ɔ-0 ŋmz z o-1 iz ɓ ə-0 iz iz z əː-1 k aː-4 kz k ə-5 uz t͡ɕ aː-3 l əː-1 iz iz z u-4 pz pz t əː-4 ɲ ɨ-2 ŋz k ə-0 uz uz h ɔ-3 iz iz n a-1 iz ɲ ɛ-4
+TQA_7_NAM_S0045_125,/audio_data/private_test/TQA_7_NAM_S0045_125.wav,ɗ aː-5 iz ɓ aː-1 ŋz k ɔ-4 t͡ɕ ə-0 nz v aː-1 ŋz m ɔ-3 ɗ ɔ-3 m o-2 iz l ə-1 nz v o-2 k eaː-4 ŋ̟z l aː-5 iz f aː-4 tz z aː-0 l ɨ-2 ŋz t iə-4 ŋz v i-0 v u-0 v i-0 v u-4 tz
+TQA_7_NAM_S0045_99,/audio_data/private_test/TQA_7_NAM_S0045_99.wav,ɓ ɔ-4 ŋmz t͡ɕ ɛ-0 z əː-5 pz m a-5 tz ɗ ə-4 tz
+ĐNL_Nu_6_S0007_87,/audio_data/private_test/ĐNL_Nu_6_S0007_87.wav,ɛ-0 mz h ɛ-0 iz ɛ-0 mz h a-2 iz tʰ o-3 iz iz ɓ ɔ-4 ŋmz tʰ o-3 iz z ɔ-4 kz ɓ ɔ-4 ŋmz z u-4 pz tʰ ə-1 iz iz ɲ ɛ-4
+ĐNL_Nu_6_S0007_50,/audio_data/private_test/ĐNL_Nu_6_S0007_50.wav,n a-1 iz ɓ aː-5 nz t͡ɕ i-0 mz əː-0 iz
+TQA_7_NAM_S0045_126,/audio_data/private_test/TQA_7_NAM_S0045_126.wav,t əː-4 ɗ o-1 k aː-4 kz k ə-5 uz ɲ ɛ-4
+ĐNL_Nu_6_S0007_9,/audio_data/private_test/ĐNL_Nu_6_S0007_9.wav,ŋ ɛ-0 h aː-5 tz n ə-1 mz tʰ i-1 tʰ ə-1 mz n ɔ-4 f aː-3 f əː-0 iz ə-4 mz s w w o-4 ŋmz ŋmz ɗ ə-4 tz
+TQA_7_NAM_S0045_135,/audio_data/private_test/TQA_7_NAM_S0045_135.wav,i-0 i-0 i-0 i-0 ə-0 ɗ aː-5 iz ɓ aː-1 ŋz t͡ɕ aː-0 uz l ɨə-5 nz t͡ɕ ə-0 nz ɗ ə-1 nz t͡ɕ əː-1 iz iz s eaː-0 ŋ̟z tʰ a-3 mz
+TQA_7_NAM_S0045_187,/audio_data/private_test/TQA_7_NAM_S0045_187.wav,tʰ aː-3 uz uz əː-0 iz k ə-5 uz t͡ɕ aː-3 l əː-1 iz z u-4 pz t əː-4 k ə-0 uz h ɔ-3 iz iz n a-1 iz ɲ ɛ-4
+ĐNL_Nu_6_S0007_71,/audio_data/private_test/ĐNL_Nu_6_S0007_71.wav,t͡ɕ i-4 ŋ̟z s aː-4 kz z o-1 iz ɗ ɔ-4
+ĐNL_Nu_6_S0007_36,/audio_data/private_test/ĐNL_Nu_6_S0007_36.wav,t͡ɕ i-0 mz t͡ɕ aː-3 l əː-1 iz iz
+TQA_7_NAM_S0045_280,/audio_data/private_test/TQA_7_NAM_S0045_280.wav,m o-2 iz n a-0 mz ɓ o-1 k ə-0 uz uz ɗ ɛ-3 ɲ iə-1 uz l ɨə-4
+TQA_7_NAM_S0045_191,/audio_data/private_test/TQA_7_NAM_S0045_191.wav,ɓ o-0 ŋmz k u-4 kpz s o-4 ŋmz tʰ w w aː-3 iz m aː-4 iz ɓ e-0 nz ɓ əː-1 z aː-1 uz s ɨə-2 ɗ aː-4 mz k ɔ-3 z aː-5 iz
+TQA_7_NAM_S0045_216,/audio_data/private_test/TQA_7_NAM_S0045_216.wav,t əː-4 v aː-1 k aː-4 kz k ə-5 uz k u-1 ŋmz ɗ o-4 ɲ a-0 uz v e-1 t e-0 nz k uə-3 k aː-4 kz l w w w aː-1 iz t͡ɕ i-0 mz mz ɲ ɛ-4 ɗ ɨə-5 kz tʰ o-0
+ĐNL_Nu_6_S0007_56,/audio_data/private_test/ĐNL_Nu_6_S0007_56.wav,t͡ɕ i-0 mz x o-0 ŋmz ɓ iə-4 iə-4 tz ɓ əː-0 iz
+ĐNL_Nu_6_S0007_34,/audio_data/private_test/ĐNL_Nu_6_S0007_34.wav,ɗ ɨ-4 ŋz ɗ ə-0 iz m aː-1 t͡ɕ əː-0 iz iz
+TQA_7_NAM_S0045_54,/audio_data/private_test/TQA_7_NAM_S0045_54.wav,ɓ e-0 t͡ɕ i-0 mz ɛ-4 nz z ə-2 nz ɗ ɨə-1 ŋz t͡ɕ ɔ-0 m uə-1 s w ə-0 nz v e-1
+ĐNL_Nu_6_S0007_39,/audio_data/private_test/ĐNL_Nu_6_S0007_39.wav,t͡ɕ i-0 mz mz k ɔ-4 ɗ o-0 iz k eaː-4 ŋ̟z
+TQA_7_NAM_S0045_257,/audio_data/private_test/TQA_7_NAM_S0045_257.wav,o-0 t͡ɕ ɛ-0 z ə-4 tz m aː-4 tz
+TQA_7_NAM_S0045_183,/audio_data/private_test/TQA_7_NAM_S0045_183.wav,t o-5 iz iz ŋ iə-5 pz k ɔ-0 nz t͡ɕ i-0 mz x i-0 n ɔ-4 k ɔ-1 nz s o-4 ŋmz v aː-1 k aː-0 h aː-4 tz
+TQA_7_NAM_S0045_141,/audio_data/private_test/TQA_7_NAM_S0045_141.wav,s e-0 v ɛ-0 nz h o-1 ɲ ɨ-2 ŋz k ɔ-0 nz t͡ɕ i-0 mz k əː-0 v u-4 kpz h ɔ-4 tz tz l e-0 e-0 nz l eaː-0 ŋ̟z l eaː-3 ŋ̟z
+TQA_7_NAM_S0045_11,/audio_data/private_test/TQA_7_NAM_S0045_11.wav,ə-0 iz iz ɗ ɔ-4 l aː-1 s i-0 mz k u-4 m ɛ-1 uz k aː-4 kz k ə-5 uz uz aː-0 nz
+TQA_7_NAM_S0045_281,/audio_data/private_test/TQA_7_NAM_S0045_281.wav,m o-2 iz iz l ɨə-4 h aː-0 iz t͡ɕ ɨ-4 ŋz
+TQA_7_NAM_S0045_195,/audio_data/private_test/TQA_7_NAM_S0045_195.wav,n ɔ-4 l aː-1 t iə-4 ŋz h ɔ-4 tz k uə-3 t͡ɕ i-0 mz mz t͡ɕ əː-3 l e-0 nz ɓ w w o-1 nz tʰ aː-3 mz
+TQA_7_NAM_S0045_250,/audio_data/private_test/TQA_7_NAM_S0045_250.wav,m o-5 tz tz t͡ɕ u-4 ɓ ɔ-4 iz k aː-4
+TQA_7_NAM_S0045_166,/audio_data/private_test/TQA_7_NAM_S0045_166.wav,ɲ ɨ-0 ŋz s aː-4 ŋz h o-0 mz s a-0 uz x i-0 v ɨə-1 s w w ɛ-1 k eaː-4 ŋ̟z ɗ ɔ-4 nz ɓ i-1 ŋ̟z ŋ̟z m i-0 ŋ̟z
+TQA_7_NAM_S0045_207,/audio_data/private_test/TQA_7_NAM_S0045_207.wav,s əː-0 nz k k aː-0 t͡ɕ e-4 tz tz v i-1 ɗ ɔ-4 iz iz x aː-4 tz ɓ o-0 ŋmz k ɨ-4 kpz k u-2 ŋmz h ɛ-4 uz l aː-3 ɗ i-0 v i-1 tʰ ɨə-0 ŋz s ɔ-4 tz t͡ɕ ɔ-0 t͡ɕ i-0 mz
+ĐNL_Nu_6_S0007_1,/audio_data/private_test/ĐNL_Nu_6_S0007_1.wav,ɓ ə-0 iz z əː-1 t͡ɕ u-4 ŋmz ŋmz m i-1 ŋ̟z k u-1 ŋmz ɗ ɔ-5 kpz ɓ aː-1 iz t iə-4 pz ɗ i-0
+TQA_7_NAM_S0045_229,/audio_data/private_test/TQA_7_NAM_S0045_229.wav,t͡ɕ i-0 mz ɣ i-1 k ɔ-4 ɓ o-5 l o-0 ŋmz ɗ w w w o-0 iz z ɨ-5 kz z əː-2 s a-4 kz m a-1 uz m uə-4 z ə-4 tz ɗ ɛ-5 ɛ-5 pz
+ĐNL_Nu_6_S0007_10,/audio_data/private_test/ĐNL_Nu_6_S0007_10.wav,tʰ e-4 l aː-1 m o-5 k ə-0 iz ɗ ɗ o-5 ɗ ə-4 tz ɲ o-0 l e-0 nz
+TQA_7_NAM_S0045_103,/audio_data/private_test/TQA_7_NAM_S0045_103.wav,ɓ ə-1 iz iz tʰ iə-0 nz ŋ aː-0 t͡ɕ a-4 ŋz m ə-4 tz ɗ aː-0 ŋz ɓ əː-0 iz l o-5 iz ɲ ɨ-2 ŋz k ɔ-0 nz t͡ɕ i-0 mz k əː-0 ɓ u-4 kpz m i-1 ŋ̟z ɗ ɔ-3 t͡ɕ ɔ-4 tz tz v aː-1 ɲ ɔ-3 ɲ ɲ ɨ-0 k w w aː-3 əː-4 tz k o-4 z ɨə-4 nz nz k a-5 pz m ɔ-3 tʰ eaː-0 ŋ̟z ŋ̟z m eaː-3 ŋ̟z k uə-3 m i-1 ŋ̟z
+ĐNL_Nu_6_S0007_79,/audio_data/private_test/ĐNL_Nu_6_S0007_79.wav,ɓ aː-4 z ə-4 tz l uz l ɛ-0 uz ɓ aː-4 l ɛ-0 uz uz t͡ɕ ɛ-1 uz z ə-4 tz z ɔ-3 iz
+TQA_7_NAM_S0045_57,/audio_data/private_test/TQA_7_NAM_S0045_57.wav,ɗ aː-4 pz aː-4 nz nz k uə-3 t əː-4 l aː-1 i-0 ə-0 iz iz ɗ ɛ-4 nz ɓ aː-4 uz h iə-5 uz m uə-1 s w w ə-0 nz v e-1
+TQA_7_NAM_S0045_155,/audio_data/private_test/TQA_7_NAM_S0045_155.wav,v i-1 s aː-0 uz t͡ɕ i-0 mz s ɛ-3 tʰ ɨə-1 ŋz ɲ a-3 iz m aː-1 x o-0 ŋmz ɗ i-0
+TQA_7_NAM_S0045_238,/audio_data/private_test/TQA_7_NAM_S0045_238.wav,ɓ aː-1 iz ɓ əː-1 t͡ɕ ɛ-0 ɗ ɔ-4 nz x eaː-4 k̟z
+TQA_7_NAM_S0045_174,/audio_data/private_test/TQA_7_NAM_S0045_174.wav,l u-4 kpz m ɔ-3 v a-5 tz ɗ aː-4 mz k ɔ-3 z aː-5 iz ə-3 mz ɨə-4 tz
+TQA_7_NAM_S0045_73,/audio_data/private_test/TQA_7_NAM_S0045_73.wav,t əː-4 k u-1 ŋmz k aː-4 kz k ə-5 uz l aː-5 iz l aː-1 mz mz ɓ aː-1 iz iz t ə-5 pz t iə-4 pz ɲ ɛ-4
+TQA_7_NAM_S0045_275,/audio_data/private_test/TQA_7_NAM_S0045_275.wav,h ə-0 nz əː-0 iz k ə-5 uz t͡ɕ aː-3 l əː-1 iz ɗ i-0
+thành_11_2,/audio_data/private_test/thành_11_2.wav,k o-0 z aː-4 mz m i-3 mz k ɨə-1 iz tʰ ə-5 tz t ɨə-0 iz
+thành_12_2,/audio_data/private_test/thành_12_2.wav,k a-5 pz s eaː-4 k̟z k ɔ-4 m a-1 uz s eaː-0 ŋ̟z ŋ̟z z ə-4 tz ɗ ɛ-5 pz
+thành_13_2,/audio_data/private_test/thành_13_2.wav,k a-1 k o-4 kpz ɛ-4 k o-4 k o-4 kpz n ɨə-4 kz k ɔ-4 m a-1 uz uz t͡ɕ a-4 ŋz z ə-4 tz ɗ ɛ-5 pz
+thành_14_2,/audio_data/private_test/thành_14_2.wav,t o-0 iz l aː-1 k aː-0 aː-0 s i-2 n o-3 iz t iə-4 ŋz ŋz
+thành_15_2,/audio_data/private_test/thành_15_2.wav,t o-0 iz k ɔ-4 m o-5 tz t o-0 nz m w w o-4 nz k ɔ-4 m o-5 tz k w w o-4 nz s eaː-4 k̟z
+thành_16_2,/audio_data/private_test/thành_16_2.wav,ɲ ɨ-2 ŋmz k ɔ-0 nz l ɔ-0 ŋmz tʰ ə-5 tz t͡ɕ a-0 mz t͡ɕ i-3 mz
+thành_17_2,/audio_data/private_test/thành_17_2.wav,h w w w aː-0 s ɛ-0 nz k ɔ-4 m əː-0 mz k w w aː-0 s ɛ-0 nz k ɔ-4 m i-1 z ə-4 tz tʰ əː-0 mz
+thành_18_2,/audio_data/private_test/thành_18_2.wav,k aː-4 t u-3 l aː-1 iz z u-1 ŋmz ɗ e-3 l aː-1 mz ɣ i-1
+thành_20_1,/audio_data/private_test/thành_20_1.wav,k aː-4 iz n o-1 ɗ ə-4 m ɛ-5 ɗ ə-4 uz k eaː-0 iz
+thành_22_3,/audio_data/private_test/thành_22_3.wav,ɓ aː-1 iz iz h ɔ-5 kpz ɗ ə-1 uz t iə-0 nz k uə-3 ɣ ə-4 k ɔ-0 nz
+thành_23_3,/audio_data/private_test/thành_23_3.wav,n a-0 iz l aː-1 tʰ ɨ-4 s a-4 uz uz
+thành_24_3,/audio_data/private_test/thành_24_3.wav,z ə-5 mz s a-4 uz z əː-1 əː-1 z
+thành_25_4,/audio_data/private_test/thành_25_4.wav,ɓ ɨə-1 ŋz k o-3 t͡ɕ ɛ-0 ɛ-0 mz əː-0 ŋz k əː-0 mz əː-0 t͡ɕ əː-0 əː-0 nz
+thành_26_4,/audio_data/private_test/thành_26_4.wav,t iə-4 tz h ɔ-5 kpz v w i-0 k w w w aː-4
+thành_27_4,/audio_data/private_test/thành_27_4.wav,aː-4 m uə-1 h w aː-0 iz n ɨə-4 ŋz tʰ əː-0 mz k w w w aː-4
+thành_28_4,/audio_data/private_test/thành_28_4.wav,ɨə-0 h w w ɨə-0 ŋz k ɔ-4 k u-3 x aː-0 ŋz l aː-0 ŋz
+thành_29_5,/audio_data/private_test/thành_29_5.wav,m o-5 tz t͡ɕ iə-4 kz m aː-4 z əː-0 iz
+thành_31_4,/audio_data/private_test/thành_31_4.wav,k aː-4 x o-0 ŋmz m a-0 nz m w w o-4 iz k aː-4 ɨə-0 nz
+thành_33_5,/audio_data/private_test/thành_33_5.wav,o-0 o-0 ŋmz ɓ aː-1 k ɔ-4 x w w ɛ-3 x o-0 ŋmz aː-1
+thành_35_5,/audio_data/private_test/thành_35_5.wav,s ə-0 uz s w ə-0 ŋmz ə-0 nz k w w o-1 ŋmz f w ɔ-0 ŋmz o-1
+thành_36_5,/audio_data/private_test/thành_36_5.wav,k ɔ-0 ɣ ə-4 uz k ɔ-0 nz k aː-4 mz ɓ ə-4 nz ɓ aː-4 iz v aː-4 nz nz
+thành_38_5,/audio_data/private_test/thành_38_5.wav,k k ɔ-0 nz nz z aː-0 uz t ɨə-1 h aː-4 iz h aː-4 uz
+thành_41_6,/audio_data/private_test/thành_41_6.wav,ɛ-4 ɛ-0 mz ɗ a-1 mz ɗ aː-0 n a-1 mz ŋ u-3 u-3
+thành_42_6,/audio_data/private_test/thành_42_6.wav,ɨ-0 ɨ-0 ɓ aː-1 k ɨ-0 i-0 iz t͡ɕ əː-5 iz t͡ɕ ɨ-0 ɨ-0
+thành_44_6,/audio_data/private_test/thành_44_6.wav,ɓ aː-4 kz s i-2 ɗ aː-0 ŋz x aː-4 mz ɓ e-5 ŋ̟z aː-0
+thành_45_6,/audio_data/private_test/thành_45_6.wav,m aː-0 nz ɗ ɗ aː-0 ŋz l a-0 uz s aː-1 nz ɲ aː-1 ɗ ɛ-5 uz
+thành_47_6,/audio_data/private_test/thành_47_6.wav,n ɔ-4 t͡ɕ əː-1 iz n əː-1 iz z ɔ-4 t ɔ-0
+thành_4_1,/audio_data/private_test/thành_4_1.wav,ɗ o-5 ŋmz ɣ i-1 l aː-5 l a-4 mz k ɔ-4 t iə-4 ŋz ɗ o-5 ŋmz l aː-5 l mz
+thành_50_6,/audio_data/private_test/thành_50_6.wav,h o-0 mz n a-0 iz iz t͡ɕ əː-1 l eaː-5 ŋ̟z k w w aː-4
+thành_53_7,/audio_data/private_test/thành_53_7.wav,ŋ ɨə-5 f i-0 ɲ eaː-0 ŋ̟z ɓ a-0 iz ɲ
+thành_59,/audio_data/private_test/thành_59.wav,eaː-0 ŋ̟z ɣ aː-1 t͡ɕ o-4 ŋmz ɓ a-0 iz l e-0 nz
+thành_61_8,/audio_data/private_test/thành_61_8.wav,t͡ɕ ɔ-0 nz ŋ u-3 nz ŋ ɔ-0 nz
+thành_62_8,/audio_data/private_test/thành_62_8.wav,m ɛ-5 iə-0 uz k ɔ-0 nz nz
+thành_63_8,/audio_data/private_test/thành_63_8.wav,tʰ aː-3 z ə-4 tz iə-0 uz k w w e-0 h ɨə-0 ŋz m i-1 ŋ̟z
+thành_64_8,/audio_data/private_test/thành_64_8.wav,k əː-0 nz m ɨə-0 z aː-1 uz k ɛ-4 uz ɗ e-4 nz nz
+thành_65_8,/audio_data/private_test/thành_65_8.wav,t͡ɕ əː-1 iz ŋ a-1 iz k aː-1 ŋz ŋ a-1 nz h əː-0 iz h aː-1
+thành_66_8,/audio_data/private_test/thành_66_8.wav,l aː-4 k ə-0 iz m uə-1 tʰ u-0
+thành_68_8,/audio_data/private_test/thành_68_8.wav,t e-0 nz ɓ aː-5 nz n aː-1 ɣ i-1
+thành_69_8,/audio_data/private_test/thành_69_8.wav,k u-1 iz u-0 u-0 iz t u-1 mz t ə-0 iz k o-4 u-1 iz
+thành_6_1,/audio_data/private_test/thành_6_1.wav,m o-0 əː-4 t o-0 m
+thành_70_8,/audio_data/private_test/thành_70_8.wav,ɔ-0 ŋmz t͡ɕ t͡ɕ uə-4 ɓ a-0 iz v e-1 t o-3 v e-1
+thành_71_9,/audio_data/private_test/thành_71_9.wav,k e-0 h ɨə-0 ŋz l aː-1 t͡ɕ u-1 x e-4 ŋ aː-1 tz
+thành_72_9,/audio_data/private_test/thành_72_9.wav,t͡ɕ əː-1 iz m uə-1 tz tʰ u-0 m aː-4 tz m ɛ-3
+thành_73_9,/audio_data/private_test/thành_73_9.wav,t͡ɕ o-0 o-0 iz h aː-0 iz k w w aː-4
+thành_75_9,/audio_data/private_test/thành_75_9.wav,ɛ-0 mz ɓ ɛ-4 ɗ aː-0 ŋz ŋ w w aː-0 ŋ w w aː-2 nz a-0 nz k əː-0 mz
+thành_76_9,/audio_data/private_test/thành_76_9.wav,m əː-1 iz s aː-4 ŋz t i-0 ŋ̟z m əː-0 aː-4
+thành_78_9,/audio_data/private_test/thành_78_9.wav,ɓ aː-5 nz ɲ ɔ-3 tʰ aː-3 z iə-1 uz t͡ɕ e-0 nz k eaː-4 ŋ̟z ŋ̟z ɗ o-1 ŋmz
+thành_79_9,/audio_data/private_test/thành_79_9.wav,ɗ aː-0 ŋz k ɔ-0 nz ɗ a-0 mz ɓ a-0 iz k aː-0 s o-0 ŋmz
+thành_7_1,/audio_data/private_test/thành_7_1.wav,a-0 nz k əː-0 mz
+thành_81_9,/audio_data/private_test/thành_81_9.wav,kz t͡ɕ iə-4 kz l ɨə-5 kz kz z ə-4 kz ɗ ɛ-5 tz tz
+thành_82_9,/audio_data/private_test/thành_82_9.wav,tʰ ɔ-3 k ɔ-0 nz ɲ i-1 nz k aː-4 uz
+thành_84_9,/audio_data/private_test/thành_84_9.wav,ɓ ɛ-4 ɗ ə-5 pz ɗ aː-1 kpz
+thành_85_9,/audio_data/private_test/thành_85_9.wav,t o-0 iz h əː-3 v w e-1 k e-0 h ɨə-0 ŋz h
+thành_86_9,/audio_data/private_test/thành_86_9.wav,ɗ ɨə-1 ŋz v e-1 s aː-0 l a-4 kz s aː-0 l əː-0 ŋz
+thành_87_9,/audio_data/private_test/thành_87_9.wav,t o-0 iz ɗ e-4 ŋ̟z tʰ o-0 mz eaː-0 ŋ̟z h aː-0 iz t o-0 iz
+thành_88_10,/audio_data/private_test/thành_88_10.wav,ɛ-0 mz k iə-0 uz ŋ o-0 iz ɲ aː-1 k uə-3 ɛ-0 mz
+thành_89_10,/audio_data/private_test/thành_89_10.wav,mz ɛ-0 mz t ə-5 t aː-1 mz t͡ɕ i-0
+thành_90_10,/audio_data/private_test/thành_90_10.wav,m o-1 ɛ-1 h e-4 nz z o-1 iz
+thành_91_10,/audio_data/private_test/thành_91_10.wav,o-0 ŋmz o-0 x o-0 ŋmz k ɔ-4 x ɛ-3 x o-0 ŋmz
+thành_93_10,/audio_data/private_test/thành_93_10.wav,ɓ o-4 m ɛ-5 z u-4 pz k ɔ-0 nz t͡ɕ w w ə-3 nz ɓ i-5 ɲ ɛ-4
+thành_95_10,/audio_data/private_test/thành_95_10.wav,s ɔ-4 mz l aː-1 mz z o-1 ŋmz k w o-5 ŋmz z ɨ-1 ŋz k ə-0 iz
+thành_96_10,/audio_data/private_test/thành_96_10.wav,t͡ɕ aː-0 ŋz t͡ɕ ɨə-0 ŋz t͡ɕ u-4 h e-1 l a-4 mz
+thành_98_10,/audio_data/private_test/thành_98_10.wav,k w w e-0 t əː-4 əː-0 h h aː-3 iz f ɔ-1 ŋmz
+thành_99_10,/audio_data/private_test/thành_99_10.wav,v ɨə-1 nz k ə-0 iz ɗ ə-0 mz t͡ɕ o-1 iz n ə-3 iz l n o-5 kpz
+tú_101_8,/audio_data/private_test/tú_101_8.wav,z ə-4 tz tʰ i-4 k̟z h w w aː-0 h o-1 ŋmz
+tú_104_8,/audio_data/private_test/tú_104_8.wav,ɛ-2 mz v ɛ-2 m o-5 tz k o-0 t iə-0 nz
+tú_105_8,/audio_data/private_test/tú_105_8.wav,ɓ o-4 m ɛ-5 t͡ɕ ɔ-0 ɓ ɛ-4 ɛ-4 v e-1 k w w w w e-0
+tú_107_6,/audio_data/private_test/tú_107_6.wav,ɓ ɛ-4 z ə-4 tz ɲ əː-4 ɓ aː-1
+tú_108_6,/audio_data/private_test/tú_108_6.wav,tʰ ə-5 tz tz l aː-1 t w w w w iə-5 tz
+tú_109_6,/audio_data/private_test/tú_109_6.wav,k eaː-4 ŋ̟z h w w aː-0 ɲ ɔ-3 ɲ ɨ-0 v a-3 iz k aː-4
+tú_110_6,/audio_data/private_test/tú_110_6.wav,t͡ɕ əː-1 iz ɗ aː-0 ŋz z ə-4 tz l eaː-5 ŋ̟z
+tú_112_6,/audio_data/private_test/tú_112_6.wav,k ɔ-0 nz nz t͡ɕ i-0 mz s əː-0 nz k aː-0 ə-4 tz k ə-4 tz t iə-4 ŋz h ɔ-4 tz
+tú_116_6,/audio_data/private_test/tú_116_6.wav,m ə-4 iz k ɔ-0 nz ŋ ɨə-5 ɗ aː-0 ŋz a-0 nz k ɔ-3
+tú_118_6,/audio_data/private_test/tú_118_6.wav,ɗ ɨə-4 t͡ɕ t͡ɕ ɛ-3 t͡ɕ i-3 m əː-4 s a-4 uz t t w w o-3 iz iz
+tú_119_6,/audio_data/private_test/tú_119_6.wav,m a-5 tz ɗ ɛ-5 tz s aː-4 ŋz ŋ əː-1 iz
+tú_11_2,/audio_data/private_test/tú_11_2.wav,k o-0 z aː-4 uz m i-3 mz k ɨə-1 iz tʰ ə-5 tz t ɨə-0 iz
+tú_121_5,/audio_data/private_test/tú_121_5.wav,s ɛ-0 k ə-4 pz pz k ɨ-4 uz uz
+tú_122_5,/audio_data/private_test/tú_122_5.wav,ɛ-0 mz tʰ e-4 ɣ i-1 nz ɓ ɨ-2 ɓ u-4 tz k ə-3 nz tʰ ə-5 pz
+tú_123_5,/audio_data/private_test/tú_123_5.wav,k o-0 ɣ aː-4 uz tʰ ə-5 tz ɣ ɣ ə-1 nz ɣ w w w w i-4
+tú_124_5,/audio_data/private_test/tú_124_5.wav,z ɔ-4 m uə-1 ɗ o-0 ŋmz ɓ a-4 kz t͡ɕ ə-1 nz v e-1
+tú_125_5,/audio_data/private_test/tú_125_5.wav,ŋ a-1 iz k w w w o-4 iz tʰ aː-4 ŋz n a-0 mz
+tú_128_5,/audio_data/private_test/tú_128_5.wav,ŋz ɨə-4 kz m əː-0 k aː-0 uz ɗ ɛ-5 pz
+tú_12_2,/audio_data/private_test/tú_12_2.wav,s eaː-0 ŋ̟z k a-5 pz s eaː-4 k̟z k ɔ-4 m a-1 uz s eaː-0 ŋ̟z z ə-4 tz ɗ ɛ-5 pz
+tú_130_5,/audio_data/private_test/tú_130_5.wav,k ɔ-0 nz ɣ ə-4 uz ɓ o-0 ŋmz ɗ ɛ-5 pz k w w w aː-4
+tú_132_5,/audio_data/private_test/tú_132_5.wav,ɓ aː-1 m uə-0 k aː-0 mz t͡ɕ ɔ-0 ɓ ɛ-4
+tú_133_12,/audio_data/private_test/tú_133_12.wav,m kpz n a-0 mz m əː-4 iz
+tú_137_12,/audio_data/private_test/tú_137_12.wav,ɓ ɨə-0 ɓ ɛ-4 ɗ i-0 t͡ɕ ɨə-0
+tú_141_4,/audio_data/private_test/tú_141_4.wav,h a-4 pz h i-4 ɓ a-4 tz h iə-0 uz t i-0 ŋ̟z
+tú_142_4,/audio_data/private_test/tú_142_4.wav,v ɨə-1 nz t͡ɕ ɨə-0 v ɔ-4 m aː-4 tz
+tú_144_4,/audio_data/private_test/tú_144_4.wav,ɛ-0 mz z ə-4 tz k w i-4 m e-4 nz k o-0
+tú_145_4,/audio_data/private_test/tú_145_4.wav,ɓ ɛ-4 t ə-5 pz v iə-4 tz
+tú_146_4,/audio_data/private_test/tú_146_4.wav,k ɔ-0 nz k aː-4 v aː-1 uz t͡ɕ u-1 mz ɲ ɔ-0
+tú_147_4,/audio_data/private_test/tú_147_4.wav,m uə-1 ɗ o-0 ŋmz l eaː-5 ŋ̟z k w w w aː-4
+tú_148_4,/audio_data/private_test/tú_148_4.wav,ɲ ɨ-2 ŋz k a-0 nz ɲ aː-1 ɣ o-2 i-0 s i-0 ŋ̟z k a-4 nz
+tú_149_4,/audio_data/private_test/tú_149_4.wav,ɲ ɨ-2 ŋz ɗ aː-4 mz m ə-0 iz m a-1 uz h o-1 ŋmz
+tú_14_2,/audio_data/private_test/tú_14_2.wav,t o-0 iz l aː-1 k aː-0 s i-2 n o-3 iz t iə-4 ŋz
+tú_150_4,/audio_data/private_test/tú_150_4.wav,o-0 ŋmz ɛ-0 mz t͡ɕ o-1 mz k ə-0 iz t͡ɕ w w aː-1 iz t͡ɕ ɨə-4 kz t͡ɕ ə-0 nz
+tú_16_2,/audio_data/private_test/tú_16_2.wav,ɔ-0 nz ɔ-0 ŋmz tʰ ə-5 tz l aː-1 t͡ɕ t͡ɕ a-0 mz t͡ɕ i-3
+tú_17_2,/audio_data/private_test/tú_17_2.wav,h w w aː-0 s w w ɛ-0 nz k ɔ-4 m w i-1 z ə-4 tz tʰ əː-0 mz
+tú_18_2,/audio_data/private_test/tú_18_2.wav,k aː-4 iz t u-3 l aː-1 mz l aː-1 z u-1 ŋmz l aː-1 mz ɣ i-1
+tú_19_2,/audio_data/private_test/tú_19_2.wav,pz ɓ e-0 s iə-0 uz ɲ ə-0 nz ɣ ə-4 uz uz ɓ o-0 ŋmz
+tú_20_2,/audio_data/private_test/tú_20_2.wav,k aː-4 iz iz eaː-0 ŋ̟z n o-1 iz iz ɗ e-3 m ɛ-5 n ə-4 uz k ɔ-0 ŋ̟z
+tú_21_3,/audio_data/private_test/tú_21_3.wav,ɗ i-0 t͡ɕ ə-5 mz ɲ ɨ-0 iz z uə-1 ə-4 iz
+tú_22_3,/audio_data/private_test/tú_22_3.wav,ɣ ɔ-5 kpz ɗ ə-1 uz t iə-0 nz k uə-3 ɣ ə-4 uz k aː-1 nz
+tú_23_3,/audio_data/private_test/tú_23_3.wav,n o-0 iz l aː-1 tʰ ɨ-4 s a-4 uz
+tú_24_3,/audio_data/private_test/tú_24_3.wav,mz tʰ ɨ-4 kz z ə-5 iz t ɨ-1 s a-4 uz z əː-1
+tú_25_3,/audio_data/private_test/tú_25_3.wav,ɓ w w o-3 t͡ɕ ɨə-0 iz ɛ-0 mz a-0 nz k əː-0 mz əː-0 t͡ɕ t͡ɕ ɨə-1 ŋz
+tú_27_3,/audio_data/private_test/tú_27_3.wav,m i-1 ŋz x w w aː-0 iz n ɨə-4 ŋz tʰ əː-0 mz k w w aː-4
+tú_29_3,/audio_data/private_test/tú_29_3.wav,m o-5 tz t͡ɕ iə-4 kz l aː-4 z əː-0 iz
+tú_30_3,/audio_data/private_test/tú_30_3.wav,t͡ɕ i-0 mz s ə-0 uz ɲ iə-1 uz tʰ e-4
+tú_31_1,/audio_data/private_test/tú_31_1.wav,k aː-4 x o-0 ŋmz a-0 nz m w w o-4 iz k aː-4 nz a-0 nz
+tú_33_1,/audio_data/private_test/tú_33_1.wav,ɓ aː-1 k ɔ-4 x w w ɛ-3 x o-0 ŋmz ŋmz aː-0
+tú_35_1,/audio_data/private_test/tú_35_1.wav,iə-0 ɲ ə-0 nz k w w o-1 ŋmz f ɔ-0 ŋmz
+tú_36_1,/audio_data/private_test/tú_36_1.wav,k ɔ-0 nz k aː-3 mz əː-0 nz ɓ aː-4 kz v ɔ-0 iz
+tú_37_1,/audio_data/private_test/tú_37_1.wav,h u-1 ŋmz ɓ iə-3 nz k aː-3
+tú_37_12,/audio_data/private_test/tú_37_12.wav,h eaː-0 ŋ̟z ɓ iə-3 nz k aː-3
+tú_38_1,/audio_data/private_test/tú_38_1.wav,z aː-0 v ɨə-1 nz h aː-4 iz t aː-4 uz
+tú_38_12,/audio_data/private_test/tú_38_12.wav,z aː-0 v ɨə-1 nz h aː-4 iz iz t aː-4 uz
+tú_39_1,/audio_data/private_test/tú_39_1.wav,k ɔ-0 nz m ɨ-0 ɨ-0 ŋz t aː-4 uz ŋ əː-1 iz ɓ o-4 m ɛ-5
+tú_40_1,/audio_data/private_test/tú_40_1.wav,l aː-1 ŋ ɨə-1 iz f u-5 n ɨ-2 h iə-1 nz z i-5 uz
+tú_41_12,/audio_data/private_test/tú_41_12.wav,ɛ-0 mz ɓ ɓ ɛ-4 ɗ aː-0 ŋz n a-1 mz u-3 u-3 ŋ u-3
+tú_44_11,/audio_data/private_test/tú_44_11.wav,ɓ aː-4 kz x i-4 ŋ̟z ɗ aː-0 ŋz x aː-4 mz ɓ e-5 ŋ̟z
+tú_46_11,/audio_data/private_test/tú_46_11.wav,h o-0 nz t͡ɕ e-0 nz n aː-1 nz ɓ a-0 iz
+tú_49_11,/audio_data/private_test/tú_49_11.wav,l eaː-1 uz ɓ iə-4 tz ɓ a-0 iz
+tú_50_11,/audio_data/private_test/tú_50_11.wav,h o-0 mz n a-0 t͡ɕ əː-1 iz iz l eaː-5 ŋ̟z k k w w w aː-4
+tú_51_11,/audio_data/private_test/tú_51_11.wav,k o-4 mz l aː-1 mz mz ɣ i-1 k o-4 ŋmz x aː-1 uz l ɛ-4 uz uz uz
+tú_52_11,/audio_data/private_test/tú_52_11.wav,m t ɔ-4 tz t ɛ-0 mz
+tú_53_11,/audio_data/private_test/tú_53_11.wav,f ɨə-5 ŋ̟z ŋ ɨ-0 ŋ̟z ɲ ɨ-0 ɓ a-1 iz
+tú_54_11,/audio_data/private_test/tú_54_11.wav,tʰ aː-0 iz ŋ w aː-0 nz ɗ ɨə-3 kz tʰ ɨə-5 kz tʰ ɨə-3
+tú_55_11,/audio_data/private_test/tú_55_11.wav,t͡ɕ iə-4 kz z iə-4 t͡ɕ ɔ-1 nz
+tú_56_10,/audio_data/private_test/tú_56_10.wav,ɓ ə-1 uz t͡ɕ əː-1 iz s eaː-0 ŋ̟z tʰ a-0 mz
+tú_57_10,/audio_data/private_test/tú_57_10.wav,t o-0 iz ɗ ɨə-0 m eaː-3 ŋ̟z z ə-4 iz t͡ɕ ɔ-0 ŋ ɨə-1 iz m ɛ-5
+tú_58_10,/audio_data/private_test/tú_58_10.wav,o-0 ŋmz s ɛ-0 mz v aː-1 k o-0 uz m a-1 iz
+tú_59_10,/audio_data/private_test/tú_59_10.wav,eaː-0 ŋ̟z ɣ aː-1 t͡ɕ o-4 ŋmz ɓ a-0 iz l e-0 nz
+tú_60_10,/audio_data/private_test/tú_60_10.wav,ɓ ɛ-4 ɗ ɨə-0 m a-4 tz ɲ i-1 nz k w w eaː-0 ŋ̟z
+tú_61_10,/audio_data/private_test/tú_61_10.wav,t͡ɕ u-4 kpz k ɔ-0 nz ŋ u-3 ŋ ŋ ŋ u-3 nz u-3 nz nz
+tú_62_10,/audio_data/private_test/tú_62_10.wav,m ɛ-5 iə-0 uz k ɔ-0 nz
+tú_63_10,/audio_data/private_test/tú_63_10.wav,tʰ aː-3 z ə-4 tz iə-0 uz k w w e-0 h ɨə-0 ŋz m i-1 ŋ̟z
+tú_64_10,/audio_data/private_test/tú_64_10.wav,k əː-0 nz m ɨə-0 z aː-1 k ɛ-4 uz ɗ e-4 nz
+tú_65_10,/audio_data/private_test/tú_65_10.wav,t͡ɕ əː-1 iz ŋ a-1 iz k aː-1 ŋz n eaː-5 ŋ̟z h əː-0 nz
+tú_66_10,/audio_data/private_test/tú_66_10.wav,l aː-4 k ə-0 iz m uə-1 tʰ u-0
+tú_67_10,/audio_data/private_test/tú_67_10.wav,k ɔ-0 nz v o-0 k u-1 ŋmz ŋ ŋ aː-5 kz ɲ iə-0 nz
+tú_68_10,/audio_data/private_test/tú_68_10.wav,t e-0 nz ɓ aː-5 nz l aː-1 ɣ i-1
+tú_69_10,/audio_data/private_test/tú_69_10.wav,k ə-0 iz k o-4 iz u-0 mz t u-1 mz
+tú_70_10,/audio_data/private_test/tú_70_10.wav,ɔ-0 ŋmz t͡ɕ uə-4 ɓ a-0 iz v e-1 t o-3
+tú_71_9,/audio_data/private_test/tú_71_9.wav,k e-0 h ɨə-0 ŋz n aː-1 t͡ɕ u-1 mz x e-4 ŋ ɔ-5 tz
+tú_72_9,/audio_data/private_test/tú_72_9.wav,t͡ɕ əː-1 iz m əː-1 tʰ u-0 m aː-4 tz m ɛ-3
+tú_73_9,/audio_data/private_test/tú_73_9.wav,aː-0 o-0 iz h a-0 iz iz k w w aː-4
+tú_74_9,/audio_data/private_test/tú_74_9.wav,tʰ ə-5 tz l aː-1 t w w w iə-5 tz z iə-5 uz
+tú_75_9,/audio_data/private_test/tú_75_9.wav,ɓ ɛ-4 ɗ aː-0 ŋz ŋ w w aː-0 nz ŋ w w aː-2 a-0 nz k əː-0 mz
+tú_76_9,/audio_data/private_test/tú_76_9.wav,m əː-4 iz s aː-4 ŋz t i-0 ŋ̟z m əː-0
+tú_77_9,/audio_data/private_test/tú_77_9.wav,t͡ɕ i-0 v aː-1 uz uz tʰ a-0 mz h ɨə-1 nz h w w aː-0
+tú_78_9,/audio_data/private_test/tú_78_9.wav,ɓ aː-5 ɲ ɔ-3 tʰ aː-3 z iə-1 uz t͡ɕ e-0 nz k eaː-4 ŋ̟z ɗ o-1 ŋmz
+tú_79_9,/audio_data/private_test/tú_79_9.wav,ɓ ɛ-4 nz k ɔ-0 nz ɗ aː-0 ŋz ɓ a-0 iz k w w aː-0 s o-0 ŋmz
+tú_80_9,/audio_data/private_test/tú_80_9.wav,k ɔ-0 k ɔ-1 nz s eaː-0 ŋ̟z n a-4 mz
+tú_81_9,/audio_data/private_test/tú_81_9.wav,m o-5 tz t͡ɕ iə-4 kz l ɨə-5 kz z ə-4 tz ɗ ɛ-5 pz
+tú_82_9,/audio_data/private_test/tú_82_9.wav,k ɔ-0 ɲ i-1 nz k aː-4 uz
+tú_83_8,/audio_data/private_test/tú_83_8.wav,k aː-4 kz ɓ aː-5 nz nz k ɔ-4 k w w w ɛ-0 nz z e-4 nz m ɛ-1 x o-0 ŋmz
+tú_84_8,/audio_data/private_test/tú_84_8.wav,ɓ ɛ-4 t ə-5 kpz kpz ɗ ɔ-5 kpz
+tú_85_8,/audio_data/private_test/tú_85_8.wav,t o-0 iz t͡ɕ əː-3 k e-1 h ɨə-0 h w ɨə-0 ŋz
+tú_86_8,/audio_data/private_test/tú_86_8.wav,ɗ ɨə-1 ŋz v e-1 s aː-0 l a-4 kz s aː-0 l əː-0
+tú_87_8,/audio_data/private_test/tú_87_8.wav,t o-0 iz ɗ e-4 nz h aː-0 iz tʰ eaː-0 ŋ̟z aː-0 iz t o-0 iz
+tú_88_8,/audio_data/private_test/tú_88_8.wav,ɛ-0 iə-0 uz ŋ o-0 iz ɲ aː-1 k uə-3 ɛ-0 mz
+tú_89_7,/audio_data/private_test/tú_89_7.wav,t iə-4 mz t͡ɕ i-0 mz
+tú_90_7,/audio_data/private_test/tú_90_7.wav,m ɛ-1 ɗ e-4 nz z o-1 iz
+tú_91_7,/audio_data/private_test/tú_91_7.wav,k w o-0 iz o-0 ŋmz o-0 ŋmz k ɔ-4 x ɛ-3 x o-0 ŋmz
+tú_92_7,/audio_data/private_test/tú_92_7.wav,l u-4 kpz ɗ ɔ-4 t͡ɕ ɨə-0 iz ɗ o-3 m ɨə-0
+tú_93_7,/audio_data/private_test/tú_93_7.wav,ɓ o-4 m ɛ-5 t͡ɕ u-4 pz k ɔ-0 nz z w u-5 nz ɓ i-5 ɲ ɛ-4
+tú_94_7,/audio_data/private_test/tú_94_7.wav,t͡ɕ o-0 ŋmz h ɨə-0 ɗ ə-5 ɲ aː-1 tʰ ɛ-5 pz
+tú_96_7,/audio_data/private_test/tú_96_7.wav,t͡ɕ t͡ɕ u-4 h ɛ-0 n a-4 ŋz
+tú_97_7,/audio_data/private_test/tú_97_7.wav,ɛ-1 k ɔ-0 ŋmz m ɛ-1 nz l o-0 ŋmz v aː-1 ŋz ɔ-4 ŋmz
+tú_98_7,/audio_data/private_test/tú_98_7.wav,t əː-4 əː-0 h aː-5 iz f ɔ-1 ŋmz
+tú_99_7,/audio_data/private_test/tú_99_7.wav,v ɨə-1 v ɨə-1 nz k ə-0 iz ɗ ə-0 mz t͡ɕ o-1 nz k ə-3 iz n ɔ-3 kpz
+đông_100_11,/audio_data/private_test/đông_100_11.wav,ɲ ɨ-2 ŋz l ɔ-5 tz s ɨə-0 ŋz l ɔ-0 ŋmz l eaː-0 ŋ̟z
+đông_101_11,/audio_data/private_test/đông_101_11.wav,z ə-4 tz tz tʰ i-4 k̟z h w w w w h h h h o-1 ŋmz
+đông_102_11,/audio_data/private_test/đông_102_11.wav,ɨə-4 kz t͡ɕ ɨə-4 kz tʰ ɛ-3 m a-1 uz uz k aː-0 mz
+đông_103_11,/audio_data/private_test/đông_103_11.wav,l aː-0 ɗ aː-0 ŋz m aː-2 v o-5 tz k o-0 ɣ aː-4 iz
+đông_104_11,/audio_data/private_test/đông_104_11.wav,ɛ-0 mz v ɛ-2 m o-5 tz k o-0 t iə-0 nz
+đông_105_11,/audio_data/private_test/đông_105_11.wav,ɓ o-4 m ɛ-5 t͡ɕ ɔ-0 v e-1 ɓ ɓ o-4 m ɛ-5 t͡ɕ ɛ-0 ɛ-0 v ɛ-4 e-1 k w w w e-0
+đông_107_12,/audio_data/private_test/đông_107_12.wav,ɲ ɛ-4 z ə-4 tz ɓ əː-4 ɓ aː-1
+đông_109_12,/audio_data/private_test/đông_109_12.wav,h aː-4 k aː-0 h a-3 ŋ̟z ɲ ɨ-0 v a-3 iz k aː-4
+đông_10_2,/audio_data/private_test/đông_10_2.wav,ɛ-0 mz t͡ɕ aː-1 uz k o-0 aː-0
+đông_110_12,/audio_data/private_test/đông_110_12.wav,ɗ əː-1 iz iz z aː-0 ŋ̟z ɗ ə-4 ɗ ə-4 ŋz
+đông_111_14,/audio_data/private_test/đông_111_14.wav,z ɨə-1 nz z ɔ-0 iz s w w o-4 ŋmz o-5 tz k aː-4 iz z iə-4 nz
+đông_112_14,/audio_data/private_test/đông_112_14.wav,k ɔ-0 nz t͡ɕ i-0 mz mz t͡ɕ əː-0 ŋz h aː-0 k iə-4 tz t iə-4 h ɔ-4 tz
+đông_113_14,/audio_data/private_test/đông_113_14.wav,ɓ w w w o-3 iz t͡ɕ iə-1 uz m uə-1 h ɛ-1 tʰ ə-5 tz ɗ aː-4 ŋz iə-0 uz
+đông_114_14,/audio_data/private_test/đông_114_14.wav,m ɛ-1 t͡ɕ ɛ-1 uz k w w aː-0 k ɨə-3 s o-3 o-3
+đông_115_14,/audio_data/private_test/đông_115_14.wav,t o-0 ŋmz ɓ ɔ-3 ɓ o-0 ŋmz m ɔ-4 kpz t iə-0 nz t eaː-4 ŋ̟z k ɔ-3 k ɨ-0 ɲ u-3
+đông_116_13,/audio_data/private_test/đông_116_13.wav,ŋ ə-4 iz k ɔ-0 nz ɗ ɨə-5 nz k aː-0 a-0 nz k ɔ-3
+đông_117_13,/audio_data/private_test/đông_117_13.wav,f aː-0 t͡ɕ aː-1 t͡ɕ t͡ɕ ɔ-0 k aː-3 ɲ aː-1
+đông_118_13,/audio_data/private_test/đông_118_13.wav,ɗ ɨə-4 t͡ɕ ɛ-3 s ɛ-2 s a-4 uz uz t w w o-3 iz iz
+đông_119_13,/audio_data/private_test/đông_119_13.wav,m ɛ-5 s aː-4 ŋz ŋ əː-1 iz
+đông_11_3,/audio_data/private_test/đông_11_3.wav,o-0 m i-3 k ɨə-1 iz tʰ ə-5 tz t ɨə-0 iz iz iz
+đông_120_13,/audio_data/private_test/đông_120_13.wav,t o-0 iz aː-1 t͡ɕ u-4 ɓ aː-1 ɗ o-5 n o-5 iz
+đông_121_13,/audio_data/private_test/đông_121_13.wav,s ɛ-0 k ə-4 pz k ɨ-4 uz
+đông_122_13,/audio_data/private_test/đông_122_13.wav,ɛ-0 mz z ɨ-2 ɓ nz k u-4 tz tʰ ə-3 pz k ə-3 nz tʰ ə-5 nz
+đông_123_13,/audio_data/private_test/đông_123_13.wav,k o-0 z aː-4 uz k ə-5 nz tʰ ə-1 nz ɣ ə-1 ɣ w w i-4 tz
+đông_124_13,/audio_data/private_test/đông_124_13.wav,z ɔ-4 m uə-1 ŋmz ɗ əː-5 t͡ɕ a-4 tz v e-1
+đông_125_13,/audio_data/private_test/đông_125_13.wav,k w w o-4 iz tʰ aː-4 ŋz n a-0 mz
+đông_126_14,/audio_data/private_test/đông_126_14.wav,eaː-1 ŋ̟z k ə-0 iz ɓ ɓ aː-1 t͡ɕ ɨə-4 kz k aː-1 ŋz t͡ɕ ɨə-4 ŋz t͡ɕ t͡ɕ ɔ-5
+đông_127_14,/audio_data/private_test/đông_127_14.wav,s ə-0 ŋ̟z ɲ ɨə-1 nz s i-0 ɗ ɛ-5 pz
+đông_128_14,/audio_data/private_test/đông_128_14.wav,ŋz ɨə-4 kz m əː-0 k aː-0 uz ɗ ɛ-5 pz
+đông_129_14,/audio_data/private_test/đông_129_14.wav,ɛ-0 mz tʰ i-4 k̟z h w w aː-0 m aː-0 iz iz ɲ ə-4 tz
+đông_12_3,/audio_data/private_test/đông_12_3.wav,k a-5 pz pz s eaː-4 k̟z k ɔ-4 m a-1 uz s eaː-0 ŋ̟z z ə-4 tz ɗ ɛ-5 pz
+đông_130_14,/audio_data/private_test/đông_130_14.wav,ɣ ə-4 uz ɓ o-0 ŋmz ɗ ɛ-5 pz k k w w
+đông_131_14,/audio_data/private_test/đông_131_14.wav,ɣ ɔ-4 kpz h ɔ-5 kpz t ə-5 pz t a-0 m a-4 nz
+đông_132_14,/audio_data/private_test/đông_132_14.wav,p aː-0 t͡ɕ t͡ɕ ɔ-0 ɓ ɛ-4
+đông_133_14,/audio_data/private_test/đông_133_14.wav,ŋz m u-4 iz
+đông_134_14,/audio_data/private_test/đông_134_14.wav,m i-1 ŋ̟z v e-1 k w w e-0 tʰ a-0 mz m o-0 ŋmz ɓ aː-1
+đông_135_14,/audio_data/private_test/đông_135_14.wav,v t͡ɕ ɨə-0 z ɔ-4 m m aː-4 tz
+đông_13_3,/audio_data/private_test/đông_13_3.wav,k o-4 kpz n ɨə-4 kz k ɔ-4 ɗ a-1 uz t͡ɕ a-4 ŋz z ə-4 tz ɗ a-1 uz
+đông_14_3,/audio_data/private_test/đông_14_3.wav,t o-0 iz l aː-1 k aː-0 s i-2 n o-3 iz t iə-4 ŋz
+đông_15_3,/audio_data/private_test/đông_15_3.wav,t o-0 iz m o-4 nz k ɔ-4 m o-5 tz k w w o-4 nz s eaː-5 nz
+đông_16_3,/audio_data/private_test/đông_16_3.wav,ɲ ɔ-0 nz ɔ-0 ŋmz tʰ ə-5 tz l aː-1 t͡ɕ a-0 mz t͡ɕ i-3
+đông_17_3,/audio_data/private_test/đông_17_3.wav,s aː-0 nz h ɔ-4 m w w w i-1 nz z ə-4 tz tʰ əː-0 mz
+đông_18_3,/audio_data/private_test/đông_18_3.wav,aː-4 iz t u-3 k l aː-1 iz k aː-4 z u-1 ŋmz ɗ u-3 l aː-1 mz mz z z
+đông_19_3,/audio_data/private_test/đông_19_3.wav,s e-0 uz ɲ ə-0 nz ɣ ə-4 uz uz ɓ o-0 ŋmz
+đông_1_1,/audio_data/private_test/đông_1_1.wav,l aː-1 mz ɣ i-1 ɗ a-4 iz iz
+đông_20_3,/audio_data/private_test/đông_20_3.wav,k aː-4 iz n o-1 iz ɗ m ɛ-5 n ə-4 uz uz k eaː-0 ŋ̟z
+đông_23_4,/audio_data/private_test/đông_23_4.wav,tʰ o-0 h a-0 iz l aː-1 s ɨ-4 s a-4 uz
+đông_24_4,/audio_data/private_test/đông_24_4.wav,iz z əː-1 mz s a-4 uz t əː-1
+đông_25_4,/audio_data/private_test/đông_25_4.wav,t͡ɕ ɨə-1 ŋz o-3 iz t͡ɕ ɨə-0 ɛ-0 mz ɓ əː-0 mz w əː-0 nz k əː-0 mz əː-0 t͡ɕ ɨə-1 ŋz
+đông_26_5,/audio_data/private_test/đông_26_5.wav,v i-0 k w w aː-4
+đông_27_5,/audio_data/private_test/đông_27_5.wav,ɨə-4 iz tʰ əː-0 mz k w w aː-4
+đông_28_5,/audio_data/private_test/đông_28_5.wav,k ɔ-4 k u-3 h aː-0 iz l aː-0 ŋz
+đông_29_5,/audio_data/private_test/đông_29_5.wav,m o-5 tz t͡ɕ iə-4 tz l aː-4 z əː-0 iz
+đông_2_1,/audio_data/private_test/đông_2_1.wav,ɓ o-0 ŋmz k u-4 kpz k a-4 mz n a-4 ŋz m a-5 tz t͡ɕ əː-1 iz iz
+đông_30_5,/audio_data/private_test/đông_30_5.wav,ə-0 uz ɲ iə-1 uz tʰ e-4
+đông_31_5,/audio_data/private_test/đông_31_5.wav,k aː-4 x o-0 ŋmz a-0 iz m o-4 iz k aː-4 w ɨə-0 nz
+đông_32_5,/audio_data/private_test/đông_32_5.wav,t͡ɕ o-3 iz ɗ e-3 k w w ɛ-4 tz ɲ aː-1
+đông_33_5,/audio_data/private_test/đông_33_5.wav,ɓ aː-1 k ɔ-4 x w ɛ-3 x o-0 ŋmz aː-0
+đông_34_5,/audio_data/private_test/đông_34_5.wav,k aː-4 nz iə-0 uz o-0 k aː-4 aː-4
+đông_35_5,/audio_data/private_test/đông_35_5.wav,iə-0 uz ɲ ə-0 uz k w o-1 ŋmz f w ɔ-0 ŋmz
+đông_36_6,/audio_data/private_test/đông_36_6.wav,ɣ ə-4 uz uz k ɔ-0 nz k aː-3 mz mz əː-0 nz ɓ aː-4 kz v ɔ-0 iz
+đông_37_6,/audio_data/private_test/đông_37_6.wav,h eaː-0 ŋ̟z ɓ iə-3 nz k aː-3
+đông_38_6,/audio_data/private_test/đông_38_6.wav,k ɔ-0 nz z aː-0 v ɨə-1 nz h aː-4 iz k aː-4 uz
+đông_39_6,/audio_data/private_test/đông_39_6.wav,ɣ ə-4 uz uz k ɔ-0 nz ɓ ɨ-0 ŋz t aː-4 uz m əː-1 iz iz ɓ o-4 m ɛ-5
+đông_3_1,/audio_data/private_test/đông_3_1.wav,z əː-4 iz tʰ iə-0 nz ɲ iə-0 nz tʰ ə-5 tz ɗ ɛ-5 pz
+đông_40_6,/audio_data/private_test/đông_40_6.wav,m ɛ-5 l aː-1 ŋ ɨə-1 iz h u-5 nz n ɨ-2 f iə-1 nz z i-5 uz
+đông_41_6,/audio_data/private_test/đông_41_6.wav,ɓ ɛ-4 ɗ aː-0 mz n aː-0 mz ŋ u-3
+đông_42_6,/audio_data/private_test/đông_42_6.wav,ɓ ɔ-1 ŋmz ɗ i-0 t͡ɕ əː-5 iz t͡ɕ əː-1 iz m ɨə-0
+đông_43_6,/audio_data/private_test/đông_43_6.wav,x o-0 ŋmz ŋ ɔ-0 nz nz
+đông_44_6,/audio_data/private_test/đông_44_6.wav,aː-4 mz x aː-4 ŋz ɓ aː-0 ŋ̟z ɗ e-5
+đông_45_6,/audio_data/private_test/đông_45_6.wav,aː-5 m ɛ-5 ɗ aː-0 ŋz l a-0 uz uz s aː-1 nz ɲ aː-1
+đông_46_7,/audio_data/private_test/đông_46_7.wav,n u-5 ɓ o-0 nz t͡ɕ e-0 nz ɓ aː-1 nz t a-0 iz
+đông_47_7,/audio_data/private_test/đông_47_7.wav,t͡ɕ əː-1 iz n o-3 iz z ɔ-4 t ɔ-0
+đông_48_7,/audio_data/private_test/đông_48_7.wav,k ə-0 iz l iə-2 uz x o-0 ŋmz ŋ ɨ-1 ŋz l a-4 kz l ɨ-0
+đông_49_7,/audio_data/private_test/đông_49_7.wav,ŋ̟z l iə-4 tz ɓ a-0 iz ɓ eaː-1 uz
+đông_4_1,/audio_data/private_test/đông_4_1.wav,t iə-4 ŋz ɗ o-5 ŋmz ɣ i-1 l aː-5 l a-4 mz
+đông_50_7,/audio_data/private_test/đông_50_7.wav,h h o-0 mz n a-0 iz t͡ɕ əː-1 iz l eaː-5 ŋ̟z k w w w aː-4
+đông_51_7,/audio_data/private_test/đông_51_7.wav,ɓ o-4 l aː-1 mz ɣ i-1 k u-2 ŋmz x ɛ-4 uz l ɛ-4 uz
+đông_52_7,/audio_data/private_test/đông_52_7.wav,t e-4 tz t ɔ-4 kpz t͡ɕ ɔ-0 ɛ-0 mz
+đông_53_7,/audio_data/private_test/đông_53_7.wav,f i-0 ɲ eaː-0 ŋ̟z ɲ ɨ-0 ɓ a-0 iz
+đông_54_7,/audio_data/private_test/đông_54_7.wav,s ɛ-2 iz iz ŋ ɔ-4 tʰ ɨə-3 ŋz ŋz
+đông_55_7,/audio_data/private_test/đông_55_7.wav,t͡ɕ iə-4 kz z e-2 ɗ ɗ aː-0 t͡ɕ ɔ-1 nz
+đông_56_7,/audio_data/private_test/đông_56_7.wav,ɓ ə-1 uz t͡ɕ əː-1 iz s eaː-0 ŋ̟z tʰ a-0 mz tʰ a-3 mz
+đông_57_7,/audio_data/private_test/đông_57_7.wav,t o-0 iz ɗ ɨə-0 m eaː-3 ŋ̟z m eaː-3 ŋ̟z z ə-4 iz t͡ɕ ɔ-0 ŋ ɨə-1 iz m ɛ-5
+đông_58_7,/audio_data/private_test/đông_58_7.wav,o-0 ŋmz s ɛ-0 mz v aː-1 k a-0 uz m a-1 iz
+đông_59_7,/audio_data/private_test/đông_59_7.wav,ɣ aː-1 t͡ɕ o-4 ŋmz ɓ a-0 iz l e-0 nz
+đông_5_1,/audio_data/private_test/đông_5_1.wav,s ə-0 uz h o-3 ɛ-4 m a-4 tz ɲ i-1 nz
+đông_60_7,/audio_data/private_test/đông_60_7.wav,ɓ ɛ-4 ɗ ɨə-0 ɨə-0 m a-4 tz ɲ i-1 nz k w w eaː-0 ŋ̟z
+đông_61_8,/audio_data/private_test/đông_61_8.wav,k ɔ-0 nz ŋ u-3 ŋ ɔ-0 nz
+đông_62_8,/audio_data/private_test/đông_62_8.wav,k ɔ-0 nz
+đông_63_8,/audio_data/private_test/đông_63_8.wav,tʰ aː-3 z ə-4 tz iə-0 uz k w w w e-0 h ɨə-0 ŋz m i-1 ŋ̟z
+đông_64_8,/audio_data/private_test/đông_64_8.wav,k k əː-0 uz m ɨə-0 z aː-1 uz k ɛ-4 uz ɗ e-4 nz
+đông_65_8,/audio_data/private_test/đông_65_8.wav,t͡ɕ əː-1 iz ŋ a-1 iz k aː-1 ŋz l eaː-5 ŋ̟z h əː-0 nz
+đông_66_8,/audio_data/private_test/đông_66_8.wav,l ə-0 iz m uə-1 tʰ u-0
+đông_67_8,/audio_data/private_test/đông_67_8.wav,ɲ i-4 mz k ɔ-0 nz v o-0 k u-1 ŋmz ɲ aː-5 kz ɲ iə-0 nz
+đông_68_8,/audio_data/private_test/đông_68_8.wav,ɓ ɓ aː-5 nz l aː-1 nz ɣ i-1
+đông_69_8,/audio_data/private_test/đông_69_8.wav,k o-4 iz iz ə-0 mz t u-1
+đông_6_2,/audio_data/private_test/đông_6_2.wav,m ɛ-5 m əː-4 iz m uə-0 o-0 t o-0
+đông_70_8,/audio_data/private_test/đông_70_8.wav,ɔ-0 ŋmz t͡ɕ t͡ɕ uə-4 ɓ a-0 iz v e-1 t o-3
+đông_71_9,/audio_data/private_test/đông_71_9.wav,k e-0 h w e-4 tz ŋ ɔ-5 tz t͡ɕ u-1 ŋz x e-4 l aː-1 ŋz
+đông_72_9,/audio_data/private_test/đông_72_9.wav,t͡ɕ u-0 iz m aː-4 tz m ɛ-3
+đông_74_9,/audio_data/private_test/đông_74_9.wav,l aː-1 uz t iə-5 tz tz z iə-5 uz uz
+đông_75_9,/audio_data/private_test/đông_75_9.wav,mz ɛ-0 mz ɓ ɛ-4 ɗ aː-2 ŋz ŋ w w a-0 nz ŋ aː-2 a-0 nz k əː-0 mz
+đông_77_9,/audio_data/private_test/đông_77_9.wav,t͡ɕ i-0 v aː-1 uz tʰ aː-0 mz h w ɨə-1 nz h aː-0
+đông_78_9,/audio_data/private_test/đông_78_9.wav,ɓ aː-5 nz ɲ ɔ-3 tʰ aː-3 z iə-1 nz t͡ɕ e-0 ŋmz k eaː-4 nz ɗ o-1 uz
+đông_79_9,/audio_data/private_test/đông_79_9.wav,ɗ ɛ-0 ŋz k ɔ-0 nz ɗ a-0 nz ɓ a-0 iz k w aː-0 s aː-0 ŋmz
+đông_7_2,/audio_data/private_test/đông_7_2.wav,ɛ-0 mz ɗ aː-0 ŋz a-0 nz k əː-0 mz
+đông_80_9,/audio_data/private_test/đông_80_9.wav,ɔ-1 s eaː-0 ŋ̟z l a-4 mz a-4
+đông_81_10,/audio_data/private_test/đông_81_10.wav,t͡ɕ o-5 tz l ɨə-5 kz z ə-4 tz tz ɗ ɗ ɛ-5 pz
+đông_82_10,/audio_data/private_test/đông_82_10.wav,tʰ ɔ-3 k ɔ-0 nz ɲ i-1 nz k aː-4 uz
+đông_83_10,/audio_data/private_test/đông_83_10.wav,k aː-4 kz ɓ aː-5 nz k ɔ-4 nz k w o-0 nz z ɛ-1 nz m ɛ-1 nz x o-0 ŋmz
+đông_84_10,/audio_data/private_test/đông_84_10.wav,t ə-5 pz ɗ ɔ-5 kpz
+đông_85_10,/audio_data/private_test/đông_85_10.wav,t o-0 iz iz t͡ɕ əː-3 v e-1 k w w w e-0 h ɨə-0 ŋz
+đông_86_10,/audio_data/private_test/đông_86_10.wav,ɗ ɨə-1 ŋz v e-1 s aː-0 l a-4 kz s aː-0 v aː-0
+đông_87_10,/audio_data/private_test/đông_87_10.wav,t o-0 iz ɗ e-4 nz tʰ a-0 mz eaː-0 ŋ̟z h aː-0 iz tʰ o-0 iz iz
+đông_88_10,/audio_data/private_test/đông_88_10.wav,iə-0 mz iə-0 uz ŋ o-0 iz ɲ aː-1 k uə-3 ɛ-0 mz
+đông_89_10,/audio_data/private_test/đông_89_10.wav,iə-0 uz t͡ɕ iə-4 ŋz i-0 mz
+đông_8_2,/audio_data/private_test/đông_8_2.wav,t ə-4 tz v w w w i-0 v ɛ-3 ɛ-3
+đông_90_10,/audio_data/private_test/đông_90_10.wav,m ɛ-1 ɗ e-4 nz z o-1 iz
+đông_91_10,/audio_data/private_test/đông_91_10.wav,o-0 ŋmz əː-0 iz iz o-0 ŋmz k ɔ-4 x w ɛ-3 x o-0 ŋmz
+đông_92_10,/audio_data/private_test/đông_92_10.wav,ɗ u-4 ŋmz l ɔ-4 kpz ɗ ɔ-4 t͡ɕ əː-1 iz ɗ o-3 m ɨə-0
+đông_93_10,/audio_data/private_test/đông_93_10.wav,ɓ o-4 m ɛ-5 z u-4 k ɔ-0 nz t͡ɕ w ə-3 nz ɓ i-5 pz ɲ ɛ-4
+đông_94_10,/audio_data/private_test/đông_94_10.wav,ɲ ɨə-0 ɨə-0 t͡ɕ o-0 ŋmz tʰ ə-5 tz l aː-1 ɗ ɛ-5 pz
+đông_95_10,/audio_data/private_test/đông_95_10.wav,s ɔ-4 ŋz ɗ aː-1 ɗ o-1 ŋz z o-5 ŋz l aː-1 mz k ə-0 iz s w ɔ-4 ŋmz ŋz
+đông_96_11,/audio_data/private_test/đông_96_11.wav,t͡ɕ aː-0 ŋz t͡ɕ u-0 tʰ u-4 ŋz h e-1 l a-4 mz
+đông_97_11,/audio_data/private_test/đông_97_11.wav,k ɔ-0 nz m ɛ-1 uz l o-0 ŋmz v aː-1 ŋz ɔ-4 ŋmz
+đông_98_11,/audio_data/private_test/đông_98_11.wav,k w w e-0 t əː-4 əː-0 h aː-3 iz f ɔ-1 ŋmz
+đông_99_11,/audio_data/private_test/đông_99_11.wav,v ɨə-1 nz k ə-0 iz iz t͡ɕ ə-0 mz ɗ ə-3 iz iz l o-5 kpz
+đông_9_2,/audio_data/private_test/đông_9_2.wav,m iz z w əː-0 mz k ə-4 tz tʰ ɔ-4 z əː-0 mz
