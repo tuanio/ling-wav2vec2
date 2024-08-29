@@ -1,7 +1,7 @@
 # LingWav2Vec2: Linguistic-augmented wav2vec 2.0 for Vietnamese Mispronunciation Detection
 
 <picture>
-  <img alt="LingWav2Vec2" src="https://firebasestorage.googleapis.com/v0/b/database-7ca5c.appspot.com/o/lingwav2vec2%2Flingwav2vec_pic.png?alt=media&token=b690c6e9-9a7c-4858-a859-ef0880180c73" width="100%">
+  <img alt="LingWav2Vec2" src="https://firebasestorage.googleapis.com/v0/b/database-7ca5c.appspot.com/o/lingwav2vec2%2FScreenshot%202024-08-29%20at%2010.23.19%E2%80%AFAM.png?alt=media&token=06eb2897-05bc-4c42-956a-478f83e9701b" width="100%">
 </picture>
 
 ## Overview
