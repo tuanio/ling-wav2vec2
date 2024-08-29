@@ -33,7 +33,7 @@ args = parser.parse_args()
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
-login(token="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")
+login(token="<hf_token>")
 
 SAMPLING_RATE = 16000
 
