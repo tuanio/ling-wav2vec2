@@ -1,5 +1,9 @@
 # LingWav2Vec2: Linguistic-augmented wav2vec 2.0 for Vietnamese Mispronunciation Detection
 
+<picture>
+  <img alt="LingWav2Vec2" src="https://github.com/yourusername/yourrepository/raw/main/images/poster_light.png" width="100%">
+</picture>
+
 ## Overview
 LingWav2Vec2 is a novel approach for Vietnamese mispronunciation detection, combining a pre-trained wav2vec 2.0 model with a linguistic encoder. This project achieved top rank in the Vietnamese Mispronunciation Detection (VMD) challenge at VLSP 2023.
 
