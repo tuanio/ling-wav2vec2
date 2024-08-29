@@ -1,40 +1,41 @@
-fine-w2v2base-bs8-ep300-lr2e-5-non_freeze-lr_cosine-non_freeze-spec_aug
-- follow TIMIT in wav2vec2.0 paper for 40k steps update (400 epoch)
-    mask_time_prob=0.065,
-    mask_time_length=10,
-    mask_feature_prob=0.012,
-    mask_feature_length=64
+# LingWav2Vec2: Linguistic-augmented wav2vec 2.0 for Vietnamese Mispronunciation Detection
 
-# Experiment steps
-1. Finetune freeze CNN on 95% data
-2. Finetune non-freeze on 95% data
-3. Finetune non-freeze on 100% data with spec augment (TIMIT config in wav2vec2.0)
-4. Let's see :))) maybe edit wav2vec2 loss by calculating CTC Loss on tonal and text also 
+## Overview
+LingWav2Vec2 is a novel approach for Vietnamese mispronunciation detection, combining a pre-trained wav2vec 2.0 model with a linguistic encoder. This project achieved top rank in the Vietnamese Mispronunciation Detection (VMD) challenge at VLSP 2023.
 
-# 
+## Motivation
+- Improve Vietnamese mispronunciation detection and diagnosis (MD&D)
+- Address challenges in mispronunciation detection due to limited training data
+- Leverage both acoustic and linguistic information for a balanced approach
 
-default: no tonal, non_freeze, lr cosine
+## Key Features
+- Combines wav2vec 2.0 with a linguistic encoder
+- Processes raw audio input
+- Utilizes canonical phoneme information
+- Only 4.3M additional parameters on top of wav2vec 2.0
 
-Things to test:
-- The amount of SpecAug
-    - base from 0.075_10_0.004_64 (Best PER: 0.0908 - 9600)
-    - reduce to 0.05_10_0.004_20 (Best PER: {} - {})
-    - increase to 0.075_10_0.012_64 
-    => When watching the loss, increase SpecAug policy make the model works better
-- Batch size:
-    - 8 (get from best above)
-    - 32
-- LayerNorm / RMSNorm
-    - 
-- LR Cosine / LR Linear
-- Focal loss 
-    alpha: 0.99 | 0.75 | 0.5 | 0.25 (3)
-    gamma: 0.5 | 1 | 2 ( 3 | 5)
-    + to test for focal loss:
-        + spec aug policy: 0.05_10_0.004_40
-        + speed perturb
-        + epoch 100
-        + batch size 16
-        + lr 2e-5
-        + warmup 0.1, cosine decay
-    => best: alpha = 0.99, gamma = 2
+## Results
+- Achieved top-rank on VLSP private test leaderboard
+- F1-score of 59.68%, a 9.72% improvement over previous state-of-the-art
+- Outperformed more complex models (e.g., TextGateContrast) with fewer parameters
+- Balanced use of canonical linguistic information (27.63% relative difference in accuracy)
+
+## Ablation Study
+- Non-freezing wav2vec 2.0 CNN layers yielded optimal results
+- SpecAugment with specific parameters achieved best F1-score
+- Linguistic Encoder significantly boosted performance
+
+## Future Work
+- Explore MD&D-specific data augmentation
+- Investigate impact of pitch information on Vietnamese mispronunciation detection
+
+## Citation
+If you use this work, please cite our paper.
+
+## Contact
+For questions or collaborations, please contact:
+- Tuan Nguyen (Institute for Infocomm Research (I²R), A*STAR, Singapore - nvatuan3@gmail.com)
+- Huy Dat Tran (Institute for Infocomm Research (I²R), A*STAR, Singapore).
+
+## Acknowledgements
+This work will be poster presented at INTERSPEECH 2024.
