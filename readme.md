@@ -43,6 +43,18 @@ LingWav2Vec2 is a novel approach for Vietnamese mispronunciation detection, comb
 ## Citation
 If you use this work, please cite our paper.
 
+```
+@inproceedings{nguyen24b_interspeech,
+  title     = {LingWav2Vec2: Linguistic-augmented wav2vec 2.0 for Vietnamese Mispronunciation Detection},
+  author    = {Tuan Nguyen and Huy Dat Tran},
+  year      = {2024},
+  booktitle = {Interspeech 2024},
+  pages     = {2355--2359},
+  doi       = {10.21437/Interspeech.2024-1569},
+  issn      = {2958-1796},
+}
+```
+
 ## Contact
 For questions or collaborations, please contact:
 - Tuan Nguyen (Institute for Infocomm Research (I²R), A*STAR, Singapore - nvatuan3@gmail.com)
