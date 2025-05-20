@@ -31,6 +31,18 @@ LingWav2Vec2 is a novel approach for Vietnamese mispronunciation detection, comb
 - Outperformed more complex models (e.g., TextGateContrast) with fewer parameters
 - Balanced use of canonical linguistic information (27.63% relative difference in accuracy)
 
+### 🏆 Competition Results on Private Test
+
+| # | Team Name | F1 | Precision | Recall |
+|---|-----------|----|-----------| ------|
+| 1 | LossKhongGiam (our) | 57.55 | 55.52 | 59.73 |
+| 2 | SpeechHust98 | 55.19 | 41.37 | 82.86 |
+| 3 | DaNangNLP | 52.02 | 38.34 | 80.89 |
+| 4 | TruongNguyen | 49.27 | 34.51 | 86.07 |
+| 5 | TranTuanBinh | 14.90 | 12.88 | 17.68 |
+
+Our team "LossKhongGiam" achieved the highest F1 score and precision metrics, demonstrating the effectiveness of this toolkit in real-world competitive scenarios.# ASR-Toolkit
+
 ## Ablation Study
 - Non-freezing wav2vec 2.0 CNN layers yielded optimal results
 - SpecAugment with specific parameters achieved best F1-score
