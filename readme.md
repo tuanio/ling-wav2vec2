@@ -5,7 +5,7 @@
 [![Python 3.7](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-Lightning-orange.svg)](https://www.pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://img.shields.io/badge/DOI-10.21437%Interspeech.2024-1569-blue)](https://doi.org/10.21437/Interspeech.2024-1569)
+[![DOI](https://img.shields.io/badge/DOI-10.21437%2FInterspeech.2024-1569-blue)](https://doi.org/10.21437/Interspeech.2024-1569)
 
 <picture>
   <img alt="LingWav2Vec2" src="https://firebasestorage.googleapis.com/v0/b/database-7ca5c.appspot.com/o/lingwav2vec2%2FScreenshot%202024-08-29%20at%2010.23.19%E2%80%AFAM.png?alt=media&token=06eb2897-05bc-4c42-956a-478f83e9701b" width="100%">
