@@ -1,5 +1,12 @@
 # LingWav2Vec2: Linguistic-augmented wav2vec 2.0 for Vietnamese Mispronunciation Detection
 
+[![Stars](https://img.shields.io/github/stars/tuanio/ling-wav2vec2?style=social)](https://github.com/tuanio/ling-wav2vec2/stargazers)
+[![Fork](https://img.shields.io/github/forks/tuanio/ling-wav2vec2?style=social)](https://github.com/tuanio/ling-wav2vec2/network/members)
+[![Python 3.7](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Lightning-orange.svg)](https://www.pytorch.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://img.shields.io/badge/DOI-10.21437%Interspeech.2024-1569__53-blue)](https://doi.org/10.21437/Interspeech.2024-1569)
+
 <picture>
   <img alt="LingWav2Vec2" src="https://firebasestorage.googleapis.com/v0/b/database-7ca5c.appspot.com/o/lingwav2vec2%2FScreenshot%202024-08-29%20at%2010.23.19%E2%80%AFAM.png?alt=media&token=06eb2897-05bc-4c42-956a-478f83e9701b" width="100%">
 </picture>
