@@ -78,4 +78,4 @@ This work will be poster presented at INTERSPEECH 2024.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=tuanio/ling-wav2vec&type=Date)](https://star-history.com/#tuanio/ling-wav2vec&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=tuanio/ling-wav2vec2&type=Date)](https://star-history.com/#tuanio/ling-wav2vec2&Date)
